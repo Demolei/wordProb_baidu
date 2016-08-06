@@ -6,7 +6,7 @@ def read_file(filename, select = 1):
   data = []
   for line in fp:
     if select == 0:
-      line = line[line.find('.')+1 : ]  
+      line = line[line.find('.')+1 : line.find('\r')] +'\n' 
     data.append(line)
   return data
 

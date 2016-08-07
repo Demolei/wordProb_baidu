@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="有15棵白菜,吃了5棵,还有几棵?">
+                <word id="0" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A1" beg="1" end="3" />
+                </word>
+                <word id="1" cont="15" pos="m" ne="O" parent="2" relate="ATT" semparent="2" semrelate="Quan" />
+                <word id="2" cont="棵" pos="q" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Qp" />
+                <word id="3" cont="白菜" pos="n" ne="O" parent="0" relate="VOB" semparent="0" semrelate="Exp" />
+                <word id="4" cont="," pos="wp" ne="O" parent="0" relate="WP" semparent="0" semrelate="mPunc" />
+                <word id="5" cont="吃" pos="v" ne="O" parent="0" relate="COO" semparent="0" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="7" end="7" />
+                </word>
+                <word id="6" cont="了" pos="u" ne="O" parent="5" relate="RAD" semparent="5" semrelate="mTime" />
+                <word id="7" cont="5" pos="m" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Quan" />
+                <word id="8" cont="棵" pos="q" ne="O" parent="5" relate="VOB" semparent="5" semrelate="Qp" />
+                <word id="9" cont="," pos="wp" ne="O" parent="5" relate="WP" semparent="5" semrelate="mPunc" />
+                <word id="10" cont="还有" pos="v" ne="O" parent="0" relate="COO" semparent="12" semrelate="mConj" />
+                <word id="11" cont="几" pos="m" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="棵" pos="q" ne="O" parent="10" relate="VOB" semparent="5" semrelate="eCoo" />
+                <word id="13" cont="?" pos="wp" ne="O" parent="0" relate="WP" semparent="12" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

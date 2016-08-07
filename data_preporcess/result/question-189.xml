@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小红收集了7枚猴年邮票,2枚鸡年邮票,给小明1枚鸡年邮票,一共还剩多少邮票?">
+                <word id="0" cont="小" pos="a" ne="B-Nh" parent="1" relate="ATT" semparent="1" semrelate="Feat" />
+                <word id="1" cont="红" pos="a" ne="E-Nh" parent="2" relate="SBV" semparent="2" semrelate="Mann" />
+                <word id="2" cont="收集" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A1" beg="4" end="7" />
+                </word>
+                <word id="3" cont="了" pos="u" ne="O" parent="2" relate="RAD" semparent="2" semrelate="mTime" />
+                <word id="4" cont="7" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Quan" />
+                <word id="5" cont="枚" pos="q" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Qp" />
+                <word id="6" cont="猴年" pos="n" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Feat" />
+                <word id="7" cont="邮票" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Cont" />
+                <word id="8" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="9" cont="2" pos="m" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Quan" />
+                <word id="10" cont="枚" pos="q" ne="O" parent="13" relate="ATT" semparent="13" semrelate="Qp" />
+                <word id="11" cont="鸡" pos="n" ne="O" parent="12" relate="ATT" semparent="13" semrelate="Poss" />
+                <word id="12" cont="年" pos="q" ne="O" parent="13" relate="ATT" semparent="13" semrelate="Qp" />
+                <word id="13" cont="邮票" pos="n" ne="O" parent="15" relate="SBV" semparent="25" semrelate="Exp" />
+                <word id="14" cont="," pos="wp" ne="O" parent="13" relate="WP" semparent="13" semrelate="mPunc" />
+                <word id="15" cont="给" pos="p" ne="O" parent="2" relate="COO" semparent="16" semrelate="mPrep">
+                    <arg id="0" type="A2" beg="16" end="16" />
+                    <arg id="1" type="A1" beg="17" end="21" />
+                </word>
+                <word id="16" cont="小明" pos="nh" ne="S-Nh" parent="15" relate="IOB" semparent="25" semrelate="Datv" />
+                <word id="17" cont="1" pos="m" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Quan" />
+                <word id="18" cont="枚" pos="q" ne="O" parent="21" relate="ATT" semparent="19" semrelate="Qp" />
+                <word id="19" cont="鸡" pos="n" ne="O" parent="20" relate="ATT" semparent="21" semrelate="Poss" />
+                <word id="20" cont="年" pos="q" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Proc" />
+                <word id="21" cont="邮票" pos="n" ne="O" parent="15" relate="VOB" semparent="16" semrelate="Pat" />
+                <word id="22" cont="," pos="wp" ne="O" parent="15" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="23" cont="一共" pos="d" ne="O" parent="25" relate="ADV" semparent="25" semrelate="Exp" />
+                <word id="24" cont="还" pos="d" ne="O" parent="25" relate="ADV" semparent="25" semrelate="mMod" />
+                <word id="25" cont="剩" pos="v" ne="O" parent="15" relate="COO" semparent="2" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="23" end="23" />
+                    <arg id="1" type="ADV" beg="24" end="24" />
+                    <arg id="2" type="A1" beg="26" end="27" />
+                </word>
+                <word id="26" cont="多少" pos="r" ne="O" parent="27" relate="ATT" semparent="27" semrelate="Quan" />
+                <word id="27" cont="邮票" pos="n" ne="O" parent="25" relate="VOB" semparent="25" semrelate="Cont" />
+                <word id="28" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="25" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

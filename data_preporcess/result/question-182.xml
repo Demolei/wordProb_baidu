@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="淘气今年8岁,叔叔比淘气大9岁,阿姨比叔叔小9岁,阿姨今年多少岁?">
+                <word id="0" cont="淘气" pos="a" ne="O" parent="3" relate="SBV" semparent="1" semrelate="Feat" />
+                <word id="1" cont="今年" pos="nt" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Time" />
+                <word id="2" cont="8" pos="m" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Quan" />
+                <word id="3" cont="岁" pos="q" ne="O" parent="-1" relate="HED" semparent="10" semrelate="Time" />
+                <word id="4" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="3" semrelate="mPunc" />
+                <word id="5" cont="叔叔" pos="n" ne="O" parent="16" relate="SBV" semparent="10" semrelate="Exp" />
+                <word id="6" cont="比" pos="p" ne="O" parent="16" relate="ADV" semparent="10" semrelate="mPrep" />
+                <word id="7" cont="淘气" pos="a" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Feat" />
+                <word id="8" cont="大" pos="a" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Feat" />
+                <word id="9" cont="9" pos="m" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Quan" />
+                <word id="10" cont="岁" pos="q" ne="O" parent="6" relate="POB" semparent="-1" semrelate="Root" />
+                <word id="11" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="10" semrelate="mPunc" />
+                <word id="12" cont="阿姨" pos="n" ne="O" parent="16" relate="SBV" semparent="15" semrelate="Exp" />
+                <word id="13" cont="比" pos="p" ne="O" parent="16" relate="ADV" semparent="14" semrelate="mPrep" />
+                <word id="14" cont="叔叔" pos="n" ne="O" parent="13" relate="POB" semparent="12" semrelate="Comp" />
+                <word id="15" cont="小9" pos="m" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Quan" />
+                <word id="16" cont="岁" pos="q" ne="O" parent="3" relate="COO" semparent="10" semrelate="eCoo" />
+                <word id="17" cont="," pos="wp" ne="O" parent="16" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="18" cont="阿姨" pos="n" ne="O" parent="21" relate="SBV" semparent="19" semrelate="Exp" />
+                <word id="19" cont="今年" pos="nt" ne="O" parent="21" relate="ADV" semparent="21" semrelate="Time" />
+                <word id="20" cont="多少" pos="r" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Quan" />
+                <word id="21" cont="岁" pos="q" ne="O" parent="16" relate="COO" semparent="16" semrelate="eCoo" />
+                <word id="22" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="21" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

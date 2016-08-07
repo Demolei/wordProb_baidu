@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="汽车里有41人,中途有13人下车,车上现在还有多少人?">
+                <word id="0" cont="汽车" pos="n" ne="O" parent="1" relate="ATT" semparent="2" semrelate="Loc" />
+                <word id="1" cont="里" pos="nd" ne="O" parent="2" relate="SBV" semparent="0" semrelate="mRang" />
+                <word id="2" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="1" />
+                    <arg id="1" type="A1" beg="3" end="4" />
+                </word>
+                <word id="3" cont="41" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Quan" />
+                <word id="4" cont="人" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Exp" />
+                <word id="5" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="6" cont="中途" pos="d" ne="O" parent="7" relate="ADV" semparent="2" semrelate="eSucc" />
+                <word id="7" cont="有" pos="v" ne="O" parent="2" relate="COO" semparent="6" semrelate="dCont">
+                    <arg id="0" type="ADV" beg="6" end="6" />
+                    <arg id="1" type="A1" beg="10" end="10" />
+                </word>
+                <word id="8" cont="13" pos="m" ne="O" parent="9" relate="ATT" semparent="9" semrelate="Quan" />
+                <word id="9" cont="人" pos="n" ne="O" parent="7" relate="DBL" semparent="7" semrelate="Exp" />
+                <word id="10" cont="下车" pos="v" ne="O" parent="7" relate="VOB" semparent="7" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="8" end="9" />
+                </word>
+                <word id="11" cont="," pos="wp" ne="O" parent="7" relate="WP" semparent="10" semrelate="mPunc" />
+                <word id="12" cont="车上" pos="nl" ne="O" parent="14" relate="ADV" semparent="14" semrelate="Exp" />
+                <word id="13" cont="现在" pos="nt" ne="O" parent="14" relate="ADV" semparent="14" semrelate="Time" />
+                <word id="14" cont="还有" pos="v" ne="O" parent="7" relate="COO" semparent="6" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="12" end="12" />
+                    <arg id="1" type="TMP" beg="13" end="13" />
+                    <arg id="2" type="A1" beg="15" end="16" />
+                </word>
+                <word id="15" cont="多少" pos="r" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Quan" />
+                <word id="16" cont="人" pos="n" ne="O" parent="14" relate="VOB" semparent="14" semrelate="Clas" />
+                <word id="17" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="14" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

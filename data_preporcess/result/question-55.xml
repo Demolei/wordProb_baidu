@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="有26个学生,又来了4个学生,问现在多少名学生?">
+                <word id="0" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A1" beg="1" end="3" />
+                </word>
+                <word id="1" cont="26" pos="m" ne="O" parent="2" relate="ATT" semparent="2" semrelate="Quan" />
+                <word id="2" cont="个" pos="q" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Qp" />
+                <word id="3" cont="学生" pos="n" ne="O" parent="0" relate="VOB" semparent="0" semrelate="Exp" />
+                <word id="4" cont="," pos="wp" ne="O" parent="0" relate="WP" semparent="0" semrelate="mPunc" />
+                <word id="5" cont="又" pos="d" ne="O" parent="6" relate="ADV" semparent="6" semrelate="mFreq" />
+                <word id="6" cont="来" pos="v" ne="O" parent="0" relate="COO" semparent="0" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="5" end="5" />
+                    <arg id="1" type="A1" beg="8" end="10" />
+                </word>
+                <word id="7" cont="了" pos="u" ne="O" parent="6" relate="RAD" semparent="6" semrelate="mTime" />
+                <word id="8" cont="4" pos="m" ne="O" parent="9" relate="ATT" semparent="9" semrelate="Quan" />
+                <word id="9" cont="个" pos="q" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Qp" />
+                <word id="10" cont="学生" pos="n" ne="O" parent="6" relate="VOB" semparent="6" semrelate="Pat" />
+                <word id="11" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="6" semrelate="mPunc" />
+                <word id="12" cont="问" pos="v" ne="O" parent="6" relate="COO" semparent="6" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="13" end="16" />
+                </word>
+                <word id="13" cont="现在" pos="nt" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Time" />
+                <word id="14" cont="多少" pos="r" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Quan" />
+                <word id="15" cont="名" pos="q" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Qp" />
+                <word id="16" cont="学生" pos="n" ne="O" parent="12" relate="VOB" semparent="12" semrelate="Datv" />
+                <word id="17" cont="?" pos="wp" ne="O" parent="0" relate="WP" semparent="12" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

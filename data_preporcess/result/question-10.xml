@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="新型电脑公司上午卖出19台电脑,下午比上午多卖出16台,下午卖出多少台电脑?">
+                <word id="0" cont="新型" pos="b" ne="B-Ni" parent="2" relate="ATT" semparent="2" semrelate="Feat" />
+                <word id="1" cont="电脑" pos="n" ne="I-Ni" parent="2" relate="ATT" semparent="2" semrelate="Feat" />
+                <word id="2" cont="公司" pos="n" ne="E-Ni" parent="4" relate="SBV" semparent="4" semrelate="Agt" />
+                <word id="3" cont="上午" pos="nt" ne="O" parent="4" relate="ADV" semparent="4" semrelate="Time" />
+                <word id="4" cont="卖" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="2" />
+                    <arg id="1" type="TMP" beg="3" end="3" />
+                    <arg id="2" type="A1" beg="6" end="8" />
+                </word>
+                <word id="5" cont="出" pos="v" ne="O" parent="4" relate="CMP" semparent="4" semrelate="mDir" />
+                <word id="6" cont="19" pos="m" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Quan" />
+                <word id="7" cont="台" pos="q" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Qp" />
+                <word id="8" cont="电脑" pos="n" ne="O" parent="4" relate="VOB" semparent="4" semrelate="Pat" />
+                <word id="9" cont="," pos="wp" ne="O" parent="4" relate="WP" semparent="4" semrelate="mPunc" />
+                <word id="10" cont="下午" pos="nt" ne="O" parent="14" relate="ADV" semparent="4" semrelate="ePurp" />
+                <word id="11" cont="比" pos="p" ne="O" parent="14" relate="ADV" semparent="12" semrelate="mPrep" />
+                <word id="12" cont="上午" pos="nt" ne="O" parent="11" relate="POB" semparent="10" semrelate="eCoo" />
+                <word id="13" cont="多" pos="d" ne="O" parent="14" relate="ADV" semparent="14" semrelate="Quan" />
+                <word id="14" cont="卖" pos="v" ne="O" parent="4" relate="COO" semparent="12" semrelate="eCoo">
+                    <arg id="0" type="TMP" beg="10" end="10" />
+                    <arg id="1" type="ADV" beg="13" end="13" />
+                    <arg id="2" type="C-A1" beg="16" end="16" />
+                </word>
+                <word id="15" cont="出" pos="v" ne="O" parent="14" relate="CMP" semparent="14" semrelate="mDir" />
+                <word id="16" cont="16" pos="m" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="台" pos="q" ne="O" parent="14" relate="VOB" semparent="14" semrelate="Qp" />
+                <word id="18" cont="," pos="wp" ne="O" parent="14" relate="WP" semparent="14" semrelate="mPunc" />
+                <word id="19" cont="下午" pos="nt" ne="O" parent="20" relate="ADV" semparent="20" semrelate="Time" />
+                <word id="20" cont="卖" pos="v" ne="O" parent="14" relate="COO" semparent="14" semrelate="eSucc">
+                    <arg id="0" type="TMP" beg="19" end="19" />
+                    <arg id="1" type="A1" beg="22" end="24" />
+                </word>
+                <word id="21" cont="出" pos="v" ne="O" parent="20" relate="CMP" semparent="20" semrelate="mDir" />
+                <word id="22" cont="多少" pos="r" ne="O" parent="23" relate="ATT" semparent="23" semrelate="Quan" />
+                <word id="23" cont="台" pos="q" ne="O" parent="24" relate="ATT" semparent="24" semrelate="Qp" />
+                <word id="24" cont="电脑" pos="n" ne="O" parent="20" relate="VOB" semparent="20" semrelate="Pat" />
+                <word id="25" cont="?" pos="wp" ne="O" parent="4" relate="WP" semparent="20" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

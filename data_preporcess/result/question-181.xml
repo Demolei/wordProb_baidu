@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="某银行办储蓄业务,存入258元,取出100元,存入1200元,请你计算一下,银行的现款增加了多少?">
+                <word id="0" cont="某" pos="r" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Sco" />
+                <word id="1" cont="银行" pos="n" ne="O" parent="2" relate="SBV" semparent="2" semrelate="Agt" />
+                <word id="2" cont="办" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="1" />
+                    <arg id="1" type="A1" beg="3" end="4" />
+                </word>
+                <word id="3" cont="储蓄" pos="v" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Feat" />
+                <word id="4" cont="业务" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Cont" />
+                <word id="5" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="6" cont="存入" pos="v" ne="O" parent="2" relate="COO" semparent="2" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="7" end="7" />
+                </word>
+                <word id="7" cont="258" pos="m" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Quan" />
+                <word id="8" cont="元" pos="q" ne="O" parent="6" relate="VOB" semparent="6" semrelate="Qp" />
+                <word id="9" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="6" semrelate="mPunc" />
+                <word id="10" cont="取出" pos="v" ne="O" parent="6" relate="COO" semparent="6" semrelate="eResu">
+                    <arg id="0" type="A1" beg="11" end="11" />
+                </word>
+                <word id="11" cont="100" pos="m" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="元" pos="q" ne="O" parent="10" relate="VOB" semparent="10" semrelate="Qp" />
+                <word id="13" cont="," pos="wp" ne="O" parent="10" relate="WP" semparent="10" semrelate="mPunc" />
+                <word id="14" cont="存入" pos="v" ne="O" parent="6" relate="COO" semparent="10" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="15" end="15" />
+                </word>
+                <word id="15" cont="1200" pos="m" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Quan" />
+                <word id="16" cont="元" pos="q" ne="O" parent="14" relate="VOB" semparent="14" semrelate="Qp" />
+                <word id="17" cont="," pos="wp" ne="O" parent="14" relate="WP" semparent="14" semrelate="mPunc" />
+                <word id="18" cont="请" pos="v" ne="O" parent="14" relate="COO" semparent="14" semrelate="ePurp">
+                    <arg id="0" type="A1" beg="19" end="19" />
+                    <arg id="1" type="A2" beg="20" end="28" />
+                </word>
+                <word id="19" cont="你" pos="r" ne="O" parent="18" relate="DBL" semparent="18" semrelate="Datv" />
+                <word id="20" cont="计算" pos="v" ne="O" parent="18" relate="VOB" semparent="26" semrelate="mPars" />
+                <word id="21" cont="一下" pos="m" ne="O" parent="20" relate="CMP" semparent="20" semrelate="mDegr" />
+                <word id="22" cont="," pos="wp" ne="O" parent="20" relate="WP" semparent="20" semrelate="mPunc" />
+                <word id="23" cont="银行" pos="n" ne="O" parent="25" relate="ATT" semparent="25" semrelate="Poss" />
+                <word id="24" cont="的" pos="u" ne="O" parent="23" relate="RAD" semparent="23" semrelate="mAux" />
+                <word id="25" cont="现款" pos="n" ne="O" parent="26" relate="SBV" semparent="26" semrelate="Exp" />
+                <word id="26" cont="增加" pos="v" ne="O" parent="20" relate="COO" semparent="18" semrelate="dCont">
+                    <arg id="0" type="A1" beg="23" end="25" />
+                    <arg id="1" type="A1" beg="28" end="28" />
+                </word>
+                <word id="27" cont="了" pos="u" ne="O" parent="26" relate="RAD" semparent="26" semrelate="mTime" />
+                <word id="28" cont="多少" pos="r" ne="O" parent="26" relate="VOB" semparent="26" semrelate="Quan" />
+                <word id="29" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="26" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

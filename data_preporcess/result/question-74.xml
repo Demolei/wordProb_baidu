@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="足球35元钱,乒乓球3元钱,想要卖这两样体育用品需要带多少元钱?">
+                <word id="0" cont="足球" pos="n" ne="O" parent="3" relate="ATT" semparent="2" semrelate="Agt" />
+                <word id="1" cont="35" pos="m" ne="O" parent="2" relate="ATT" semparent="2" semrelate="Quan" />
+                <word id="2" cont="元" pos="q" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Qp" />
+                <word id="3" cont="钱" pos="n" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root" />
+                <word id="4" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="3" semrelate="mPunc" />
+                <word id="5" cont="乒乓球" pos="n" ne="O" parent="8" relate="ATT" semparent="3" semrelate="eCoo" />
+                <word id="6" cont="3" pos="m" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Quan" />
+                <word id="7" cont="元" pos="q" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Qp" />
+                <word id="8" cont="钱" pos="n" ne="O" parent="3" relate="COO" semparent="5" semrelate="Pat" />
+                <word id="9" cont="," pos="wp" ne="O" parent="8" relate="WP" semparent="5" semrelate="mPunc" />
+                <word id="10" cont="想" pos="v" ne="O" parent="3" relate="COO" semparent="18" semrelate="mMod">
+                    <arg id="0" type="A1" beg="11" end="22" />
+                </word>
+                <word id="11" cont="要" pos="v" ne="O" parent="12" relate="ADV" semparent="12" semrelate="mMod" />
+                <word id="12" cont="卖" pos="v" ne="O" parent="10" relate="VOB" semparent="18" semrelate="dExp">
+                    <arg id="0" type="A1" beg="13" end="17" />
+                </word>
+                <word id="13" cont="这" pos="r" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Sco" />
+                <word id="14" cont="两" pos="m" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Quan" />
+                <word id="15" cont="样" pos="q" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Qp" />
+                <word id="16" cont="体育" pos="n" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Feat" />
+                <word id="17" cont="用品" pos="n" ne="O" parent="12" relate="VOB" semparent="12" semrelate="Pat" />
+                <word id="18" cont="需要" pos="v" ne="O" parent="12" relate="COO" semparent="5" semrelate="eSucc" />
+                <word id="19" cont="带" pos="v" ne="O" parent="18" relate="VOB" semparent="18" semrelate="dCont">
+                    <arg id="0" type="A1" beg="20" end="22" />
+                </word>
+                <word id="20" cont="多少" pos="r" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Quan" />
+                <word id="21" cont="元" pos="q" ne="O" parent="22" relate="ATT" semparent="22" semrelate="Qp" />
+                <word id="22" cont="钱" pos="n" ne="O" parent="19" relate="VOB" semparent="19" semrelate="Cont" />
+                <word id="23" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="18" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

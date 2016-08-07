@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小朋友已经搬来了20把椅子,还要再搬15把椅子,一共要搬多少把椅子?">
+                <word id="0" cont="小朋友" pos="n" ne="O" parent="2" relate="SBV" semparent="2" semrelate="Agt" />
+                <word id="1" cont="已经" pos="d" ne="O" parent="2" relate="ADV" semparent="2" semrelate="mTime" />
+                <word id="2" cont="搬" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="ADV" beg="1" end="1" />
+                    <arg id="2" type="A1" beg="5" end="7" />
+                </word>
+                <word id="3" cont="来" pos="v" ne="O" parent="2" relate="CMP" semparent="2" semrelate="mDir">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                </word>
+                <word id="4" cont="了" pos="u" ne="O" parent="3" relate="RAD" semparent="2" semrelate="mTime" />
+                <word id="5" cont="20" pos="m" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Quan" />
+                <word id="6" cont="把" pos="q" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Qp" />
+                <word id="7" cont="椅子" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Pat" />
+                <word id="8" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="9" cont="还要" pos="d" ne="O" parent="11" relate="ADV" semparent="11" semrelate="Agt" />
+                <word id="10" cont="再" pos="d" ne="O" parent="11" relate="ADV" semparent="11" semrelate="mFreq" />
+                <word id="11" cont="搬" pos="v" ne="O" parent="2" relate="COO" semparent="2" semrelate="eCoo">
+                    <arg id="0" type="ADV" beg="9" end="9" />
+                    <arg id="1" type="ADV" beg="10" end="10" />
+                    <arg id="2" type="A1" beg="12" end="14" />
+                </word>
+                <word id="12" cont="15" pos="m" ne="O" parent="13" relate="ATT" semparent="13" semrelate="Quan" />
+                <word id="13" cont="把" pos="q" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Qp" />
+                <word id="14" cont="椅子" pos="n" ne="O" parent="11" relate="VOB" semparent="11" semrelate="Pat" />
+                <word id="15" cont="," pos="wp" ne="O" parent="11" relate="WP" semparent="11" semrelate="mPunc" />
+                <word id="16" cont="一共" pos="d" ne="O" parent="18" relate="ADV" semparent="18" semrelate="Agt" />
+                <word id="17" cont="要" pos="v" ne="O" parent="18" relate="ADV" semparent="18" semrelate="mMod" />
+                <word id="18" cont="搬" pos="v" ne="O" parent="11" relate="COO" semparent="11" semrelate="eCoo">
+                    <arg id="0" type="ADV" beg="16" end="16" />
+                    <arg id="1" type="A1" beg="19" end="21" />
+                </word>
+                <word id="19" cont="多少" pos="r" ne="O" parent="20" relate="ATT" semparent="20" semrelate="Quan" />
+                <word id="20" cont="把" pos="q" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Qp" />
+                <word id="21" cont="椅子" pos="n" ne="O" parent="18" relate="VOB" semparent="18" semrelate="Pat" />
+                <word id="22" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="18" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

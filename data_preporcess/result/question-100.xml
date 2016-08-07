@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小强家有36个苹果,吃了7个,还有多少个?">
+                <word id="0" cont="小" pos="a" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Feat" />
+                <word id="1" cont="强" pos="nh" ne="S-Nh" parent="2" relate="ATT" semparent="2" semrelate="Feat" />
+                <word id="2" cont="家" pos="n" ne="O" parent="3" relate="SBV" semparent="3" semrelate="Poss" />
+                <word id="3" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="2" />
+                    <arg id="1" type="A1" beg="4" end="6" />
+                </word>
+                <word id="4" cont="36" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Quan" />
+                <word id="5" cont="个" pos="q" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Qp" />
+                <word id="6" cont="苹果" pos="n" ne="O" parent="3" relate="VOB" semparent="3" semrelate="Belg" />
+                <word id="7" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="3" semrelate="mPunc" />
+                <word id="8" cont="吃" pos="v" ne="O" parent="3" relate="COO" semparent="3" semrelate="eSucc">
+                    <arg id="0" type="C-A1" beg="10" end="10" />
+                </word>
+                <word id="9" cont="了" pos="u" ne="O" parent="8" relate="RAD" semparent="8" semrelate="mTime" />
+                <word id="10" cont="7" pos="m" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Quan" />
+                <word id="11" cont="个" pos="q" ne="O" parent="8" relate="VOB" semparent="8" semrelate="Qp" />
+                <word id="12" cont="," pos="wp" ne="O" parent="8" relate="WP" semparent="8" semrelate="mPunc" />
+                <word id="13" cont="还有" pos="v" ne="O" parent="3" relate="COO" semparent="8" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="14" end="14" />
+                </word>
+                <word id="14" cont="多少" pos="r" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Quan" />
+                <word id="15" cont="个" pos="q" ne="O" parent="13" relate="VOB" semparent="13" semrelate="Qp" />
+                <word id="16" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="13" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

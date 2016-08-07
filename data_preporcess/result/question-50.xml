@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="男生有22人,女生有21人,共有多少人?">
+                <word id="0" cont="男生" pos="n" ne="O" parent="1" relate="SBV" semparent="1" semrelate="Exp" />
+                <word id="1" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="2" end="3" />
+                </word>
+                <word id="2" cont="22" pos="m" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Quan" />
+                <word id="3" cont="人" pos="n" ne="O" parent="1" relate="VOB" semparent="1" semrelate="Exp" />
+                <word id="4" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="1" semrelate="mPunc" />
+                <word id="5" cont="女生" pos="n" ne="O" parent="6" relate="SBV" semparent="6" semrelate="Poss" />
+                <word id="6" cont="有" pos="v" ne="O" parent="1" relate="COO" semparent="1" semrelate="eCoo">
+                    <arg id="0" type="A0" beg="5" end="5" />
+                    <arg id="1" type="A1" beg="7" end="8" />
+                </word>
+                <word id="7" cont="21" pos="m" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Quan" />
+                <word id="8" cont="人" pos="n" ne="O" parent="6" relate="VOB" semparent="6" semrelate="Exp" />
+                <word id="9" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="6" semrelate="mPunc" />
+                <word id="10" cont="共有" pos="v" ne="O" parent="6" relate="COO" semparent="6" semrelate="eResu">
+                    <arg id="0" type="A1" beg="11" end="12" />
+                </word>
+                <word id="11" cont="多少" pos="r" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="人" pos="n" ne="O" parent="10" relate="VOB" semparent="10" semrelate="Exp" />
+                <word id="13" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="10" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

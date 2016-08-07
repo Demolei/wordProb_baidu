@@ -164,7 +164,7 @@ a+-k-m+n = 0, -b+m = 0, -c+k = 0
 -a+b+-c+m = 0
 -a+-m+n = 0, b+-k+m = 0, -c+k = 0
 a+-b+-c+m = 0
--k+m+n = 0, a+-m+n = 0, -b+m=0
+-k+m+n = 0, a+-m+n = 0, -b+m = 0
 -a+b+-c+m = 0
 -a+-m+n = 0, -b+-k+m = 0, -c+k = 0
 -k+m+n = 0, a+-m+n = 0, -b+m = 0

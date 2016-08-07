@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="二（1）班和二（2）班的同学们去秋游,汽车上一共坐了70人,其中二（1）班有38人,那么而（2）班有多少人?">
+                <word id="0" cont="二（1）班" pos="n" ne="O" parent="10" relate="SBV" semparent="-1" semrelate="Root" />
+                <word id="1" cont="和" pos="c" ne="O" parent="8" relate="LAD" semparent="2" semrelate="mConj" />
+                <word id="2" cont="二" pos="m" ne="O" parent="6" relate="ATT" semparent="0" semrelate="eCoo" />
+                <word id="3" cont="（" pos="wp" ne="O" parent="4" relate="WP" semparent="0" semrelate="mPunc" />
+                <word id="4" cont="2" pos="m" ne="O" parent="2" relate="COO" semparent="10" semrelate="Time" />
+                <word id="5" cont="）" pos="wp" ne="O" parent="4" relate="WP" semparent="4" semrelate="mPunc" />
+                <word id="6" cont="班" pos="n" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Poss" />
+                <word id="7" cont="的" pos="u" ne="O" parent="6" relate="RAD" semparent="6" semrelate="mAux" />
+                <word id="8" cont="同学" pos="n" ne="O" parent="0" relate="COO" semparent="9" semrelate="Poss" />
+                <word id="9" cont="们" pos="k" ne="O" parent="8" relate="RAD" semparent="10" semrelate="Agt" />
+                <word id="10" cont="去" pos="v" ne="O" parent="-1" relate="HED" semparent="0" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="0" end="9" />
+                </word>
+                <word id="11" cont="秋游" pos="v" ne="O" parent="10" relate="COO" semparent="10" semrelate="ePurp">
+                    <arg id="0" type="A0" beg="0" end="9" />
+                </word>
+                <word id="12" cont="," pos="wp" ne="O" parent="10" relate="WP" semparent="11" semrelate="mPunc" />
+                <word id="13" cont="汽车" pos="n" ne="O" parent="14" relate="ATT" semparent="16" semrelate="Loc" />
+                <word id="14" cont="上" pos="nd" ne="O" parent="16" relate="ADV" semparent="13" semrelate="mRang" />
+                <word id="15" cont="一共" pos="d" ne="O" parent="16" relate="ADV" semparent="16" semrelate="Mann" />
+                <word id="16" cont="坐" pos="v" ne="O" parent="10" relate="COO" semparent="11" semrelate="eCoo">
+                    <arg id="0" type="LOC" beg="13" end="14" />
+                    <arg id="1" type="ADV" beg="15" end="15" />
+                    <arg id="2" type="A1" beg="18" end="19" />
+                </word>
+                <word id="17" cont="了" pos="u" ne="O" parent="16" relate="RAD" semparent="16" semrelate="mTime" />
+                <word id="18" cont="70" pos="m" ne="O" parent="19" relate="ATT" semparent="19" semrelate="Quan" />
+                <word id="19" cont="人" pos="n" ne="O" parent="16" relate="VOB" semparent="16" semrelate="Exp" />
+                <word id="20" cont="," pos="wp" ne="O" parent="16" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="21" cont="其中" pos="r" ne="O" parent="26" relate="ATT" semparent="26" semrelate="Sco" />
+                <word id="22" cont="二" pos="m" ne="O" parent="26" relate="ATT" semparent="21" semrelate="eCoo" />
+                <word id="23" cont="（" pos="wp" ne="O" parent="24" relate="WP" semparent="22" semrelate="mPunc" />
+                <word id="24" cont="1" pos="m" ne="O" parent="22" relate="COO" semparent="22" semrelate="eCoo" />
+                <word id="25" cont="）" pos="wp" ne="O" parent="24" relate="WP" semparent="24" semrelate="mPunc" />
+                <word id="26" cont="班" pos="n" ne="O" parent="27" relate="SBV" semparent="27" semrelate="Poss" />
+                <word id="27" cont="有" pos="v" ne="O" parent="16" relate="COO" semparent="16" semrelate="eCoo">
+                    <arg id="0" type="A0" beg="21" end="26" />
+                    <arg id="1" type="A1" beg="28" end="29" />
+                </word>
+                <word id="28" cont="38" pos="m" ne="O" parent="29" relate="ATT" semparent="29" semrelate="Quan" />
+                <word id="29" cont="人" pos="n" ne="O" parent="27" relate="VOB" semparent="27" semrelate="Belg" />
+                <word id="30" cont="," pos="wp" ne="O" parent="27" relate="WP" semparent="27" semrelate="mPunc" />
+                <word id="31" cont="那么" pos="c" ne="O" parent="37" relate="ADV" semparent="27" semrelate="eCoo" />
+                <word id="32" cont="而" pos="c" ne="O" parent="37" relate="ADV" semparent="34" semrelate="mConj" />
+                <word id="33" cont="（" pos="wp" ne="O" parent="34" relate="WP" semparent="34" semrelate="mPunc" />
+                <word id="34" cont="2" pos="m" ne="O" parent="37" relate="ADV" semparent="31" semrelate="eCoo" />
+                <word id="35" cont="）" pos="wp" ne="O" parent="34" relate="WP" semparent="34" semrelate="mPunc" />
+                <word id="36" cont="班" pos="n" ne="O" parent="37" relate="SBV" semparent="37" semrelate="Poss" />
+                <word id="37" cont="有" pos="v" ne="O" parent="27" relate="COO" semparent="34" semrelate="eSucc">
+                    <arg id="0" type="DIS" beg="31" end="31" />
+                    <arg id="1" type="A0" beg="36" end="36" />
+                    <arg id="2" type="A1" beg="38" end="39" />
+                </word>
+                <word id="38" cont="多少" pos="r" ne="O" parent="39" relate="ATT" semparent="39" semrelate="Quan" />
+                <word id="39" cont="人" pos="n" ne="O" parent="37" relate="VOB" semparent="37" semrelate="Belg" />
+                <word id="40" cont="?" pos="wp" ne="O" parent="10" relate="WP" semparent="37" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小白猫钓了26条鱼,小黄猫钓的鱼比小白猫少9条,小黄猫钓了多少条鱼?">
+                <word id="0" cont="小白" pos="nh" ne="S-Nh" parent="1" relate="SBV" semparent="1" semrelate="Agt" />
+                <word id="1" cont="猫钓" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="3" end="5" />
+                </word>
+                <word id="2" cont="了" pos="u" ne="O" parent="1" relate="RAD" semparent="1" semrelate="mTime" />
+                <word id="3" cont="26" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Quan" />
+                <word id="4" cont="条" pos="q" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Qp" />
+                <word id="5" cont="鱼" pos="n" ne="O" parent="1" relate="VOB" semparent="1" semrelate="Pat" />
+                <word id="6" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="1" semrelate="mPunc" />
+                <word id="7" cont="小" pos="a" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Feat" />
+                <word id="8" cont="黄猫钓" pos="n" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Feat" />
+                <word id="9" cont="的" pos="u" ne="O" parent="8" relate="RAD" semparent="8" semrelate="mAux" />
+                <word id="10" cont="鱼" pos="n" ne="O" parent="14" relate="SBV" semparent="16" semrelate="Exp" />
+                <word id="11" cont="比" pos="p" ne="O" parent="14" relate="ADV" semparent="13" semrelate="mPrep" />
+                <word id="12" cont="小" pos="a" ne="O" parent="13" relate="ATT" semparent="13" semrelate="Feat" />
+                <word id="13" cont="白猫" pos="n" ne="O" parent="11" relate="POB" semparent="10" semrelate="Comp" />
+                <word id="14" cont="少" pos="a" ne="O" parent="1" relate="COO" semparent="16" semrelate="Feat">
+                    <arg id="0" type="A0" beg="7" end="10" />
+                    <arg id="1" type="ADV" beg="11" end="13" />
+                    <arg id="2" type="A1" beg="15" end="15" />
+                </word>
+                <word id="15" cont="9" pos="m" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Quan" />
+                <word id="16" cont="条" pos="q" ne="O" parent="14" relate="VOB" semparent="1" semrelate="eSucc" />
+                <word id="17" cont="," pos="wp" ne="O" parent="14" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="18" cont="小黄" pos="nh" ne="S-Nh" parent="19" relate="ATT" semparent="19" semrelate="Nmod" />
+                <word id="19" cont="猫" pos="n" ne="O" parent="20" relate="SBV" semparent="20" semrelate="Agt" />
+                <word id="20" cont="钓" pos="v" ne="O" parent="14" relate="COO" semparent="16" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="18" end="19" />
+                    <arg id="1" type="A1" beg="22" end="24" />
+                </word>
+                <word id="21" cont="了" pos="u" ne="O" parent="20" relate="RAD" semparent="20" semrelate="mTime" />
+                <word id="22" cont="多少" pos="r" ne="O" parent="23" relate="ATT" semparent="23" semrelate="Quan" />
+                <word id="23" cont="条" pos="q" ne="O" parent="24" relate="ATT" semparent="24" semrelate="Qp" />
+                <word id="24" cont="鱼" pos="n" ne="O" parent="20" relate="VOB" semparent="20" semrelate="Pat" />
+                <word id="25" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="20" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小红吃了8块饼干,还有4块饼干没有吃,他原来有多少块饼干?">
+                <word id="0" cont="小" pos="a" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Feat" />
+                <word id="1" cont="红" pos="a" ne="O" parent="2" relate="SBV" semparent="2" semrelate="Agt" />
+                <word id="2" cont="吃" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A1" beg="4" end="6" />
+                </word>
+                <word id="3" cont="了" pos="u" ne="O" parent="2" relate="RAD" semparent="2" semrelate="mTime" />
+                <word id="4" cont="8" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Quan" />
+                <word id="5" cont="块" pos="q" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Qp" />
+                <word id="6" cont="饼干" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Pat" />
+                <word id="7" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="8" cont="还有" pos="v" ne="O" parent="2" relate="COO" semparent="13" semrelate="mConj">
+                    <arg id="0" type="A1" beg="12" end="13" />
+                </word>
+                <word id="9" cont="4" pos="m" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Quan" />
+                <word id="10" cont="块" pos="q" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Qp" />
+                <word id="11" cont="饼干" pos="n" ne="O" parent="8" relate="DBL" semparent="13" semrelate="Pat" />
+                <word id="12" cont="没有" pos="d" ne="O" parent="13" relate="ADV" semparent="13" semrelate="mNeg" />
+                <word id="13" cont="吃" pos="v" ne="O" parent="8" relate="VOB" semparent="2" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="9" end="11" />
+                    <arg id="1" type="ADV" beg="12" end="12" />
+                </word>
+                <word id="14" cont="," pos="wp" ne="O" parent="8" relate="WP" semparent="13" semrelate="mPunc" />
+                <word id="15" cont="他" pos="r" ne="O" parent="17" relate="SBV" semparent="17" semrelate="Poss" />
+                <word id="16" cont="原来" pos="d" ne="O" parent="17" relate="ADV" semparent="17" semrelate="mMod" />
+                <word id="17" cont="有" pos="v" ne="O" parent="2" relate="COO" semparent="13" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="15" end="15" />
+                    <arg id="1" type="ADV" beg="16" end="16" />
+                    <arg id="2" type="A1" beg="18" end="20" />
+                </word>
+                <word id="18" cont="多少" pos="r" ne="O" parent="19" relate="ATT" semparent="19" semrelate="Quan" />
+                <word id="19" cont="块" pos="q" ne="O" parent="20" relate="ATT" semparent="20" semrelate="Qp" />
+                <word id="20" cont="饼干" pos="n" ne="O" parent="17" relate="VOB" semparent="17" semrelate="Belg" />
+                <word id="21" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="17" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

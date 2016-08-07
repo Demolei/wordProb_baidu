@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="一条路离起点20米,离终点80米,这条路有多少米?">
+                <word id="0" cont="一" pos="m" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Quan" />
+                <word id="1" cont="条" pos="q" ne="O" parent="2" relate="ATT" semparent="2" semrelate="Qp" />
+                <word id="2" cont="路" pos="n" ne="O" parent="3" relate="SBV" semparent="-1" semrelate="Root" />
+                <word id="3" cont="离" pos="v" ne="O" parent="-1" relate="HED" semparent="4" semrelate="mPrep">
+                    <arg id="0" type="A0" beg="0" end="2" />
+                    <arg id="1" type="A1" beg="4" end="4" />
+                </word>
+                <word id="4" cont="起点" pos="n" ne="O" parent="3" relate="VOB" semparent="2" semrelate="eCoo" />
+                <word id="5" cont="20" pos="m" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Quan" />
+                <word id="6" cont="米" pos="q" ne="O" parent="3" relate="VOB" semparent="4" semrelate="Qp" />
+                <word id="7" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="4" semrelate="mPunc" />
+                <word id="8" cont="离" pos="v" ne="O" parent="3" relate="COO" semparent="9" semrelate="mPrep">
+                    <arg id="0" type="A1" beg="9" end="9" />
+                </word>
+                <word id="9" cont="终点" pos="n" ne="O" parent="8" relate="POB" semparent="11" semrelate="Datv" />
+                <word id="10" cont="80" pos="m" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Quan" />
+                <word id="11" cont="米" pos="q" ne="O" parent="8" relate="CMP" semparent="4" semrelate="eCoo" />
+                <word id="12" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="11" semrelate="mPunc" />
+                <word id="13" cont="这" pos="r" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Sco" />
+                <word id="14" cont="条" pos="q" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Qp" />
+                <word id="15" cont="路" pos="n" ne="O" parent="16" relate="SBV" semparent="16" semrelate="Poss" />
+                <word id="16" cont="有" pos="v" ne="O" parent="3" relate="COO" semparent="11" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="13" end="15" />
+                    <arg id="1" type="A1" beg="17" end="17" />
+                </word>
+                <word id="17" cont="多少" pos="r" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Quan" />
+                <word id="18" cont="米" pos="q" ne="O" parent="16" relate="VOB" semparent="16" semrelate="Belg" />
+                <word id="19" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="16" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

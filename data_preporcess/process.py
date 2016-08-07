@@ -7,6 +7,13 @@ def read_file(filename, select = 1):
   for line in fp:
     if select == 0:
       line = line[line.find('.')+1 : line.find('\r')] +'\n' 
+      if line.find('\t') != -1:
+        line = line[:line.find('\t')]
+      else:
+        line = line[:line.find('\n')]
+    else:
+      line = line[:line.find('\n')]
+    #line = line.decode().encode('utf-8')
     data.append(line)
   return data
 

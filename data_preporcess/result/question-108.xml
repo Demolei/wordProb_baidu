@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小芳有22个气球,送给幼儿园小朋友14个,还剩多少个?">
+                <word id="0" cont="小芳" pos="nh" ne="S-Nh" parent="1" relate="SBV" semparent="1" semrelate="Poss" />
+                <word id="1" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="2" end="4" />
+                </word>
+                <word id="2" cont="22" pos="m" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Quan" />
+                <word id="3" cont="个" pos="q" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Qp" />
+                <word id="4" cont="气球" pos="n" ne="O" parent="1" relate="VOB" semparent="1" semrelate="Belg" />
+                <word id="5" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="1" semrelate="mPunc" />
+                <word id="6" cont="送给" pos="v" ne="O" parent="1" relate="COO" semparent="1" semrelate="eSucc">
+                    <arg id="0" type="A2" beg="7" end="8" />
+                    <arg id="1" type="C-A1" beg="9" end="9" />
+                </word>
+                <word id="7" cont="幼儿园" pos="n" ne="O" parent="8" relate="ATT" semparent="6" semrelate="Datv" />
+                <word id="8" cont="小朋友" pos="n" ne="O" parent="6" relate="IOB" semparent="6" semrelate="Datv" />
+                <word id="9" cont="14" pos="m" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Quan" />
+                <word id="10" cont="个" pos="q" ne="O" parent="6" relate="VOB" semparent="8" semrelate="Qp" />
+                <word id="11" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="8" semrelate="mPunc" />
+                <word id="12" cont="还" pos="d" ne="O" parent="13" relate="ADV" semparent="13" semrelate="mMod" />
+                <word id="13" cont="剩" pos="v" ne="O" parent="6" relate="COO" semparent="6" semrelate="eProg">
+                    <arg id="0" type="ADV" beg="12" end="12" />
+                    <arg id="1" type="A1" beg="14" end="14" />
+                </word>
+                <word id="14" cont="多少" pos="r" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Quan" />
+                <word id="15" cont="个" pos="q" ne="O" parent="13" relate="VOB" semparent="13" semrelate="Qp" />
+                <word id="16" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="13" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

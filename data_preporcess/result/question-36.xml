@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="星期一商店里卖掉了30盒鸡蛋,星期二商店里卖掉了39盒鸡蛋,星期一和星期二一共卖掉多少盒鸡蛋?">
+                <word id="0" cont="星期一" pos="nt" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Poss" />
+                <word id="1" cont="商店" pos="n" ne="O" parent="2" relate="ATT" semparent="3" semrelate="Loc" />
+                <word id="2" cont="里" pos="nd" ne="O" parent="3" relate="ADV" semparent="1" semrelate="mRang" />
+                <word id="3" cont="卖" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="TMP" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="6" end="8" />
+                </word>
+                <word id="4" cont="掉" pos="v" ne="O" parent="3" relate="CMP" semparent="3" semrelate="Cons" />
+                <word id="5" cont="了" pos="u" ne="O" parent="3" relate="RAD" semparent="3" semrelate="mTime" />
+                <word id="6" cont="30" pos="m" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Quan" />
+                <word id="7" cont="盒" pos="q" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Qp" />
+                <word id="8" cont="鸡蛋" pos="n" ne="O" parent="3" relate="VOB" semparent="3" semrelate="Pat" />
+                <word id="9" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="3" semrelate="mPunc" />
+                <word id="10" cont="星期二" pos="nt" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Feat" />
+                <word id="11" cont="商店" pos="n" ne="O" parent="12" relate="ATT" semparent="13" semrelate="Loc" />
+                <word id="12" cont="里" pos="nd" ne="O" parent="13" relate="ADV" semparent="11" semrelate="mRang" />
+                <word id="13" cont="卖" pos="v" ne="O" parent="3" relate="COO" semparent="3" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="16" end="18" />
+                </word>
+                <word id="14" cont="掉" pos="v" ne="O" parent="13" relate="CMP" semparent="13" semrelate="Cons" />
+                <word id="15" cont="了" pos="u" ne="O" parent="13" relate="RAD" semparent="13" semrelate="mTime" />
+                <word id="16" cont="39" pos="m" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="盒" pos="q" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Qp" />
+                <word id="18" cont="鸡蛋" pos="n" ne="O" parent="13" relate="VOB" semparent="13" semrelate="Pat" />
+                <word id="19" cont="," pos="wp" ne="O" parent="13" relate="WP" semparent="13" semrelate="mPunc" />
+                <word id="20" cont="星期一" pos="nt" ne="O" parent="24" relate="ADV" semparent="24" semrelate="Time" />
+                <word id="21" cont="和" pos="c" ne="O" parent="22" relate="LAD" semparent="22" semrelate="mConj" />
+                <word id="22" cont="星期二" pos="nt" ne="O" parent="20" relate="COO" semparent="20" semrelate="eCoo" />
+                <word id="23" cont="一共" pos="d" ne="O" parent="24" relate="ADV" semparent="24" semrelate="Agt" />
+                <word id="24" cont="卖" pos="v" ne="O" parent="3" relate="COO" semparent="13" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="23" end="23" />
+                    <arg id="1" type="A1" beg="26" end="28" />
+                </word>
+                <word id="25" cont="掉" pos="v" ne="O" parent="24" relate="CMP" semparent="24" semrelate="Cons" />
+                <word id="26" cont="多少" pos="r" ne="O" parent="27" relate="ATT" semparent="27" semrelate="Quan" />
+                <word id="27" cont="盒" pos="q" ne="O" parent="28" relate="ATT" semparent="28" semrelate="Qp" />
+                <word id="28" cont="鸡蛋" pos="n" ne="O" parent="24" relate="VOB" semparent="24" semrelate="Pat" />
+                <word id="29" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="24" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

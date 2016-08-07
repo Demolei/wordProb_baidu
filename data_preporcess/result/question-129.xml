@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小明拍皮球,第一次拍15下,第二次比第一次少拍1下,第二次拍多少下?">
+                <word id="0" cont="小明" pos="nh" ne="S-Nh" parent="1" relate="SBV" semparent="1" semrelate="Agt" />
+                <word id="1" cont="拍" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                </word>
+                <word id="2" cont="皮球" pos="n" ne="O" parent="1" relate="VOB" semparent="1" semrelate="Pat" />
+                <word id="3" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="1" semrelate="mPunc" />
+                <word id="4" cont="第一" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Seq" />
+                <word id="5" cont="次" pos="q" ne="O" parent="6" relate="ADV" semparent="6" semrelate="Qp" />
+                <word id="6" cont="拍" pos="v" ne="O" parent="1" relate="COO" semparent="1" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="4" end="4" />
+                </word>
+                <word id="7" cont="15" pos="m" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Quan" />
+                <word id="8" cont="下" pos="q" ne="O" parent="6" relate="CMP" semparent="6" semrelate="Qp" />
+                <word id="9" cont="," pos="wp" ne="O" parent="6" relate="WP" semparent="6" semrelate="mPunc" />
+                <word id="10" cont="第二" pos="m" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Seq" />
+                <word id="11" cont="次" pos="q" ne="O" parent="16" relate="ADV" semparent="6" semrelate="eSucc" />
+                <word id="12" cont="比" pos="p" ne="O" parent="16" relate="ADV" semparent="16" semrelate="mPrep" />
+                <word id="13" cont="第一" pos="m" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Seq" />
+                <word id="14" cont="次" pos="q" ne="O" parent="12" relate="POB" semparent="16" semrelate="Qp" />
+                <word id="15" cont="少" pos="a" ne="O" parent="16" relate="ADV" semparent="16" semrelate="Feat" />
+                <word id="16" cont="拍" pos="v" ne="O" parent="6" relate="COO" semparent="11" semrelate="dClas">
+                    <arg id="0" type="ADV" beg="10" end="10" />
+                    <arg id="1" type="ADV" beg="12" end="14" />
+                    <arg id="2" type="ADV" beg="15" end="15" />
+                </word>
+                <word id="17" cont="1" pos="m" ne="O" parent="18" relate="ATT" semparent="16" semrelate="mDegr" />
+                <word id="18" cont="下" pos="q" ne="O" parent="16" relate="CMP" semparent="16" semrelate="mRang" />
+                <word id="19" cont="," pos="wp" ne="O" parent="16" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="20" cont="第二" pos="m" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Seq" />
+                <word id="21" cont="次" pos="q" ne="O" parent="22" relate="ADV" semparent="22" semrelate="Qp" />
+                <word id="22" cont="拍" pos="v" ne="O" parent="6" relate="COO" semparent="16" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="20" end="20" />
+                </word>
+                <word id="23" cont="多少" pos="r" ne="O" parent="24" relate="ATT" semparent="24" semrelate="Quan" />
+                <word id="24" cont="下" pos="nd" ne="O" parent="22" relate="CMP" semparent="22" semrelate="mRang" />
+                <word id="25" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="22" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

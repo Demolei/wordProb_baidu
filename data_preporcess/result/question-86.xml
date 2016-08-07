@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="李华一共要在路边插28面彩旗,插了一些后还有9面没有插,已经插了多少面彩旗?">
+                <word id="0" cont="李华" pos="nh" ne="S-Nh" parent="5" relate="SBV" semparent="5" semrelate="Agt" />
+                <word id="1" cont="一共" pos="d" ne="O" parent="2" relate="ADV" semparent="5" semrelate="mConj" />
+                <word id="2" cont="要" pos="v" ne="O" parent="5" relate="ADV" semparent="5" semrelate="mMod">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="ADV" beg="1" end="1" />
+                </word>
+                <word id="3" cont="在" pos="p" ne="O" parent="5" relate="ADV" semparent="4" semrelate="mPrep" />
+                <word id="4" cont="路边" pos="nl" ne="O" parent="3" relate="POB" semparent="5" semrelate="Loc" />
+                <word id="5" cont="插" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="ADV" beg="1" end="1" />
+                    <arg id="2" type="LOC" beg="3" end="4" />
+                    <arg id="3" type="A1" beg="6" end="8" />
+                </word>
+                <word id="6" cont="28" pos="m" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Quan" />
+                <word id="7" cont="面" pos="q" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Qp" />
+                <word id="8" cont="彩旗" pos="n" ne="O" parent="5" relate="VOB" semparent="5" semrelate="Pat" />
+                <word id="9" cont="," pos="wp" ne="O" parent="5" relate="WP" semparent="5" semrelate="mPunc" />
+                <word id="10" cont="插" pos="v" ne="O" parent="5" relate="COO" semparent="5" semrelate="eSucc" />
+                <word id="11" cont="了" pos="u" ne="O" parent="10" relate="RAD" semparent="10" semrelate="mTime" />
+                <word id="12" cont="一些" pos="m" ne="O" parent="13" relate="ATT" semparent="17" semrelate="mRang" />
+                <word id="13" cont="后" pos="nd" ne="O" parent="14" relate="ADV" semparent="12" semrelate="mTime" />
+                <word id="14" cont="还有" pos="v" ne="O" parent="10" relate="COO" semparent="15" semrelate="mPrep">
+                    <arg id="0" type="TMP" beg="12" end="13" />
+                    <arg id="1" type="A1" beg="15" end="17" />
+                </word>
+                <word id="15" cont="9面" pos="n" ne="O" parent="17" relate="SBV" semparent="17" semrelate="Datv" />
+                <word id="16" cont="没有" pos="d" ne="O" parent="17" relate="ADV" semparent="17" semrelate="mNeg" />
+                <word id="17" cont="插" pos="v" ne="O" parent="14" relate="VOB" semparent="10" semrelate="eCoo">
+                    <arg id="0" type="A0" beg="15" end="15" />
+                    <arg id="1" type="ADV" beg="16" end="16" />
+                </word>
+                <word id="18" cont="," pos="wp" ne="O" parent="14" relate="WP" semparent="17" semrelate="mPunc" />
+                <word id="19" cont="已经" pos="d" ne="O" parent="20" relate="ADV" semparent="20" semrelate="mTime" />
+                <word id="20" cont="插" pos="v" ne="O" parent="14" relate="COO" semparent="17" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="19" end="19" />
+                    <arg id="1" type="A1" beg="22" end="24" />
+                </word>
+                <word id="21" cont="了" pos="u" ne="O" parent="20" relate="RAD" semparent="20" semrelate="mTime" />
+                <word id="22" cont="多少" pos="r" ne="O" parent="23" relate="ATT" semparent="23" semrelate="Quan" />
+                <word id="23" cont="面" pos="q" ne="O" parent="24" relate="ATT" semparent="24" semrelate="Qp" />
+                <word id="24" cont="彩旗" pos="n" ne="O" parent="20" relate="VOB" semparent="20" semrelate="Cont" />
+                <word id="25" cont="?" pos="wp" ne="O" parent="5" relate="WP" semparent="20" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

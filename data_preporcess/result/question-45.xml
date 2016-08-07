@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="从车场开走8辆汽车,还剩24辆,车场原来有多少汽车?">
+                <word id="0" cont="从" pos="p" ne="O" parent="2" relate="ADV" semparent="1" semrelate="mPrep" />
+                <word id="1" cont="车场" pos="n" ne="O" parent="0" relate="POB" semparent="-1" semrelate="Root" />
+                <word id="2" cont="开" pos="v" ne="O" parent="-1" relate="HED" semparent="1" semrelate="eSucc">
+                    <arg id="0" type="DIR" beg="0" end="1" />
+                </word>
+                <word id="3" cont="走" pos="v" ne="O" parent="2" relate="CMP" semparent="2" semrelate="dCont">
+                    <arg id="0" type="A1" beg="4" end="6" />
+                </word>
+                <word id="4" cont="8" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Quan" />
+                <word id="5" cont="辆" pos="q" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Qp" />
+                <word id="6" cont="汽车" pos="n" ne="O" parent="3" relate="VOB" semparent="3" semrelate="Pat" />
+                <word id="7" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="8" cont="还" pos="d" ne="O" parent="9" relate="ADV" semparent="9" semrelate="mMod" />
+                <word id="9" cont="剩" pos="v" ne="O" parent="2" relate="COO" semparent="2" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="8" end="8" />
+                    <arg id="1" type="C-A1" beg="10" end="10" />
+                </word>
+                <word id="10" cont="24" pos="m" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Quan" />
+                <word id="11" cont="辆" pos="q" ne="O" parent="9" relate="VOB" semparent="9" semrelate="Cont" />
+                <word id="12" cont="," pos="wp" ne="O" parent="9" relate="WP" semparent="11" semrelate="mPunc" />
+                <word id="13" cont="车场" pos="n" ne="O" parent="15" relate="SBV" semparent="15" semrelate="Poss" />
+                <word id="14" cont="原来" pos="d" ne="O" parent="15" relate="ADV" semparent="15" semrelate="mMod" />
+                <word id="15" cont="有" pos="v" ne="O" parent="9" relate="COO" semparent="11" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="13" end="13" />
+                    <arg id="1" type="ADV" beg="14" end="14" />
+                    <arg id="2" type="A1" beg="16" end="17" />
+                </word>
+                <word id="16" cont="多少" pos="r" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="汽车" pos="n" ne="O" parent="15" relate="VOB" semparent="15" semrelate="Belg" />
+                <word id="18" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="15" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

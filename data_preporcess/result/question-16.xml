@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="从车场开来18辆大汽车,又开来12辆小汽车,两次开来多少辆汽车?">
+                <word id="0" cont="从" pos="p" ne="O" parent="2" relate="ADV" semparent="1" semrelate="mPrep" />
+                <word id="1" cont="车场" pos="n" ne="O" parent="0" relate="POB" semparent="2" semrelate="Orig" />
+                <word id="2" cont="开" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="DIR" beg="0" end="1" />
+                    <arg id="1" type="A1" beg="4" end="7" />
+                </word>
+                <word id="3" cont="来" pos="v" ne="O" parent="2" relate="CMP" semparent="2" semrelate="mDir" />
+                <word id="4" cont="18" pos="m" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Quan" />
+                <word id="5" cont="辆" pos="q" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Qp" />
+                <word id="6" cont="大" pos="a" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Feat" />
+                <word id="7" cont="汽车" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Prod" />
+                <word id="8" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="9" cont="又" pos="c" ne="O" parent="10" relate="ADV" semparent="10" semrelate="mConj" />
+                <word id="10" cont="开" pos="v" ne="O" parent="2" relate="COO" semparent="2" semrelate="eCoo">
+                    <arg id="0" type="DIS" beg="9" end="9" />
+                    <arg id="1" type="A1" beg="12" end="14" />
+                </word>
+                <word id="11" cont="来" pos="v" ne="O" parent="10" relate="CMP" semparent="10" semrelate="mDir" />
+                <word id="12" cont="12" pos="m" ne="O" parent="13" relate="ATT" semparent="13" semrelate="Quan" />
+                <word id="13" cont="辆" pos="q" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Qp" />
+                <word id="14" cont="小汽车" pos="n" ne="O" parent="10" relate="VOB" semparent="10" semrelate="Prod" />
+                <word id="15" cont="," pos="wp" ne="O" parent="10" relate="WP" semparent="10" semrelate="mPunc" />
+                <word id="16" cont="两" pos="m" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="次" pos="q" ne="O" parent="18" relate="ADV" semparent="18" semrelate="Qp" />
+                <word id="18" cont="开" pos="v" ne="O" parent="2" relate="COO" semparent="10" semrelate="eCoo">
+                    <arg id="0" type="ADV" beg="16" end="16" />
+                    <arg id="1" type="A1" beg="20" end="22" />
+                </word>
+                <word id="19" cont="来" pos="v" ne="O" parent="18" relate="CMP" semparent="18" semrelate="mDir" />
+                <word id="20" cont="多少" pos="r" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Quan" />
+                <word id="21" cont="辆" pos="q" ne="O" parent="22" relate="ATT" semparent="22" semrelate="Qp" />
+                <word id="22" cont="汽车" pos="n" ne="O" parent="18" relate="VOB" semparent="18" semrelate="Pat" />
+                <word id="23" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="18" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

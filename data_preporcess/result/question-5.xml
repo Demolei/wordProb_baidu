@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="舞蹈组有18人,合唱组的人数比舞蹈组多7人,合唱组有多少人?">
+                <word id="0" cont="舞蹈组" pos="n" ne="O" parent="1" relate="SBV" semparent="1" semrelate="Exp" />
+                <word id="1" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="2" end="3" />
+                </word>
+                <word id="2" cont="18" pos="m" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Quan" />
+                <word id="3" cont="人" pos="n" ne="O" parent="1" relate="VOB" semparent="1" semrelate="Exp" />
+                <word id="4" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="1" semrelate="mPunc" />
+                <word id="5" cont="合唱组" pos="n" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Feat" />
+                <word id="6" cont="的" pos="u" ne="O" parent="5" relate="RAD" semparent="5" semrelate="mAux" />
+                <word id="7" cont="人数" pos="n" ne="O" parent="12" relate="ATT" semparent="1" semrelate="eRect" />
+                <word id="8" cont="比" pos="p" ne="O" parent="12" relate="ADV" semparent="9" semrelate="mPrep" />
+                <word id="9" cont="舞蹈组" pos="n" ne="O" parent="8" relate="POB" semparent="7" semrelate="eCoo" />
+                <word id="10" cont="多" pos="a" ne="O" parent="12" relate="ATT" semparent="11" semrelate="Quan" />
+                <word id="11" cont="7" pos="m" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="人" pos="n" ne="O" parent="15" relate="SBV" semparent="9" semrelate="Agt" />
+                <word id="13" cont="," pos="wp" ne="O" parent="12" relate="WP" semparent="9" semrelate="mPunc" />
+                <word id="14" cont="合唱组" pos="n" ne="O" parent="15" relate="SBV" semparent="15" semrelate="Poss" />
+                <word id="15" cont="有" pos="v" ne="O" parent="1" relate="COO" semparent="9" semrelate="eCoo">
+                    <arg id="0" type="ADV" beg="8" end="9" />
+                    <arg id="1" type="A0" beg="14" end="14" />
+                    <arg id="2" type="A1" beg="16" end="17" />
+                </word>
+                <word id="16" cont="多少" pos="r" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="人" pos="n" ne="O" parent="15" relate="VOB" semparent="15" semrelate="Belg" />
+                <word id="18" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="15" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

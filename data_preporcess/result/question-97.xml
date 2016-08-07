@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="幼儿园小班有40块奶糖,分给小朋友奶糖24块后,奶糖还有多少块?">
+                <word id="0" cont="幼儿园" pos="n" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Feat" />
+                <word id="1" cont="小班" pos="n" ne="O" parent="2" relate="SBV" semparent="2" semrelate="Poss" />
+                <word id="2" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="1" />
+                    <arg id="1" type="A1" beg="3" end="5" />
+                </word>
+                <word id="3" cont="40" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Quan" />
+                <word id="4" cont="块" pos="q" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Qp" />
+                <word id="5" cont="奶糖" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Belg" />
+                <word id="6" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="7" cont="分" pos="v" ne="O" parent="13" relate="ATT" semparent="2" semrelate="eSucc" />
+                <word id="8" cont="给" pos="v" ne="O" parent="7" relate="CMP" semparent="9" semrelate="mPrep">
+                    <arg id="0" type="A2" beg="11" end="11" />
+                </word>
+                <word id="9" cont="小朋友" pos="n" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Datv" />
+                <word id="10" cont="奶糖" pos="n" ne="O" parent="12" relate="ATT" semparent="7" semrelate="dCont" />
+                <word id="11" cont="24" pos="m" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="块" pos="q" ne="O" parent="8" relate="VOB" semparent="10" semrelate="Qp" />
+                <word id="13" cont="后" pos="nd" ne="O" parent="16" relate="ADV" semparent="7" semrelate="mTime" />
+                <word id="14" cont="," pos="wp" ne="O" parent="13" relate="WP" semparent="7" semrelate="mPunc" />
+                <word id="15" cont="奶糖" pos="n" ne="O" parent="16" relate="SBV" semparent="18" semrelate="Exp" />
+                <word id="16" cont="还有" pos="v" ne="O" parent="2" relate="COO" semparent="18" semrelate="mVain">
+                    <arg id="0" type="A0" beg="15" end="15" />
+                    <arg id="1" type="A1" beg="17" end="17" />
+                </word>
+                <word id="17" cont="多少" pos="r" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Quan" />
+                <word id="18" cont="块" pos="q" ne="O" parent="16" relate="VOB" semparent="7" semrelate="eSucc" />
+                <word id="19" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="18" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

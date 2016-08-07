@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小刚有9本书,爸爸又给他买了5本,小明借去2本,小刚还有几本书?">
+                <word id="0" cont="小" pos="a" ne="O" parent="2" relate="SBV" semparent="2" semrelate="Feat" />
+                <word id="1" cont="刚" pos="d" ne="O" parent="2" relate="ADV" semparent="2" semrelate="mTime" />
+                <word id="2" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="ADV" beg="1" end="1" />
+                    <arg id="1" type="A1" beg="3" end="5" />
+                </word>
+                <word id="3" cont="9" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Quan" />
+                <word id="4" cont="本" pos="q" ne="O" parent="5" relate="ATT" semparent="5" semrelate="Qp" />
+                <word id="5" cont="书" pos="n" ne="O" parent="2" relate="VOB" semparent="2" semrelate="Belg" />
+                <word id="6" cont="," pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="7" cont="爸爸" pos="n" ne="O" parent="11" relate="SBV" semparent="11" semrelate="Agt" />
+                <word id="8" cont="又" pos="d" ne="O" parent="11" relate="ADV" semparent="11" semrelate="mFreq" />
+                <word id="9" cont="给" pos="p" ne="O" parent="11" relate="ADV" semparent="10" semrelate="mPrep" />
+                <word id="10" cont="他" pos="r" ne="O" parent="9" relate="POB" semparent="11" semrelate="Datv" />
+                <word id="11" cont="买" pos="v" ne="O" parent="2" relate="COO" semparent="2" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="7" end="7" />
+                    <arg id="1" type="ADV" beg="8" end="8" />
+                    <arg id="2" type="BNF" beg="9" end="10" />
+                    <arg id="3" type="A1" beg="13" end="13" />
+                </word>
+                <word id="12" cont="了" pos="u" ne="O" parent="11" relate="RAD" semparent="11" semrelate="mTime" />
+                <word id="13" cont="5" pos="m" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Quan" />
+                <word id="14" cont="本" pos="q" ne="O" parent="11" relate="CMP" semparent="11" semrelate="Qp" />
+                <word id="15" cont="," pos="wp" ne="O" parent="11" relate="WP" semparent="11" semrelate="mPunc" />
+                <word id="16" cont="小明" pos="nh" ne="S-Nh" parent="17" relate="SBV" semparent="17" semrelate="Agt" />
+                <word id="17" cont="借" pos="v" ne="O" parent="11" relate="COO" semparent="11" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="16" end="16" />
+                </word>
+                <word id="18" cont="去" pos="v" ne="O" parent="17" relate="CMP" semparent="17" semrelate="mDir" />
+                <word id="19" cont="2" pos="m" ne="O" parent="20" relate="ATT" semparent="20" semrelate="Quan" />
+                <word id="20" cont="本" pos="q" ne="O" parent="17" relate="VOB" semparent="17" semrelate="Qp" />
+                <word id="21" cont="," pos="wp" ne="O" parent="17" relate="WP" semparent="17" semrelate="mPunc" />
+                <word id="22" cont="小刚" pos="nh" ne="S-Nh" parent="23" relate="SBV" semparent="26" semrelate="Nmod" />
+                <word id="23" cont="还有" pos="v" ne="O" parent="17" relate="COO" semparent="26" semrelate="mConj">
+                    <arg id="0" type="A0" beg="16" end="16" />
+                    <arg id="1" type="A0" beg="22" end="22" />
+                    <arg id="2" type="A1" beg="24" end="26" />
+                </word>
+                <word id="24" cont="几" pos="m" ne="O" parent="25" relate="ATT" semparent="25" semrelate="Quan" />
+                <word id="25" cont="本" pos="q" ne="O" parent="26" relate="ATT" semparent="26" semrelate="Qp" />
+                <word id="26" cont="书" pos="n" ne="O" parent="23" relate="VOB" semparent="17" semrelate="Pat" />
+                <word id="27" cont="?" pos="wp" ne="O" parent="2" relate="WP" semparent="26" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="图书室有连环画84本,一班借走9本,二班借走8本,三班归还16,还剩多少本?">
+                <word id="0" cont="图书室" pos="n" ne="O" parent="1" relate="SBV" semparent="1" semrelate="Poss" />
+                <word id="1" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="0" />
+                    <arg id="1" type="A1" beg="2" end="2" />
+                    <arg id="2" type="A1" beg="3" end="3" />
+                </word>
+                <word id="2" cont="连环画" pos="n" ne="O" parent="4" relate="ATT" semparent="1" semrelate="Belg" />
+                <word id="3" cont="84" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Quan" />
+                <word id="4" cont="本" pos="q" ne="O" parent="1" relate="VOB" semparent="1" semrelate="eSucc" />
+                <word id="5" cont="," pos="wp" ne="O" parent="1" relate="WP" semparent="4" semrelate="mPunc" />
+                <word id="6" cont="一" pos="m" ne="O" parent="7" relate="ATT" semparent="7" semrelate="Quan" />
+                <word id="7" cont="班" pos="q" ne="O" parent="8" relate="SBV" semparent="4" semrelate="eCoo" />
+                <word id="8" cont="借" pos="v" ne="O" parent="1" relate="COO" semparent="9" semrelate="Mann" />
+                <word id="9" cont="走" pos="v" ne="O" parent="8" relate="CMP" semparent="7" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="10" end="10" />
+                </word>
+                <word id="10" cont="9" pos="m" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Quan" />
+                <word id="11" cont="本" pos="q" ne="O" parent="9" relate="VOB" semparent="9" semrelate="Proc" />
+                <word id="12" cont="," pos="wp" ne="O" parent="8" relate="WP" semparent="9" semrelate="mPunc" />
+                <word id="13" cont="二" pos="m" ne="O" parent="14" relate="ATT" semparent="14" semrelate="Quan" />
+                <word id="14" cont="班" pos="q" ne="O" parent="15" relate="SBV" semparent="15" semrelate="Agt" />
+                <word id="15" cont="借" pos="v" ne="O" parent="8" relate="COO" semparent="9" semrelate="eSucc" />
+                <word id="16" cont="走" pos="v" ne="O" parent="15" relate="CMP" semparent="15" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="17" end="17" />
+                </word>
+                <word id="17" cont="8" pos="m" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Quan" />
+                <word id="18" cont="本" pos="q" ne="O" parent="16" relate="VOB" semparent="16" semrelate="Qp" />
+                <word id="19" cont="," pos="wp" ne="O" parent="15" relate="WP" semparent="16" semrelate="mPunc" />
+                <word id="20" cont="三" pos="m" ne="O" parent="21" relate="ATT" semparent="21" semrelate="Quan" />
+                <word id="21" cont="班" pos="q" ne="O" parent="22" relate="SBV" semparent="22" semrelate="Qp" />
+                <word id="22" cont="归还" pos="v" ne="O" parent="8" relate="COO" semparent="16" semrelate="eSucc">
+                    <arg id="0" type="A1" beg="23" end="23" />
+                </word>
+                <word id="23" cont="16" pos="m" ne="O" parent="22" relate="VOB" semparent="26" semrelate="Time" />
+                <word id="24" cont="," pos="wp" ne="O" parent="22" relate="WP" semparent="23" semrelate="mPunc" />
+                <word id="25" cont="还" pos="d" ne="O" parent="26" relate="ADV" semparent="26" semrelate="mMod" />
+                <word id="26" cont="剩" pos="v" ne="O" parent="22" relate="COO" semparent="22" semrelate="dCont">
+                    <arg id="0" type="ADV" beg="25" end="25" />
+                    <arg id="1" type="A1" beg="27" end="27" />
+                </word>
+                <word id="27" cont="多少" pos="r" ne="O" parent="28" relate="ATT" semparent="28" semrelate="Quan" />
+                <word id="28" cont="本" pos="q" ne="O" parent="26" relate="VOB" semparent="26" semrelate="Cont" />
+                <word id="29" cont="?" pos="wp" ne="O" parent="1" relate="WP" semparent="26" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

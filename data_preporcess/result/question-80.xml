@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小动物站队,小猴子前面有15只兔子,后面有4只小象,这一队共有几只小动物?">
+                <word id="0" cont="小" pos="a" ne="O" parent="1" relate="ATT" semparent="1" semrelate="Feat" />
+                <word id="1" cont="动物" pos="n" ne="O" parent="3" relate="ATT" semparent="2" semrelate="Agt" />
+                <word id="2" cont="站" pos="n" ne="O" parent="3" relate="ATT" semparent="-1" semrelate="Root" />
+                <word id="3" cont="队" pos="n" ne="O" parent="8" relate="SBV" semparent="2" semrelate="eCoo" />
+                <word id="4" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="3" semrelate="mPunc" />
+                <word id="5" cont="小" pos="a" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Feat" />
+                <word id="6" cont="猴子" pos="n" ne="O" parent="7" relate="ATT" semparent="8" semrelate="Poss" />
+                <word id="7" cont="前面" pos="nd" ne="O" parent="8" relate="ADV" semparent="8" semrelate="Loc" />
+                <word id="8" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="3" semrelate="eCoo">
+                    <arg id="0" type="A0" beg="0" end="4" />
+                    <arg id="1" type="A0" beg="5" end="7" />
+                    <arg id="2" type="A1" beg="9" end="11" />
+                </word>
+                <word id="9" cont="15" pos="m" ne="O" parent="10" relate="ATT" semparent="10" semrelate="Quan" />
+                <word id="10" cont="只" pos="q" ne="O" parent="11" relate="ATT" semparent="11" semrelate="Qp" />
+                <word id="11" cont="兔子" pos="n" ne="O" parent="8" relate="VOB" semparent="8" semrelate="Belg" />
+                <word id="12" cont="," pos="wp" ne="O" parent="8" relate="WP" semparent="8" semrelate="mPunc" />
+                <word id="13" cont="后面" pos="nd" ne="O" parent="14" relate="ADV" semparent="14" semrelate="Loc" />
+                <word id="14" cont="有" pos="v" ne="O" parent="8" relate="COO" semparent="8" semrelate="eCoo">
+                    <arg id="0" type="A0" beg="13" end="13" />
+                    <arg id="1" type="A1" beg="15" end="18" />
+                </word>
+                <word id="15" cont="4" pos="m" ne="O" parent="16" relate="ATT" semparent="16" semrelate="Quan" />
+                <word id="16" cont="只" pos="q" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Qp" />
+                <word id="17" cont="小" pos="a" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Feat" />
+                <word id="18" cont="象" pos="n" ne="O" parent="14" relate="VOB" semparent="14" semrelate="Exp" />
+                <word id="19" cont="," pos="wp" ne="O" parent="14" relate="WP" semparent="14" semrelate="mPunc" />
+                <word id="20" cont="这" pos="r" ne="O" parent="22" relate="ATT" semparent="22" semrelate="Sco" />
+                <word id="21" cont="一" pos="m" ne="O" parent="22" relate="ATT" semparent="22" semrelate="Quan" />
+                <word id="22" cont="队" pos="q" ne="O" parent="23" relate="SBV" semparent="23" semrelate="Qp" />
+                <word id="23" cont="共有" pos="v" ne="O" parent="8" relate="COO" semparent="14" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="20" end="20" />
+                    <arg id="1" type="A1" beg="24" end="27" />
+                </word>
+                <word id="24" cont="几" pos="m" ne="O" parent="25" relate="ATT" semparent="25" semrelate="Quan" />
+                <word id="25" cont="只" pos="q" ne="O" parent="27" relate="ATT" semparent="27" semrelate="Qp" />
+                <word id="26" cont="小" pos="a" ne="O" parent="27" relate="ATT" semparent="27" semrelate="Feat" />
+                <word id="27" cont="动物" pos="n" ne="O" parent="23" relate="VOB" semparent="23" semrelate="Pat" />
+                <word id="28" cont="?" pos="wp" ne="O" parent="8" relate="WP" semparent="23" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

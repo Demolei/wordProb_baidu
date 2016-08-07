@@ -1,1202 +1,1202 @@
 [
   {
     "index": "1", 
-    "equation": "-11+-19+m = 0\n", 
-    "question": "\u5c0f\u660e\u5df2\u7ecf\u5199\u597d\u4e8611\u4e2a\u5927\u5b57,\u8fd8\u8981\u519919\u4e2a,\u4ed6\u4e00\u5171\u8981\u5199\u591a\u5c11\u4e2a\u5927\u5b57?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-11+-19+m = 0", 
+    "question": "\u5c0f\u660e\u5df2\u7ecf\u5199\u597d\u4e8611\u4e2a\u5927\u5b57,\u8fd8\u8981\u519919\u4e2a,\u4ed6\u4e00\u5171\u8981\u5199\u591a\u5c11\u4e2a\u5927\u5b57?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "2", 
-    "equation": "-20+-15+m = 0\n", 
-    "question": "\u5c0f\u670b\u53cb\u5df2\u7ecf\u642c\u6765\u4e8620\u628a\u6905\u5b50,\u8fd8\u8981\u518d\u642c15\u628a\u6905\u5b50,\u4e00\u5171\u8981\u642c\u591a\u5c11\u628a\u6905\u5b50?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-20+-15+m = 0", 
+    "question": "\u5c0f\u670b\u53cb\u5df2\u7ecf\u642c\u6765\u4e8620\u628a\u6905\u5b50,\u8fd8\u8981\u518d\u642c15\u628a\u6905\u5b50,\u4e00\u5171\u8981\u642c\u591a\u5c11\u628a\u6905\u5b50?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "3", 
-    "equation": "-20+-80+m = 0\n", 
-    "question": "\u4e00\u6761\u8def\u79bb\u8d77\u70b920\u7c73,\u79bb\u7ec8\u70b980\u7c73,\u8fd9\u6761\u8def\u6709\u591a\u5c11\u7c73?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-20+-80+m = 0", 
+    "question": "\u4e00\u6761\u8def\u79bb\u8d77\u70b920\u7c73,\u79bb\u7ec8\u70b980\u7c73,\u8fd9\u6761\u8def\u6709\u591a\u5c11\u7c73?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "4", 
-    "equation": "-9+-m+n = 0, -22+m = 0\n", 
-    "question": "\u5c71\u7f8a\u8001\u5e08\u628a22\u4e2a\u6843\u5b50\u5206\u7ed9\u4e86\u5c0f\u7334,\u5927\u7334\u6bd4\u5b83\u591a\u5206\u4e869\u4e2a\u6843\u5b50,\u5927\u7334\u5206\u4e86\u51e0\u4e2a\u6843\u5b50?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-9+-m+n = 0, -22+m = 0", 
+    "question": "\u5c71\u7f8a\u8001\u5e08\u628a22\u4e2a\u6843\u5b50\u5206\u7ed9\u4e86\u5c0f\u7334,\u5927\u7334\u6bd4\u5b83\u591a\u5206\u4e869\u4e2a\u6843\u5b50,\u5927\u7334\u5206\u4e86\u51e0\u4e2a\u6843\u5b50?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "5", 
-    "equation": "-7+-m+n = 0, -18+m = 0\n", 
-    "question": "\u821e\u8e48\u7ec4\u670918\u4eba,\u5408\u5531\u7ec4\u7684\u4eba\u6570\u6bd4\u821e\u8e48\u7ec4\u591a7\u4eba,\u5408\u5531\u7ec4\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-7+-m+n = 0, -18+m = 0", 
+    "question": "\u821e\u8e48\u7ec4\u670918\u4eba,\u5408\u5531\u7ec4\u7684\u4eba\u6570\u6bd4\u821e\u8e48\u7ec4\u591a7\u4eba,\u5408\u5531\u7ec4\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "6", 
-    "equation": "-13+-m+n = 0, -20+m = 0\n", 
-    "question": "\u5c0f\u82b3\u548c\u5c0f\u5f3a\u4e00\u8d77\u62cd\u76ae\u7403,\u5c0f\u82b3\u62cd\u4e8620\u4e0b,\u5c0f\u5f3a\u6bd4\u5c0f\u82b3\u591a\u62cd13\u4e0b,\u5c0f\u5f3a\u62cd\u4e86\u591a\u5c11\u4e0b?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-13+-m+n = 0, -20+m = 0", 
+    "question": "\u5c0f\u82b3\u548c\u5c0f\u5f3a\u4e00\u8d77\u62cd\u76ae\u7403,\u5c0f\u82b3\u62cd\u4e8620\u4e0b,\u5c0f\u5f3a\u6bd4\u5c0f\u82b3\u591a\u62cd13\u4e0b,\u5c0f\u5f3a\u62cd\u4e86\u591a\u5c11\u4e0b?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "7", 
-    "equation": "-19+-18+m = 0\n", 
-    "question": "\u4e8c\uff082\uff09\u73ed\u6709\u5973\u751f19\u4eba,\u7537\u751f18\u4eba,\u6bcf\u4eba\u53d1\u4e00\u672c\u4e66,\u4e00\u5171\u9700\u8981\u591a\u5c11\u672c?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-19+-18+m = 0", 
+    "question": "\u4e8c\uff082\uff09\u73ed\u6709\u5973\u751f19\u4eba,\u7537\u751f18\u4eba,\u6bcf\u4eba\u53d1\u4e00\u672c\u4e66,\u4e00\u5171\u9700\u8981\u591a\u5c11\u672c?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "8", 
-    "equation": "-4+-m+n = 0, -28+m = 0\n", 
-    "question": "\u674e\u5b81\u548c\u5218\u82b3\u4e0b\u68cb,\u674e\u5b81\u5df2\u7ecf\u8d70\u4e8628\u683c,\u5218\u82b3\u6bd4\u674e\u5b81\u591a\u8d70\u4e864\u683c,\u5218\u82b3\u8d70\u4e86\u591a\u5c11\u683c?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -28+m = 0", 
+    "question": "\u674e\u5b81\u548c\u5218\u82b3\u4e0b\u68cb,\u674e\u5b81\u5df2\u7ecf\u8d70\u4e8628\u683c,\u5218\u82b3\u6bd4\u674e\u5b81\u591a\u8d70\u4e864\u683c,\u5218\u82b3\u8d70\u4e86\u591a\u5c11\u683c?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "9", 
-    "equation": "-18+-m+n = 0, -34+m = 0\n", 
-    "question": "\u5c0f\u534e\u517b\u869534\u6761,\u5c0f\u6797\u6bd4\u5c0f\u534e\u591a\u517b\u4e8618\u6761,\u5c0f\u534e\u548c\u5c0f\u6797\u4e00\u5171\u517b\u4e86\u591a\u5c11\u6761\u8695?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-18+-m+n = 0, -34+m = 0", 
+    "question": "\u5c0f\u534e\u517b\u869534\u6761,\u5c0f\u6797\u6bd4\u5c0f\u534e\u591a\u517b\u4e8618\u6761,\u5c0f\u534e\u548c\u5c0f\u6797\u4e00\u5171\u517b\u4e86\u591a\u5c11\u6761\u8695?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "10", 
-    "equation": "-16+-m+n = 0, -19+m = 0\n", 
-    "question": "\u65b0\u578b\u7535\u8111\u516c\u53f8\u4e0a\u5348\u5356\u51fa19\u53f0\u7535\u8111,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u5356\u51fa16\u53f0,\u4e0b\u5348\u5356\u51fa\u591a\u5c11\u53f0\u7535\u8111?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-16+-m+n = 0, -19+m = 0", 
+    "question": "\u65b0\u578b\u7535\u8111\u516c\u53f8\u4e0a\u5348\u5356\u51fa19\u53f0\u7535\u8111,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u5356\u51fa16\u53f0,\u4e0b\u5348\u5356\u51fa\u591a\u5c11\u53f0\u7535\u8111?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "11", 
-    "equation": "-48+-34+m = 0\n", 
-    "question": "\u5c0f\u6797\u79cd48\u76c6\u7ea2\u82b1,\u53c8\u79cd\u4e8634\u76c6\u9ec4\u82b1,\u4e24\u79cd\u82b1\u5171\u591a\u5c11\u76c6?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-48+-34+m = 0", 
+    "question": "\u5c0f\u6797\u79cd48\u76c6\u7ea2\u82b1,\u53c8\u79cd\u4e8634\u76c6\u9ec4\u82b1,\u4e24\u79cd\u82b1\u5171\u591a\u5c11\u76c6?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "12", 
-    "equation": "-35+-45+m = 0\n", 
-    "question": "\u5b66\u6821\u539f\u670935\u672c\u7ec3\u4e60\u672c,\u53c8\u4e70\u56de45\u672c,\u73b0\u5728\u5171\u6709\u591a\u5c11\u672c?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-35+-45+m = 0", 
+    "question": "\u5b66\u6821\u539f\u670935\u672c\u7ec3\u4e60\u672c,\u53c8\u4e70\u56de45\u672c,\u73b0\u5728\u5171\u6709\u591a\u5c11\u672c?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "13", 
-    "equation": "-49+-15+m = 0\n", 
-    "question": "\u9a6c\u573a\u4e0a\u670949\u5339\u9a6c,\u53c8\u6765\u4e8615\u5339,\u73b0\u5728\u9a6c\u573a\u4e0a\u6709\u591a\u5c11\u5339?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-49+-15+m = 0", 
+    "question": "\u9a6c\u573a\u4e0a\u670949\u5339\u9a6c,\u53c8\u6765\u4e8615\u5339,\u73b0\u5728\u9a6c\u573a\u4e0a\u6709\u591a\u5c11\u5339?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "14", 
-    "equation": "-25+-6+m = 0\n", 
-    "question": "\u5b66\u6821\u6709\u592a\u9633\u82b125\u76c6,\u5170\u82b16\u76c6,\u5b66\u6821\u6709\u51e0\u76c6\u82b1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-25+-6+m = 0", 
+    "question": "\u5b66\u6821\u6709\u592a\u9633\u82b125\u76c6,\u5170\u82b16\u76c6,\u5b66\u6821\u6709\u51e0\u76c6\u82b1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "15", 
-    "equation": "-18+-24+m = 0\n", 
-    "question": "\u5b66\u6821\u8981\u7ed9\u5c71\u533a\u5c0f\u5b66\u751f\u9001\u6587\u5177,\u5148\u9001\u53bb\u4e8618\u7bb1,\u53c8\u9001\u53bb\u4e8624\u7bb1,\u4e00\u5171\u9001\u53bb\u4e86\u591a\u5c11\u7bb1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-18+-24+m = 0", 
+    "question": "\u5b66\u6821\u8981\u7ed9\u5c71\u533a\u5c0f\u5b66\u751f\u9001\u6587\u5177,\u5148\u9001\u53bb\u4e8618\u7bb1,\u53c8\u9001\u53bb\u4e8624\u7bb1,\u4e00\u5171\u9001\u53bb\u4e86\u591a\u5c11\u7bb1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "16", 
-    "equation": "-18+-12+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u676518\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u676512\u8f86\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u6765\u591a\u5c11\u8f86\u6c7d\u8f66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-18+-12+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u676518\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u676512\u8f86\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u6765\u591a\u5c11\u8f86\u6c7d\u8f66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "17", 
-    "equation": "-28+-19+m = 0\n", 
-    "question": "\u56fe\u4e66\u5ba4\u91cc\u670928\u4e2a\u5973\u540c\u5b66,\u670919\u4e2a\u7537\u540c\u5b66,\u56fe\u4e66\u9986\u4e00\u5171\u6709\u591a\u5c11\u4e2a\u540c\u5b66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-28+-19+m = 0", 
+    "question": "\u56fe\u4e66\u5ba4\u91cc\u670928\u4e2a\u5973\u540c\u5b66,\u670919\u4e2a\u7537\u540c\u5b66,\u56fe\u4e66\u9986\u4e00\u5171\u6709\u591a\u5c11\u4e2a\u540c\u5b66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "18", 
-    "equation": "-58+-m+n = 0, -39+m = 0\n", 
-    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u5927\u733439\u53ea,\u5c0f\u7334\u7684\u6570\u91cf\u6bd4\u5927\u7334\u591a58\u53ea,\u52a8\u7269\u56ed\u91cc\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5c0f\u7334\u5b50?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-58+-m+n = 0, -39+m = 0", 
+    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u5927\u733439\u53ea,\u5c0f\u7334\u7684\u6570\u91cf\u6bd4\u5927\u7334\u591a58\u53ea,\u52a8\u7269\u56ed\u91cc\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5c0f\u7334\u5b50?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "19", 
-    "equation": "-19+-m+n = 0, -28+m = 0\n", 
-    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670928\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u591a19\u672c,\u7b2c\u4e8c\u5c42\u6709\u591a\u5c11\u672c?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-19+-m+n = 0, -28+m = 0", 
+    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670928\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u591a19\u672c,\u7b2c\u4e8c\u5c42\u6709\u591a\u5c11\u672c?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "20", 
-    "equation": "-85+-m+n = 0, -287+m = 0\n", 
-    "question": "\u4e09\u5ea7\u6865,\u7b2c\u4e00\u5ea7\u957f287\u7c73,\u7b2c\u4e8c\u5ea7\u6bd4\u7b2c\u4e00\u5ea7\u957f85\u7c73,\u7b2c\u4e8c\u5ea7\u6865\u957f\u591a\u5c11\u7c73?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-85+-m+n = 0, -287+m = 0", 
+    "question": "\u4e09\u5ea7\u6865,\u7b2c\u4e00\u5ea7\u957f287\u7c73,\u7b2c\u4e8c\u5ea7\u6bd4\u7b2c\u4e00\u5ea7\u957f85\u7c73,\u7b2c\u4e8c\u5ea7\u6865\u957f\u591a\u5c11\u7c73?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "21", 
-    "equation": "-3+-12+m = 0\n", 
-    "question": "\u5c0f\u519b\u5bb6\u6709\u516c\u9e213\u53ea,\u6bcd\u9e2112\u53ea,\u4ed6\u5bb6\u4e00\u5171\u6709\u591a\u5c11\u53ea\u9e21?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-3+-12+m = 0", 
+    "question": "\u5c0f\u519b\u5bb6\u6709\u516c\u9e213\u53ea,\u6bcd\u9e2112\u53ea,\u4ed6\u5bb6\u4e00\u5171\u6709\u591a\u5c11\u53ea\u9e21?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "22", 
-    "equation": "-6+-4+m = 0\n", 
-    "question": "\u6811\u4e0a\u67096\u53ea\u5c0f\u9e1f,\u53c8\u98de\u6765\u4e864\u53ea,\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5c0f\u9e1f?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-4+m = 0", 
+    "question": "\u6811\u4e0a\u67096\u53ea\u5c0f\u9e1f,\u53c8\u98de\u6765\u4e864\u53ea,\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5c0f\u9e1f?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "23", 
-    "equation": "-10+-6+m = 0\n", 
-    "question": "\u51ac\u51ac\u6709\u7ec3\u4e60\u672c10\u672c,\u53c8\u4e70\u4e866\u672c,\u4e00\u5171\u6709\u591a\u5c11\u672c?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-10+-6+m = 0", 
+    "question": "\u51ac\u51ac\u6709\u7ec3\u4e60\u672c10\u672c,\u53c8\u4e70\u4e866\u672c,\u4e00\u5171\u6709\u591a\u5c11\u672c?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "24", 
-    "equation": "-7+-4+m = 0\n", 
-    "question": "\u9633\u9633\u5f97\u4e867\u6735\u5c0f\u7ea2\u82b1,\u4e3d\u4e3d\u5f97\u4e864\u6735\u5c0f\u7ea2\u82b1,\u4ed6\u4eec\u4e00\u5171\u5f97\u4e86\u591a\u5c11\u6735\u5c0f\u7ea2\u82b1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-7+-4+m = 0", 
+    "question": "\u9633\u9633\u5f97\u4e867\u6735\u5c0f\u7ea2\u82b1,\u4e3d\u4e3d\u5f97\u4e864\u6735\u5c0f\u7ea2\u82b1,\u4ed6\u4eec\u4e00\u5171\u5f97\u4e86\u591a\u5c11\u6735\u5c0f\u7ea2\u82b1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "25", 
-    "equation": "-6+-8+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u6298\u4e866\u53ea\u5c0f\u8239,\u5c0f\u534e\u6298\u4e868\u53ea,\u5c0f\u7ea2\u548c\u5c0f\u534e\u4e00\u5171\u6298\u4e86\u591a\u5c11\u53ea\u5c0f\u8239?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-8+m = 0", 
+    "question": "\u5c0f\u7ea2\u6298\u4e866\u53ea\u5c0f\u8239,\u5c0f\u534e\u6298\u4e868\u53ea,\u5c0f\u7ea2\u548c\u5c0f\u534e\u4e00\u5171\u6298\u4e86\u591a\u5c11\u53ea\u5c0f\u8239?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "26", 
-    "equation": "-8+-10+m = 0\n", 
-    "question": "\u5c0f\u660e\u6628\u5929\u5199\u4e868\u4e2a\u5927\u5b57,\u4eca\u5929\u5199\u4e8610\u4e2a,\u4ed6\u4e24\u5929\u4e00\u5171\u5199\u4e86\u591a\u5c11\u4e2a\u5927\u5b57?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-10+m = 0", 
+    "question": "\u5c0f\u660e\u6628\u5929\u5199\u4e868\u4e2a\u5927\u5b57,\u4eca\u5929\u5199\u4e8610\u4e2a,\u4ed6\u4e24\u5929\u4e00\u5171\u5199\u4e86\u591a\u5c11\u4e2a\u5927\u5b57?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "27", 
-    "equation": "-7+-8+m = 0\n", 
-    "question": "\u4e00\u672c\u6545\u4e8b\u4e66,\u5c0f\u73b2\u6628\u5929\u770b\u4e867\u9875,\u4eca\u5929\u770b\u4e868\u9875,\u4ed6\u4e00\u5171\u770b\u4e86\u591a\u5c11\u9875?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-7+-8+m = 0", 
+    "question": "\u4e00\u672c\u6545\u4e8b\u4e66,\u5c0f\u73b2\u6628\u5929\u770b\u4e867\u9875,\u4eca\u5929\u770b\u4e868\u9875,\u4ed6\u4e00\u5171\u770b\u4e86\u591a\u5c11\u9875?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "28", 
-    "equation": "-8+-7+m = 0\n", 
-    "question": "\u5b66\u6821\u67098\u526f\u7403\u62cd,\u53c8\u4e70\u67657\u526f\u7403\u62cd,\u4e00\u5171\u6709\u591a\u5c11\u526f\u7403\u62cd?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-7+m = 0", 
+    "question": "\u5b66\u6821\u67098\u526f\u7403\u62cd,\u53c8\u4e70\u67657\u526f\u7403\u62cd,\u4e00\u5171\u6709\u591a\u5c11\u526f\u7403\u62cd?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "29", 
-    "equation": "-14+-2+m = 0\n", 
-    "question": "\u505c\u8f66\u573a\u670914\u8f86\u8f66,\u540e\u6765\u53c8\u6765\u4e862\u8f86,\u73b0\u5728\u505c\u8f66\u573a\u4e00\u5171\u6709\u591a\u5c11\u8f86?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-14+-2+m = 0", 
+    "question": "\u505c\u8f66\u573a\u670914\u8f86\u8f66,\u540e\u6765\u53c8\u6765\u4e862\u8f86,\u73b0\u5728\u505c\u8f66\u573a\u4e00\u5171\u6709\u591a\u5c11\u8f86?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "30", 
-    "equation": "-9+-7+m = 0\n", 
-    "question": "\u5c0f\u4e3d\u505a\u4e869\u9053\u9898,\u8fd8\u67097\u9053\u6ca1\u505a\u5b8c,\u5c0f\u4e3d\u4e00\u5171\u8981\u505a\u591a\u5c11\u9053\u9898?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-9+-7+m = 0", 
+    "question": "\u5c0f\u4e3d\u505a\u4e869\u9053\u9898,\u8fd8\u67097\u9053\u6ca1\u505a\u5b8c,\u5c0f\u4e3d\u4e00\u5171\u8981\u505a\u591a\u5c11\u9053\u9898?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "31", 
-    "equation": "-8+-3+m = 0\n", 
-    "question": "\u5c0f\u660e\u4e0a\u5348\u5199\u4e868\u4e2a\u5927\u5b57,\u4e0b\u5348\u8fd8\u8981\u51993\u4e2a\u5927\u5b57,\u4ed6\u4e00\u5929\u4e00\u5171\u8981\u5199\u591a\u5c11\u4e2a\u5927\u5b57?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-3+m = 0", 
+    "question": "\u5c0f\u660e\u4e0a\u5348\u5199\u4e868\u4e2a\u5927\u5b57,\u4e0b\u5348\u8fd8\u8981\u51993\u4e2a\u5927\u5b57,\u4ed6\u4e00\u5929\u4e00\u5171\u8981\u5199\u591a\u5c11\u4e2a\u5927\u5b57?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "32", 
-    "equation": "-4+-8+m = 0\n", 
-    "question": "\u5c0f\u4e3d\u5403\u4e864\u4e2a\u82f9\u679c\u540e,\u8fd8\u52698\u4e2a\u82f9\u679c,\u5979\u539f\u6765\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-4+-8+m = 0", 
+    "question": "\u5c0f\u4e3d\u5403\u4e864\u4e2a\u82f9\u679c\u540e,\u8fd8\u52698\u4e2a\u82f9\u679c,\u5979\u539f\u6765\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "33", 
-    "equation": "-8+-4+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u5403\u4e868\u5757\u997c\u5e72,\u8fd8\u67094\u5757\u997c\u5e72\u6ca1\u6709\u5403,\u4ed6\u539f\u6765\u6709\u591a\u5c11\u5757\u997c\u5e72?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-4+m = 0", 
+    "question": "\u5c0f\u7ea2\u5403\u4e868\u5757\u997c\u5e72,\u8fd8\u67094\u5757\u997c\u5e72\u6ca1\u6709\u5403,\u4ed6\u539f\u6765\u6709\u591a\u5c11\u5757\u997c\u5e72?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "34", 
-    "equation": "-3+-15+m = 0\n", 
-    "question": "\u5c0f\u519b\u53bb\u56fe\u4e66\u9986\u501f\u6545\u4e8b\u4e66,\u4ed6\u501f\u4e863\u672c\u6545\u4e8b\u4e66,\u8fd8\u670915\u672c\u6545\u4e8b\u4e66,\u539f\u6765\u6709\u591a\u5c11\u672c\u6545\u4e8b\u4e66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-3+-15+m = 0", 
+    "question": "\u5c0f\u519b\u53bb\u56fe\u4e66\u9986\u501f\u6545\u4e8b\u4e66,\u4ed6\u501f\u4e863\u672c\u6545\u4e8b\u4e66,\u8fd8\u670915\u672c\u6545\u4e8b\u4e66,\u539f\u6765\u6709\u591a\u5c11\u672c\u6545\u4e8b\u4e66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "35", 
-    "equation": "-20+-23+m = 0\n", 
-    "question": "\u73b2\u73b2\u5bb6\u91cc\u670920\u672c\u6545\u4e8b\u4e66,\u82b3\u82b3\u5bb6\u91cc\u670923\u672c\u6545\u4e8b\u4e66,\u73b2\u73b2\u548c\u82b3\u82b3\u4e00\u5171\u6709\u591a\u5c11\u6545\u4e8b\u4e66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-20+-23+m = 0", 
+    "question": "\u73b2\u73b2\u5bb6\u91cc\u670920\u672c\u6545\u4e8b\u4e66,\u82b3\u82b3\u5bb6\u91cc\u670923\u672c\u6545\u4e8b\u4e66,\u73b2\u73b2\u548c\u82b3\u82b3\u4e00\u5171\u6709\u591a\u5c11\u6545\u4e8b\u4e66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "36", 
-    "equation": "-30+-39+m = 0\n", 
-    "question": "\u661f\u671f\u4e00\u5546\u5e97\u91cc\u5356\u6389\u4e8630\u76d2\u9e21\u86cb,\u661f\u671f\u4e8c\u5546\u5e97\u91cc\u5356\u6389\u4e8639\u76d2\u9e21\u86cb,\u661f\u671f\u4e00\u548c\u661f\u671f\u4e8c\u4e00\u5171\u5356\u6389\u591a\u5c11\u76d2\u9e21\u86cb?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-30+-39+m = 0", 
+    "question": "\u661f\u671f\u4e00\u5546\u5e97\u91cc\u5356\u6389\u4e8630\u76d2\u9e21\u86cb,\u661f\u671f\u4e8c\u5546\u5e97\u91cc\u5356\u6389\u4e8639\u76d2\u9e21\u86cb,\u661f\u671f\u4e00\u548c\u661f\u671f\u4e8c\u4e00\u5171\u5356\u6389\u591a\u5c11\u76d2\u9e21\u86cb?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "37", 
-    "equation": "-30+-20+m = 0\n", 
-    "question": "\u5a46\u5a46\u670930\u53ea\u9e2d\u5b50,\u5979\u53c8\u4e70\u4e8620\u53ea\u9e2d\u5b50,\u73b0\u5728\u5a46\u5a46\u4e00\u5171\u6709\u591a\u5c11\u53ea\u9e2d\u5b50?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-30+-20+m = 0", 
+    "question": "\u5a46\u5a46\u670930\u53ea\u9e2d\u5b50,\u5979\u53c8\u4e70\u4e8620\u53ea\u9e2d\u5b50,\u73b0\u5728\u5a46\u5a46\u4e00\u5171\u6709\u591a\u5c11\u53ea\u9e2d\u5b50?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "38", 
-    "equation": "-16+-45+m = 0\n", 
-    "question": "\u5982\u679c\u5c0f\u7ea2\u6458\u4e8616\u6735\u82b1,\u5c0f\u4e3d\u6458\u4e8645\u6735\u82b1,\u4e24\u4eba\u4e00\u5171\u6458\u4e86\u591a\u5c11\u6735\u82b1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-16+-45+m = 0", 
+    "question": "\u5982\u679c\u5c0f\u7ea2\u6458\u4e8616\u6735\u82b1,\u5c0f\u4e3d\u6458\u4e8645\u6735\u82b1,\u4e24\u4eba\u4e00\u5171\u6458\u4e86\u591a\u5c11\u6735\u82b1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "39", 
-    "equation": "-30+-30+m = 0\n", 
-    "question": "\u738b\u963f\u59e8\u8981\u6253\u626b30\u95f4\u6559\u5ba4,\u674e\u963f\u59e8\u8981\u6253\u626b30\u95f4\u6559\u5ba4,\u4e24\u4eba\u4e00\u5171\u8981\u6253\u626b\u51e0\u95f4\u6559\u5ba4?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-30+-30+m = 0", 
+    "question": "\u738b\u963f\u59e8\u8981\u6253\u626b30\u95f4\u6559\u5ba4,\u674e\u963f\u59e8\u8981\u6253\u626b30\u95f4\u6559\u5ba4,\u4e24\u4eba\u4e00\u5171\u8981\u6253\u626b\u51e0\u95f4\u6559\u5ba4?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "40", 
-    "equation": "-36+-25+m = 0\n", 
-    "question": "\u4ece\u82b1\u4e0a\u98de\u8d70\u4e8636\u53ea\u8774\u8776,\u53c8\u98de\u8d70\u4e8625\u53ea,\u4e24\u6b21\u98de\u8d70\u4e86\u591a\u5c11\u53ea?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-36+-25+m = 0", 
+    "question": "\u4ece\u82b1\u4e0a\u98de\u8d70\u4e8636\u53ea\u8774\u8776,\u53c8\u98de\u8d70\u4e8625\u53ea,\u4e24\u6b21\u98de\u8d70\u4e86\u591a\u5c11\u53ea?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "41", 
-    "equation": "-25+-19+m = 0\n", 
-    "question": "\u5b66\u6821\u539f\u670925\u74f6\u80f6\u6c34,\u53c8\u4e70\u56de19\u74f6,\u73b0\u5728\u6709\u591a\u5c11\u74f6?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-25+-19+m = 0", 
+    "question": "\u5b66\u6821\u539f\u670925\u74f6\u80f6\u6c34,\u53c8\u4e70\u56de19\u74f6,\u73b0\u5728\u6709\u591a\u5c11\u74f6?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "42", 
-    "equation": "-8+-8+m = 0\n", 
-    "question": "\u5c0f\u670b\u53cb\u505a\u526a\u7eb8,\u7528\u4e868\u5f20\u7ea2\u7eb8,\u53c8\u7528\u4e868\u5f20\u9ec4\u7eb8,\u4ed6\u4eec\u7528\u4e86\u591a\u5c11\u5f20\u7eb8?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-8+m = 0", 
+    "question": "\u5c0f\u670b\u53cb\u505a\u526a\u7eb8,\u7528\u4e868\u5f20\u7ea2\u7eb8,\u53c8\u7528\u4e868\u5f20\u9ec4\u7eb8,\u4ed6\u4eec\u7528\u4e86\u591a\u5c11\u5f20\u7eb8?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "43", 
-    "equation": "-39+-52+m = 0\n", 
-    "question": "\u9a6c\u573a\u4e0a\u670939\u5339\u9a6c,\u53c8\u6765\u4e8652\u5339,\u73b0\u5728\u9a6c\u573a\u4e0a\u6709\u591a\u5c11\u5339?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-39+-52+m = 0", 
+    "question": "\u9a6c\u573a\u4e0a\u670939\u5339\u9a6c,\u53c8\u6765\u4e8652\u5339,\u73b0\u5728\u9a6c\u573a\u4e0a\u6709\u591a\u5c11\u5339?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "44", 
-    "equation": "-25+-16+m = 0\n", 
-    "question": "\u5546\u5e97\u670925\u628a\u6247,\u53c8\u4e70\u676516\u628a,\u73b0\u5728\u6709\u591a\u5c11\u628a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-25+-16+m = 0", 
+    "question": "\u5546\u5e97\u670925\u628a\u6247,\u53c8\u4e70\u676516\u628a,\u73b0\u5728\u6709\u591a\u5c11\u628a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "45", 
-    "equation": "-8+-24+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u6c7d\u8f66,\u8fd8\u526924\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-24+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u6c7d\u8f66,\u8fd8\u526924\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "46", 
-    "equation": "-8+-8+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u8d708\u8f86\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u8d70\u591a\u5c11\u8f86\u6c7d\u8f66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-8+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u8d708\u8f86\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u8d70\u591a\u5c11\u8f86\u6c7d\u8f66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "47", 
-    "equation": "-6+-26+m = 0\n", 
-    "question": "\u5b66\u6821\u4f53\u80b2\u5ba4\u67096\u4e2a\u8db3\u7403,\u53c8\u4e70\u676526\u4e2a,\u73b0\u5728\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-26+m = 0", 
+    "question": "\u5b66\u6821\u4f53\u80b2\u5ba4\u67096\u4e2a\u8db3\u7403,\u53c8\u4e70\u676526\u4e2a,\u73b0\u5728\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "48", 
-    "equation": "-8+-9+m = 0\n", 
-    "question": "\u5b66\u96f7\u950b\u5c0f\u7ec4\u4e0a\u5348\u4fee\u4e868\u5f20\u6905,\u4e0b\u5348\u4fee\u4e869\u5f20,\u4e00\u5929\u4fee\u4e86\u591a\u5c11\u5f20\u6905?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-8+-9+m = 0", 
+    "question": "\u5b66\u96f7\u950b\u5c0f\u7ec4\u4e0a\u5348\u4fee\u4e868\u5f20\u6905,\u4e0b\u5348\u4fee\u4e869\u5f20,\u4e00\u5929\u4fee\u4e86\u591a\u5c11\u5f20\u6905?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "49", 
-    "equation": "-20+-13+m = 0\n", 
-    "question": "\u539f\u6765\u670922\u4eba\u770b\u620f,\u6765\u4e8613\u4eba,\u73b0\u5728\u770b\u620f\u7684\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-20+-13+m = 0", 
+    "question": "\u539f\u6765\u670922\u4eba\u770b\u620f,\u6765\u4e8613\u4eba,\u73b0\u5728\u770b\u620f\u7684\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "50", 
-    "equation": "-22+-21+m = 0\n", 
-    "question": "\u7537\u751f\u670922\u4eba,\u5973\u751f\u670921\u4eba,\u5171\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-22+-21+m = 0", 
+    "question": "\u7537\u751f\u670922\u4eba,\u5973\u751f\u670921\u4eba,\u5171\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "51", 
-    "equation": "-28+-24+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u670928\u4e2a\u6c14\u7403,\u5c0f\u82b3\u670924\u4e2a\u6c14\u7403,\u5979\u4eec\u5171\u6709\u591a\u5c11\u4e2a\u6c14\u7403?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-28+-24+m = 0", 
+    "question": "\u5c0f\u7ea2\u670928\u4e2a\u6c14\u7403,\u5c0f\u82b3\u670924\u4e2a\u6c14\u7403,\u5979\u4eec\u5171\u6709\u591a\u5c11\u4e2a\u6c14\u7403?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "52", 
-    "equation": "-21+-18+m = 0\n", 
-    "question": "\u5c0f\u519b\u548c\u5c0f\u4e3d\u505a\u706f\u7b3c,\u5c0f\u519b\u505a\u4e8621\u4e2a,\u5c0f\u4e3d\u505a\u4e8618\u4e2a,\u4ed6\u4eec\u4e00\u5171\u505a\u4e86\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-21+-18+m = 0", 
+    "question": "\u5c0f\u519b\u548c\u5c0f\u4e3d\u505a\u706f\u7b3c,\u5c0f\u519b\u505a\u4e8621\u4e2a,\u5c0f\u4e3d\u505a\u4e8618\u4e2a,\u4ed6\u4eec\u4e00\u5171\u505a\u4e86\u591a\u5c11\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "53", 
-    "equation": "-3+-m+n = 0, -10+m = 0\n", 
-    "question": "\u5c0f\u4e1c\u4e0a\u5348\u505a\u4e8610\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u505a\u7684\u6bd4\u4e0a\u5348\u591a3\u9053,\u5c0f\u4e1c\u4e0b\u5348\u505a\u4e86\u591a\u5c11\u9053?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-3+-m+n = 0, -10+m = 0", 
+    "question": "\u5c0f\u4e1c\u4e0a\u5348\u505a\u4e8610\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u505a\u7684\u6bd4\u4e0a\u5348\u591a3\u9053,\u5c0f\u4e1c\u4e0b\u5348\u505a\u4e86\u591a\u5c11\u9053?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "54", 
-    "equation": "-6+-m+n = 0, -15+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u770b\u6545\u4e8b\u4e66,\u7b2c\u4e00\u5929\u770b\u4e8615\u9875,\u7b2c\u4e8c\u5929\u770b\u7684\u6bd4\u7b2c\u4e00\u5929\u591a6\u9875,\u7b2c\u4e8c\u5929\u770b\u4e86\u591a\u5c11\u9875?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-6+-m+n = 0, -15+m = 0", 
+    "question": "\u5c0f\u7ea2\u770b\u6545\u4e8b\u4e66,\u7b2c\u4e00\u5929\u770b\u4e8615\u9875,\u7b2c\u4e8c\u5929\u770b\u7684\u6bd4\u7b2c\u4e00\u5929\u591a6\u9875,\u7b2c\u4e8c\u5929\u770b\u4e86\u591a\u5c11\u9875?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "55", 
-    "equation": "-26+-4+m = 0\n", 
-    "question": "\u670926\u4e2a\u5b66\u751f,\u53c8\u6765\u4e864\u4e2a\u5b66\u751f,\u95ee\u73b0\u5728\u591a\u5c11\u540d\u5b66\u751f?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-26+-4+m = 0", 
+    "question": "\u670926\u4e2a\u5b66\u751f,\u53c8\u6765\u4e864\u4e2a\u5b66\u751f,\u95ee\u73b0\u5728\u591a\u5c11\u540d\u5b66\u751f?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "56", 
-    "equation": "-4+-10+m = 0\n", 
-    "question": "\u6811\u4e0a\u98de\u8d704\u53ea\u9e1f,\u8fd8\u526910\u53ea\u9e1f,\u539f\u6765\u6811\u4e0a\u6709\u591a\u5c11\u53ea\u9e1f?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-4+-10+m = 0", 
+    "question": "\u6811\u4e0a\u98de\u8d704\u53ea\u9e1f,\u8fd8\u526910\u53ea\u9e1f,\u539f\u6765\u6811\u4e0a\u6709\u591a\u5c11\u53ea\u9e1f?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "57", 
-    "equation": "-4+-m+n = 0, -19+m = 0\n", 
-    "question": "\u7532\u6570\u662f19,\u4e59\u6570\u6bd4\u7532\u6570\u591a4,\u4e59\u6570\u662f\u591a\u5c11?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -19+m = 0", 
+    "question": "\u7532\u6570\u662f19,\u4e59\u6570\u6bd4\u7532\u6570\u591a4,\u4e59\u6570\u662f\u591a\u5c11?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "58", 
-    "equation": "-75+-4+m = 0\n", 
-    "question": "\u7537\u5b6975\u4eba,\u5973\u5b694\u4eba,\u4e00\u5171\u591a\u5c11\u4eba?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-75+-4+m = 0", 
+    "question": "\u7537\u5b6975\u4eba,\u5973\u5b694\u4eba,\u4e00\u5171\u591a\u5c11\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "59", 
-    "equation": "-20+-4+m = 0\n", 
-    "question": "\u5a77\u5a77\u53bb\u5546\u5e97\u4e70\u8db3\u7403,\u4ed6\u7ed9\u552e\u8d27\u545820\u5143\u94b1,\u552e\u8d27\u5458\u8bf4\u8fd8\u5dee4\u5143,\u8db3\u7403\u591a\u5c11\u94b1\u4e00\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-20+-4+m = 0", 
+    "question": "\u5a77\u5a77\u53bb\u5546\u5e97\u4e70\u8db3\u7403,\u4ed6\u7ed9\u552e\u8d27\u545820\u5143\u94b1,\u552e\u8d27\u5458\u8bf4\u8fd8\u5dee4\u5143,\u8db3\u7403\u591a\u5c11\u94b1\u4e00\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "60", 
-    "equation": "-5+-4+m = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u6392\u961f\u505a\u64cd,\u5c0f\u660e\u524d\u9762\u67095\u4e2a\u4eba,\u540e\u9762\u67094\u4e2a\u4eba,\u8fd9\u4e00\u961f\u4e00\u5171\u6709\u591a\u5c11\u4eba?\t\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-5+-4+m = 0", 
+    "question": "\u540c\u5b66\u4eec\u6392\u961f\u505a\u64cd,\u5c0f\u660e\u524d\u9762\u67095\u4e2a\u4eba,\u540e\u9762\u67094\u4e2a\u4eba,\u8fd9\u4e00\u961f\u4e00\u5171\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "61", 
-    "equation": "-9+-4+m = 0\n", 
-    "question": "\u8001\u5e08\u7ed99\u4e2a\u5b66\u751f\u6bcf\u4eba\u53d1\u4e00\u6735\u82b1,\u8fd8\u591a\u51fa4\u6735\u7ea2\u82b1,\u8001\u5e08\u5171\u6709\u591a\u5c11\u6735\u7ea2\u82b1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-9+-4+m = 0", 
+    "question": "\u8001\u5e08\u7ed99\u4e2a\u5b66\u751f\u6bcf\u4eba\u53d1\u4e00\u6735\u82b1,\u8fd8\u591a\u51fa4\u6735\u7ea2\u82b1,\u8001\u5e08\u5171\u6709\u591a\u5c11\u6735\u7ea2\u82b1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "62", 
-    "equation": "-6+-5+m = 0\n", 
-    "question": "\u4e09\u4e2a\u7537\u540c\u5b66\u501f\u8d706\u672c\u4e66,\u4e09\u4e2a\u5973\u540c\u5b66\u501f\u8d705\u672c\u4e66,\u4ed6\u4eec\u4e00\u5171\u501f\u8d70\u591a\u5c11\u672c\u4e66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-5+m = 0", 
+    "question": "\u4e09\u4e2a\u7537\u540c\u5b66\u501f\u8d706\u672c\u4e66,\u4e09\u4e2a\u5973\u540c\u5b66\u501f\u8d705\u672c\u4e66,\u4ed6\u4eec\u4e00\u5171\u501f\u8d70\u591a\u5c11\u672c\u4e66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "63", 
-    "equation": "-28+-4+m = 0\n", 
-    "question": "\u5546\u5e97\u4e00\u5171\u6709\u6d0b\u5a03\u5a0390\u4e2a,\u7b2c\u4e00\u6b21\u5356\u51fa\u6d0b\u5a03\u5a0328\u4e2a,\u7b2c\u4e8c\u6b21\u5356\u51fa4\u4e2a,\u4e24\u6b21\u4e00\u5171\u5356\u51fa\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-28+-4+m = 0", 
+    "question": "\u5546\u5e97\u4e00\u5171\u6709\u6d0b\u5a03\u5a0390\u4e2a,\u7b2c\u4e00\u6b21\u5356\u51fa\u6d0b\u5a03\u5a0328\u4e2a,\u7b2c\u4e8c\u6b21\u5356\u51fa4\u4e2a,\u4e24\u6b21\u4e00\u5171\u5356\u51fa\u591a\u5c11\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "64", 
-    "equation": "-4+-12+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u8d704\u8f86\u6c7d\u8f66,\u8fd8\u526912\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-4+-12+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u8d704\u8f86\u6c7d\u8f66,\u8fd8\u526912\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "65", 
-    "equation": "-6+-6+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u8d706\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u8d70\u540c\u6837\u591a\u7684\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u8d70\u591a\u5c11\u8f86\u6c7d\u8f66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-6+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u8d706\u8f86\u5927\u6c7d\u8f66,\u53c8\u5f00\u8d70\u540c\u6837\u591a\u7684\u5c0f\u6c7d\u8f66,\u4e24\u6b21\u5f00\u8d70\u591a\u5c11\u8f86\u6c7d\u8f66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "66", 
-    "equation": "-23+-4+m = 0\n", 
-    "question": "\u5b66\u6821\u4f53\u80b2\u5ba4\u670923\u4e2a\u8db3\u7403,\u53c8\u4e70\u67654\u4e2a,\u73b0\u5728\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-23+-4+m = 0", 
+    "question": "\u5b66\u6821\u4f53\u80b2\u5ba4\u670923\u4e2a\u8db3\u7403,\u53c8\u4e70\u67654\u4e2a,\u73b0\u5728\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "67", 
-    "equation": "-15+-5+m = 0\n", 
-    "question": "\u5b66\u96f7\u950b\u5c0f\u7ec4\u4e0a\u5348\u4fee\u4e8615\u628a\u6905\u5b50,\u4e0b\u5348\u4fee\u4e865\u628a,\u4e00\u5929\u4fee\u4e86\u591a\u5c11\u628a\u6905\u5b50?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-15+-5+m = 0", 
+    "question": "\u5b66\u96f7\u950b\u5c0f\u7ec4\u4e0a\u5348\u4fee\u4e8615\u628a\u6905\u5b50,\u4e0b\u5348\u4fee\u4e865\u628a,\u4e00\u5929\u4fee\u4e86\u591a\u5c11\u628a\u6905\u5b50?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "68", 
-    "equation": "-4+-m+n = 0, -20+m = 0\n", 
-    "question": "\u660e\u660e\u4e0a\u5348\u7b97\u4e8620\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u7b97\u4e864\u9053,\u4e0b\u5348\u7b97\u4e86\u591a\u5c11\u9053\u9898?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -20+m = 0", 
+    "question": "\u660e\u660e\u4e0a\u5348\u7b97\u4e8620\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u7b97\u4e864\u9053,\u4e0b\u5348\u7b97\u4e86\u591a\u5c11\u9053\u9898?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "69", 
-    "equation": "-22+-10+m = 0\n", 
-    "question": "\u56fe\u4e66\u5ba4\u91cc\u670922\u4e2a\u5973\u540c\u5b66,\u670910\u4e2a\u7537\u540c\u5b66,\u56fe\u4e66\u5ba4\u91cc\u4e00\u5171\u591a\u5c11\u540d\u540c\u5b66?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-22+-10+m = 0", 
+    "question": "\u56fe\u4e66\u5ba4\u91cc\u670922\u4e2a\u5973\u540c\u5b66,\u670910\u4e2a\u7537\u540c\u5b66,\u56fe\u4e66\u5ba4\u91cc\u4e00\u5171\u591a\u5c11\u540d\u540c\u5b66?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "70", 
-    "equation": "-6+-8+m = 0\n", 
-    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u8001\u73346\u53ea,\u6709\u5c0f\u73348\u53ea,\u4e00\u5171\u6709\u591a\u5c11\u53ea\u7334\u5b50?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-6+-8+m = 0", 
+    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u8001\u73346\u53ea,\u6709\u5c0f\u73348\u53ea,\u4e00\u5171\u6709\u591a\u5c11\u53ea\u7334\u5b50?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "71", 
-    "equation": "-3+-m+n = 0, -10+m = 0\n", 
-    "question": "\u5b66\u6821\u670910\u4e2a\u8db3\u7403,\u7bee\u7403\u6bd4\u8db3\u7403\u591a3\u4e2a,\u7bee\u7403\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-3+-m+n = 0, -10+m = 0", 
+    "question": "\u5b66\u6821\u670910\u4e2a\u8db3\u7403,\u7bee\u7403\u6bd4\u8db3\u7403\u591a3\u4e2a,\u7bee\u7403\u591a\u5c11\u4e2a?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "72", 
-    "equation": "-4+-m+n = 0, -16+m = 0\n", 
-    "question": "\u5988\u5988\u4e70\u82f9\u679c16\u4e2a,\u68a8\u6bd4\u82f9\u679c\u591a4\u4e2a,\u68a8\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -16+m = 0", 
+    "question": "\u5988\u5988\u4e70\u82f9\u679c16\u4e2a,\u68a8\u6bd4\u82f9\u679c\u591a4\u4e2a,\u68a8\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "73", 
-    "equation": "-16+-4+m = 0\n", 
-    "question": "\u6d3b\u52a8\u8bfe\u4e0a,\u8df3\u7ef3\u7684\u540c\u5b66\u670916\u4eba,\u6253\u4e52\u4e53\u7403\u7684\u540c\u5b66\u67094\u4eba,\u6253\u4e52\u4e53\u7403\u7684\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-16+-4+m = 0", 
+    "question": "\u6d3b\u52a8\u8bfe\u4e0a,\u8df3\u7ef3\u7684\u540c\u5b66\u670916\u4eba,\u6253\u4e52\u4e53\u7403\u7684\u540c\u5b66\u67094\u4eba,\u6253\u4e52\u4e53\u7403\u7684\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "74", 
-    "equation": "-35+-3+m = 0\n", 
-    "question": "\u8db3\u740335\u5143\u94b1,\u4e52\u4e53\u74033\u5143\u94b1,\u60f3\u8981\u5356\u8fd9\u4e24\u6837\u4f53\u80b2\u7528\u54c1\u9700\u8981\u5e26\u591a\u5c11\u5143\u94b1?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-35+-3+m = 0", 
+    "question": "\u8db3\u740335\u5143\u94b1,\u4e52\u4e53\u74033\u5143\u94b1,\u60f3\u8981\u5356\u8fd9\u4e24\u6837\u4f53\u80b2\u7528\u54c1\u9700\u8981\u5e26\u591a\u5c11\u5143\u94b1?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "75", 
-    "equation": "-16+-m+n = 0, -5+m = 0\n", 
-    "question": "\u9972\u517b\u7ec4\u67095\u53ea\u516c\u9e21,\u6bcd\u9e21\u6bd4\u516c\u9e21\u591a16\u53ea,\u6709\u6bcd\u9e21\u591a\u5c11\u53ea?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-16+-m+n = 0, -5+m = 0", 
+    "question": "\u9972\u517b\u7ec4\u67095\u53ea\u516c\u9e21,\u6bcd\u9e21\u6bd4\u516c\u9e21\u591a16\u53ea,\u6709\u6bcd\u9e21\u591a\u5c11\u53ea?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "76", 
-    "equation": "-4+-m+n = 0, -27+m = 0\n", 
-    "question": "\u56db\u5e74\u7ea7\u670927\u4eba\u53bb\u90ca\u6e38,\u4e94\u5e74\u7ea7\u6bd4\u56db\u5e74\u7ea7\u591a\u53bb4\u4eba,\u4e94\u5e74\u7ea7\u6709\u591a\u5c11\u4eba\u53bb\u90ca\u6e38?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -27+m = 0", 
+    "question": "\u56db\u5e74\u7ea7\u670927\u4eba\u53bb\u90ca\u6e38,\u4e94\u5e74\u7ea7\u6bd4\u56db\u5e74\u7ea7\u591a\u53bb4\u4eba,\u4e94\u5e74\u7ea7\u6709\u591a\u5c11\u4eba\u53bb\u90ca\u6e38?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "77", 
-    "equation": "-11+-m+n = 0, -8+m = 0\n", 
-    "question": "\u5c0f\u5408\u5531\u961f\u67098\u4e2a\u5973\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u591a11\u4e2a,\u7537\u540c\u5b66\u6709\u51e0\u4e2a?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-11+-m+n = 0, -8+m = 0", 
+    "question": "\u5c0f\u5408\u5531\u961f\u67098\u4e2a\u5973\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u591a11\u4e2a,\u7537\u540c\u5b66\u6709\u51e0\u4e2a?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "78", 
-    "equation": "-4+-m+n = 0, -12+m = 0\n", 
-    "question": "\u5c0f\u534e\u5bb6\u517b12\u53ea\u767d\u7f8a,\u9ed1\u7f8a\u6bd4\u767d\u7f8a\u591a4\u53ea,\u517b\u9ed1\u7f8a\u591a\u5c11\u53ea?\n", 
-    "template": "-a+-m+n = 0, -b+m = 0\n"
+    "equation": "-4+-m+n = 0, -12+m = 0", 
+    "question": "\u5c0f\u534e\u5bb6\u517b12\u53ea\u767d\u7f8a,\u9ed1\u7f8a\u6bd4\u767d\u7f8a\u591a4\u53ea,\u517b\u9ed1\u7f8a\u591a\u5c11\u53ea?", 
+    "template": "-a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "79", 
-    "equation": "-7+-4+m = 0\n", 
-    "question": "\u5c0f\u660e\u7ad9\u961f,\u4ed6\u524d\u97627\u4eba,\u540e\u97624\u4eba,\u8fd9\u4e00\u961f\u5171\u51e0\u4eba?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-7+-4+m = 0", 
+    "question": "\u5c0f\u660e\u7ad9\u961f,\u4ed6\u524d\u97627\u4eba,\u540e\u97624\u4eba,\u8fd9\u4e00\u961f\u5171\u51e0\u4eba?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "80", 
-    "equation": "-15+-4+m = 0\n", 
-    "question": "\u5c0f\u52a8\u7269\u7ad9\u961f,\u5c0f\u7334\u5b50\u524d\u9762\u670915\u53ea\u5154\u5b50,\u540e\u9762\u67094\u53ea\u5c0f\u8c61,\u8fd9\u4e00\u961f\u5171\u6709\u51e0\u53ea\u5c0f\u52a8\u7269?\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-15+-4+m = 0", 
+    "question": "\u5c0f\u52a8\u7269\u7ad9\u961f,\u5c0f\u7334\u5b50\u524d\u9762\u670915\u53ea\u5154\u5b50,\u540e\u9762\u67094\u53ea\u5c0f\u8c61,\u8fd9\u4e00\u961f\u5171\u6709\u51e0\u53ea\u5c0f\u52a8\u7269?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "81", 
-    "equation": "-26+11+m = 0\n", 
-    "question": "\u4e3a\u4e86\u5e86\u795d\u56fd\u5e86,\u4e8c\uff082\uff09\u73ed\u7684\u540c\u5b66\u4e00\u5171\u505a\u4e8626\u4e2a\u706f\u7b3c,\u5973\u540c\u5b66\u505a\u4e8611\u4e2a\u706f\u7b3c,\u7537\u540c\u5b66\u505a\u4e86\u591a\u5c11\u4e2a\u706f\u7b3c?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-26+11+m = 0", 
+    "question": "\u4e3a\u4e86\u5e86\u795d\u56fd\u5e86,\u4e8c\uff082\uff09\u73ed\u7684\u540c\u5b66\u4e00\u5171\u505a\u4e8626\u4e2a\u706f\u7b3c,\u5973\u540c\u5b66\u505a\u4e8611\u4e2a\u706f\u7b3c,\u7537\u540c\u5b66\u505a\u4e86\u591a\u5c11\u4e2a\u706f\u7b3c?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "82", 
-    "equation": "-70+38+m = 0\n", 
-    "question": "\u4e8c\uff081\uff09\u73ed\u548c\u4e8c\uff082\uff09\u73ed\u7684\u540c\u5b66\u4eec\u53bb\u79cb\u6e38,\u6c7d\u8f66\u4e0a\u4e00\u5171\u5750\u4e8670\u4eba,\u5176\u4e2d\u4e8c\uff081\uff09\u73ed\u670938\u4eba,\u90a3\u4e48\u800c\uff082\uff09\u73ed\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-70+38+m = 0", 
+    "question": "\u4e8c\uff081\uff09\u73ed\u548c\u4e8c\uff082\uff09\u73ed\u7684\u540c\u5b66\u4eec\u53bb\u79cb\u6e38,\u6c7d\u8f66\u4e0a\u4e00\u5171\u5750\u4e8670\u4eba,\u5176\u4e2d\u4e8c\uff081\uff09\u73ed\u670938\u4eba,\u90a3\u4e48\u800c\uff082\uff09\u73ed\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "83", 
-    "equation": "-80+46+m = 0\n", 
-    "question": "\u5c0f\u660e\u4e00\u5171\u5199\u4e8680\u9053\u52a0\u51cf\u53e3\u7b97\u9898,\u670946\u9053\u662f\u52a0\u6cd5\u9898,\u6709\u591a\u5c11\u9053\u662f\u51cf\u6cd5\u9898?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-80+46+m = 0", 
+    "question": "\u5c0f\u660e\u4e00\u5171\u5199\u4e8680\u9053\u52a0\u51cf\u53e3\u7b97\u9898,\u670946\u9053\u662f\u52a0\u6cd5\u9898,\u6709\u591a\u5c11\u9053\u662f\u51cf\u6cd5\u9898?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "84", 
-    "equation": "-45+36+m = 0\n", 
-    "question": "\u9ec4\u590f\u4e00\u5171\u505a\u4e8645\u9762\u7ea2\u65d7,\u9001\u7ed9\u5e7c\u513f\u56ed\u5c0f\u670b\u53cb36\u9762,\u8fd8\u5269\u4e0b\u591a\u5c11\u9762\u7ea2\u65d7?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-45+36+m = 0", 
+    "question": "\u9ec4\u590f\u4e00\u5171\u505a\u4e8645\u9762\u7ea2\u65d7,\u9001\u7ed9\u5e7c\u513f\u56ed\u5c0f\u670b\u53cb36\u9762,\u8fd8\u5269\u4e0b\u591a\u5c11\u9762\u7ea2\u65d7?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "85", 
-    "equation": "-32+16+m = 0\n", 
-    "question": "\u4e00\u6811\u4e0a\u670932\u4e2a\u6843,\u6458\u4e8616\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-32+16+m = 0", 
+    "question": "\u4e00\u6811\u4e0a\u670932\u4e2a\u6843,\u6458\u4e8616\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "86", 
-    "equation": "-28+9+m = 0\n", 
-    "question": "\u674e\u534e\u4e00\u5171\u8981\u5728\u8def\u8fb9\u63d228\u9762\u5f69\u65d7,\u63d2\u4e86\u4e00\u4e9b\u540e\u8fd8\u67099\u9762\u6ca1\u6709\u63d2,\u5df2\u7ecf\u63d2\u4e86\u591a\u5c11\u9762\u5f69\u65d7?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-28+9+m = 0", 
+    "question": "\u674e\u534e\u4e00\u5171\u8981\u5728\u8def\u8fb9\u63d228\u9762\u5f69\u65d7,\u63d2\u4e86\u4e00\u4e9b\u540e\u8fd8\u67099\u9762\u6ca1\u6709\u63d2,\u5df2\u7ecf\u63d2\u4e86\u591a\u5c11\u9762\u5f69\u65d7?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "87", 
-    "equation": "-k+-m+n = 0, -37+m = 0, -40+n = 0\n", 
-    "question": "\u7b2c\u4e00\u53ea\u5544\u6728\u9e1f\u5403\u4e8637\u6761\u866b,\u7b2c\u4e8c\u53ea\u5544\u6728\u9e1f\u5403\u4e8640\u6761\u866b,\u7b2c\u4e8c\u53ea\u5544\u6728\u9e1f\u6bd4\u7b2c\u4e00\u53ea\u5544\u6728\u591a\u5403\u51e0\u6761\u866b?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -37+m = 0, -40+n = 0", 
+    "question": "\u7b2c\u4e00\u53ea\u5544\u6728\u9e1f\u5403\u4e8637\u6761\u866b,\u7b2c\u4e8c\u53ea\u5544\u6728\u9e1f\u5403\u4e8640\u6761\u866b,\u7b2c\u4e8c\u53ea\u5544\u6728\u9e1f\u6bd4\u7b2c\u4e00\u53ea\u5544\u6728\u591a\u5403\u51e0\u6761\u866b?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "88", 
-    "equation": "k+-m+n = 0, -52+m = 0, -38+n = 0\n", 
-    "question": "\u8ddf\u8e2a\u8bad\u7ec3\u4e00\u767d\u5154\u91c7\u4e8652\u6735\u8611\u83c7,\u7070\u5154\u91c7\u4e8638\u6735\u8611\u83c7,\u7070\u5154\u6bd4\u767d\u5154\u5c11\u91c7\u4e86\u591a\u5c11\u6735\u8611\u83c7?\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -52+m = 0, -38+n = 0", 
+    "question": "\u8ddf\u8e2a\u8bad\u7ec3\u4e00\u767d\u5154\u91c7\u4e8652\u6735\u8611\u83c7,\u7070\u5154\u91c7\u4e8638\u6735\u8611\u83c7,\u7070\u5154\u6bd4\u767d\u5154\u5c11\u91c7\u4e86\u591a\u5c11\u6735\u8611\u83c7?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "89", 
-    "equation": "-k+-m+n = 0, -34+m = 0, -27+n = 0\n", 
-    "question": "\u5c0f\u660e\u62fc\u88c5\u4e00\u8f86\u73a9\u5177\u8d5b\u8f66\u7528\u4e8627\u5206\u949f,\u5c0f\u4eae\u7528\u4e8634\u5206\u949f,\u5c0f\u660e\u6bd4\u5c0f\u4eae\u5feb\u591a\u5c11\u5206\u949f?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -34+m = 0, -27+n = 0", 
+    "question": "\u5c0f\u660e\u62fc\u88c5\u4e00\u8f86\u73a9\u5177\u8d5b\u8f66\u7528\u4e8627\u5206\u949f,\u5c0f\u4eae\u7528\u4e8634\u5206\u949f,\u5c0f\u660e\u6bd4\u5c0f\u4eae\u5feb\u591a\u5c11\u5206\u949f?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "90", 
-    "equation": "9+-m+n = 0, -26+m = 0\n", 
-    "question": "\u5c0f\u767d\u732b\u9493\u4e8626\u6761\u9c7c,\u5c0f\u9ec4\u732b\u9493\u7684\u9c7c\u6bd4\u5c0f\u767d\u732b\u5c119\u6761,\u5c0f\u9ec4\u732b\u9493\u4e86\u591a\u5c11\u6761\u9c7c?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "9+-m+n = 0, -26+m = 0", 
+    "question": "\u5c0f\u767d\u732b\u9493\u4e8626\u6761\u9c7c,\u5c0f\u9ec4\u732b\u9493\u7684\u9c7c\u6bd4\u5c0f\u767d\u732b\u5c119\u6761,\u5c0f\u9ec4\u732b\u9493\u4e86\u591a\u5c11\u6761\u9c7c?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "91", 
-    "equation": "10+-m+n = 0, -35+m = 0\n", 
-    "question": "\u738b\u7ea2\u548c\u5f90\u534e\u6bd4\u8d5b\u505a\u7ea2\u82b1,\u5f90\u534e\u505a\u4e8635\u6735\u7ea2\u82b1,\u738b\u7ea2\u505a\u7684\u6bd4\u5f90\u534e\u5c1110\u6735,\u738b\u7ea2\u505a\u4e86\u591a\u5c11\u6735?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "10+-m+n = 0, -35+m = 0", 
+    "question": "\u738b\u7ea2\u548c\u5f90\u534e\u6bd4\u8d5b\u505a\u7ea2\u82b1,\u5f90\u534e\u505a\u4e8635\u6735\u7ea2\u82b1,\u738b\u7ea2\u505a\u7684\u6bd4\u5f90\u534e\u5c1110\u6735,\u738b\u7ea2\u505a\u4e86\u591a\u5c11\u6735?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "92", 
-    "equation": "26+-m+n = 0, -53+m = 0\n", 
-    "question": "\u4eba\u5de5\u91ce\u9e2d\u5c9b\u4e0a\u4eca\u5e74\u670953\u53ea\u91ce\u9e2d,\u53bb\u5e74\u6bd4\u4eca\u5e74\u5c1126\u53ea,\u53bb\u5e74\u6709\u591a\u5c11\u53ea\u91ce\u9e2d?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "26+-m+n = 0, -53+m = 0", 
+    "question": "\u4eba\u5de5\u91ce\u9e2d\u5c9b\u4e0a\u4eca\u5e74\u670953\u53ea\u91ce\u9e2d,\u53bb\u5e74\u6bd4\u4eca\u5e74\u5c1126\u53ea,\u53bb\u5e74\u6709\u591a\u5c11\u53ea\u91ce\u9e2d?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "93", 
-    "equation": "-80+47+m = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u8981\u505a80\u4e2a\u7eb8\u8239,\u5df2\u505a\u597d47\u4e2a,\u8fd8\u9700\u8981\u505a\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-80+47+m = 0", 
+    "question": "\u540c\u5b66\u4eec\u8981\u505a80\u4e2a\u7eb8\u8239,\u5df2\u505a\u597d47\u4e2a,\u8fd8\u9700\u8981\u505a\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "94", 
-    "equation": "-57+18+m = 0\n", 
-    "question": "\u98de\u673a\u573a\u4e0a\u670957\u67b6\u98de\u673a,\u98de\u8d70\u4e8618\u67b6,\u73b0\u5728\u673a\u573a\u4e0a\u8fd8\u6709\u591a\u5c11\u67b6?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-57+18+m = 0", 
+    "question": "\u98de\u673a\u573a\u4e0a\u670957\u67b6\u98de\u673a,\u98de\u8d70\u4e8618\u67b6,\u73b0\u5728\u673a\u573a\u4e0a\u8fd8\u6709\u591a\u5c11\u67b6?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "95", 
-    "equation": "-45+17+m = 0\n", 
-    "question": "\u5c0f\u5f3a\u5bb6\u670945\u4e2a\u82f9\u679c,\u5403\u4e8617\u4e2a,\u8fd8\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-45+17+m = 0", 
+    "question": "\u5c0f\u5f3a\u5bb6\u670945\u4e2a\u82f9\u679c,\u5403\u4e8617\u4e2a,\u8fd8\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "96", 
-    "equation": "-85+18+m = 0\n", 
-    "question": "\u5546\u5e97\u670985\u628a\u6247\u5b50,\u5356\u4e8618\u628a,\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u628a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-85+18+m = 0", 
+    "question": "\u5546\u5e97\u670985\u628a\u6247\u5b50,\u5356\u4e8618\u628a,\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u628a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "97", 
-    "equation": "-40+24+m = 0\n", 
-    "question": "\u5e7c\u513f\u56ed\u5c0f\u73ed\u670940\u5757\u5976\u7cd6,\u5206\u7ed9\u5c0f\u670b\u53cb\u5976\u7cd624\u5757\u540e,\u5976\u7cd6\u8fd8\u6709\u591a\u5c11\u5757?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-40+24+m = 0", 
+    "question": "\u5e7c\u513f\u56ed\u5c0f\u73ed\u670940\u5757\u5976\u7cd6,\u5206\u7ed9\u5c0f\u670b\u53cb\u5976\u7cd624\u5757\u540e,\u5976\u7cd6\u8fd8\u6709\u591a\u5c11\u5757?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "98", 
-    "equation": "-28+18+m = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u8981\u505a28\u4e2a\u706f\u7b3c,\u5df2\u505a\u597d18\u4e2a,\u8fd8\u8981\u505a\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-28+18+m = 0", 
+    "question": "\u540c\u5b66\u4eec\u8981\u505a28\u4e2a\u706f\u7b3c,\u5df2\u505a\u597d18\u4e2a,\u8fd8\u8981\u505a\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "99", 
-    "equation": "-75+63+m = 0\n", 
-    "question": "\u98de\u673a\u573a\u4e0a\u670975\u67b6\u98de\u673a,\u98de\u8d70\u4e8663\u67b6,\u73b0\u5728\u673a\u573a\u4e0a\u6709\u98de\u673a\u591a\u5c11\u67b6?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-75+63+m = 0", 
+    "question": "\u98de\u673a\u573a\u4e0a\u670975\u67b6\u98de\u673a,\u98de\u8d70\u4e8663\u67b6,\u73b0\u5728\u673a\u573a\u4e0a\u6709\u98de\u673a\u591a\u5c11\u67b6?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "100", 
-    "equation": "-36+7+m = 0\n", 
-    "question": "\u5c0f\u5f3a\u5bb6\u670936\u4e2a\u82f9\u679c,\u5403\u4e867\u4e2a,\u8fd8\u6709\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-36+7+m = 0", 
+    "question": "\u5c0f\u5f3a\u5bb6\u670936\u4e2a\u82f9\u679c,\u5403\u4e867\u4e2a,\u8fd8\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "101", 
-    "equation": "-33+14+m = 0\n", 
-    "question": "\u6c7d\u8f66\u603b\u7ad9\u670933\u8f86\u6c7d\u8f66,\u5f00\u8d70\u4e8613\u8f86,\u8fd8\u6709\u51e0\u8f86?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-33+14+m = 0", 
+    "question": "\u6c7d\u8f66\u603b\u7ad9\u670933\u8f86\u6c7d\u8f66,\u5f00\u8d70\u4e8613\u8f86,\u8fd8\u6709\u51e0\u8f86?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "102", 
-    "equation": "-25+16+m = 0\n", 
-    "question": "\u5546\u5e97\u670925\u628a\u6247,\u5356\u53bb16\u628a,\u73b0\u5728\u6709\u591a\u5c11\u628a?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-25+16+m = 0", 
+    "question": "\u5546\u5e97\u670925\u628a\u6247,\u5356\u53bb16\u628a,\u73b0\u5728\u6709\u591a\u5c11\u628a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "103", 
-    "equation": "-42+11+m = 0\n", 
-    "question": "\u6c7d\u8f66\u91cc\u670942\u4eba,\u4e2d\u9014\u670911\u4eba\u4e0b\u8f66,\u8f66\u4e0a\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-42+11+m = 0", 
+    "question": "\u6c7d\u8f66\u91cc\u670942\u4eba,\u4e2d\u9014\u670911\u4eba\u4e0b\u8f66,\u8f66\u4e0a\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "104", 
-    "equation": "-53+21+m = 0\n", 
-    "question": "\u9762\u5305\u623f\u505a\u4e8653\u4e2a\u9762\u5305,\u5356\u4e8621\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-53+21+m = 0", 
+    "question": "\u9762\u5305\u623f\u505a\u4e8653\u4e2a\u9762\u5305,\u5356\u4e8621\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "105", 
-    "equation": "-22+15+m = 0\n", 
-    "question": "\u5973\u751f\u670922\u4eba,\u5176\u4e2d\u670915\u4eba\u53c2\u52a0\u6bd4\u8d5b,\u8fd8\u6709\u591a\u5c11\u4eba\u6ca1\u53c2\u52a0?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-22+15+m = 0", 
+    "question": "\u5973\u751f\u670922\u4eba,\u5176\u4e2d\u670915\u4eba\u53c2\u52a0\u6bd4\u8d5b,\u8fd8\u6709\u591a\u5c11\u4eba\u6ca1\u53c2\u52a0?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "106", 
-    "equation": "-93+28+m = 0\n", 
-    "question": "\u4e24\u4e2a\u5c0f\u7ec4\u4e00\u5171\u6536\u96c6\u4e8693\u4e2a\u77ff\u6cc9\u6c34\u74f6,\u7b2c\u4e8c\u7ec4\u6536\u96c6\u4e8628\u4e2a,\u7b2c\u4e00\u7ec4\u6536\u96c6\u4e86\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-93+28+m = 0", 
+    "question": "\u4e24\u4e2a\u5c0f\u7ec4\u4e00\u5171\u6536\u96c6\u4e8693\u4e2a\u77ff\u6cc9\u6c34\u74f6,\u7b2c\u4e8c\u7ec4\u6536\u96c6\u4e8628\u4e2a,\u7b2c\u4e00\u7ec4\u6536\u96c6\u4e86\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "107", 
-    "equation": "-25+7+m = 0\n", 
-    "question": "\u539f\u6765\u670925\u4eba\u770b\u620f,\u8d70\u4e867\u4eba,\u73b0\u5728\u770b\u620f\u7684\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-25+7+m = 0", 
+    "question": "\u539f\u6765\u670925\u4eba\u770b\u620f,\u8d70\u4e867\u4eba,\u73b0\u5728\u770b\u620f\u7684\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "108", 
-    "equation": "-22+14+m = 0\n", 
-    "question": "\u5c0f\u82b3\u670922\u4e2a\u6c14\u7403,\u9001\u7ed9\u5e7c\u513f\u56ed\u5c0f\u670b\u53cb14\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-22+14+m = 0", 
+    "question": "\u5c0f\u82b3\u670922\u4e2a\u6c14\u7403,\u9001\u7ed9\u5e7c\u513f\u56ed\u5c0f\u670b\u53cb14\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "109", 
-    "equation": "-50+43+m = 0\n", 
-    "question": "\u5c0f\u519b\u548c\u5c0f\u4e3d\u505a\u706f\u7b3c,\u4e00\u5171\u505a\u4e8643\u4e2a,\u4ed6\u4eec\u8981\u9001\u7ed9\u8001\u5e0850\u4e2a,\u4ed6\u4eec\u8fd8\u8981\u505a\u591a\u5c11\u4e2a?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-50+43+m = 0", 
+    "question": "\u5c0f\u519b\u548c\u5c0f\u4e3d\u505a\u706f\u7b3c,\u4e00\u5171\u505a\u4e8643\u4e2a,\u4ed6\u4eec\u8981\u9001\u7ed9\u8001\u5e0850\u4e2a,\u4ed6\u4eec\u8fd8\u8981\u505a\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "110", 
-    "equation": "-64+18+m = 0\n", 
-    "question": "\u6545\u4e8b\u4e66\u670964\u9875,\u5c0f\u4e3d\u7b2c\u4e00\u5929\u770b\u4e8618\u9875,\u8fd8\u5269\u591a\u5c11\u9875\u6ca1\u6709\u770b?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-64+18+m = 0", 
+    "question": "\u6545\u4e8b\u4e66\u670964\u9875,\u5c0f\u4e3d\u7b2c\u4e00\u5929\u770b\u4e8618\u9875,\u8fd8\u5269\u591a\u5c11\u9875\u6ca1\u6709\u770b?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "111", 
-    "equation": "-16+6+m = 0\n", 
-    "question": "\u5b66\u6821\u6709\u5170\u82b1\u548c\u83ca\u82b1\u517116\u76c6,\u5170\u82b1\u67096\u76c6,\u83ca\u82b1\u6709\u51e0\u76c6?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-16+6+m = 0", 
+    "question": "\u5b66\u6821\u6709\u5170\u82b1\u548c\u83ca\u82b1\u517116\u76c6,\u5170\u82b1\u67096\u76c6,\u83ca\u82b1\u6709\u51e0\u76c6?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "112", 
-    "equation": "-9+5+m = 0\n", 
-    "question": "\u5c0f\u9752\u4e24\u6b21\u753b\u4e869\u4e2a,\u7b2c\u4e00\u6b21\u753b\u4e865\u4e2a,\u7b2c\u4e8c\u6b21\u753b\u4e86\u591a\u5c11\u4e2a?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-9+5+m = 0", 
+    "question": "\u5c0f\u9752\u4e24\u6b21\u753b\u4e869\u4e2a,\u7b2c\u4e00\u6b21\u753b\u4e865\u4e2a,\u7b2c\u4e8c\u6b21\u753b\u4e86\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "113", 
-    "equation": "-18+9+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u5bb6\u6709\u82f9\u679c\u548c\u68a8\u5b50\u517118\u4e2a,\u82f9\u679c\u67099\u4e2a,\u68a8\u5b50\u6709\u591a\u5c11\u4e2a?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-18+9+m = 0", 
+    "question": "\u5c0f\u7ea2\u5bb6\u6709\u82f9\u679c\u548c\u68a8\u5b50\u517118\u4e2a,\u82f9\u679c\u67099\u4e2a,\u68a8\u5b50\u6709\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "114", 
-    "equation": "-20+10+m = 0\n", 
-    "question": "\u5b66\u6821\u8981\u628a20\u7bb1\u6587\u5177\u9001\u7ed9\u5c71\u533a\u5c0f\u5b66,\u5df2\u9001\u53bb10\u7bb1,\u8fd8\u8981\u9001\u51e0\u7bb1?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-20+10+m = 0", 
+    "question": "\u5b66\u6821\u8981\u628a20\u7bb1\u6587\u5177\u9001\u7ed9\u5c71\u533a\u5c0f\u5b66,\u5df2\u9001\u53bb10\u7bb1,\u8fd8\u8981\u9001\u51e0\u7bb1?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "115", 
-    "equation": "-15+5+m = 0\n", 
-    "question": "\u670915\u68f5\u767d\u83dc,\u5403\u4e865\u68f5,\u8fd8\u6709\u51e0\u68f5?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-15+5+m = 0", 
+    "question": "\u670915\u68f5\u767d\u83dc,\u5403\u4e865\u68f5,\u8fd8\u6709\u51e0\u68f5?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "116", 
-    "equation": "-k+-m+n = 0, -8+m = 0, -12+n = 0\n", 
-    "question": "\u660e\u660e\u4e0a\u5348\u7b97\u4e868\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u7b97\u4e8612\u9053,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u7b97\u591a\u5c11\u9053\u9898?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -8+m = 0, -12+n = 0", 
+    "question": "\u660e\u660e\u4e0a\u5348\u7b97\u4e868\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u7b97\u4e8612\u9053,\u4e0b\u5348\u6bd4\u4e0a\u5348\u591a\u7b97\u591a\u5c11\u9053\u9898?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "117", 
-    "equation": "k+-m+n = 0, -10+m = 0, -8+n = 0\n", 
-    "question": "\u56fe\u4e66\u5ba4\u91cc\u670910\u4e2a\u5973\u540c\u5b66,\u67098\u4e2a\u7537\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c11\u591a\u5c11\u4e2a?\t\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -10+m = 0, -8+n = 0", 
+    "question": "\u56fe\u4e66\u5ba4\u91cc\u670910\u4e2a\u5973\u540c\u5b66,\u67098\u4e2a\u7537\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c11\u591a\u5c11\u4e2a?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "118", 
-    "equation": "-k+-m+n = 0, -8+m = 0, -10+n = 0\n", 
-    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u5927\u73348\u53ea,\u6709\u5c0f\u733410\u53ea,\u5c0f\u7334\u6bd4\u5927\u7334\u591a\u591a\u5c11\u53ea?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -8+m = 0, -10+n = 0", 
+    "question": "\u52a8\u7269\u56ed\u91cc\u6709\u5927\u73348\u53ea,\u6709\u5c0f\u733410\u53ea,\u5c0f\u7334\u6bd4\u5927\u7334\u591a\u591a\u5c11\u53ea?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "119", 
-    "equation": "k+-m+n = 0, -10+m = 0, -6+n = 0\n", 
-    "question": "\u5b66\u6821\u67096\u4e2a\u8db3\u7403,10\u4e2a\u7bee\u7403,\u8db3\u7403\u6bd4\u7bee\u7403\u5c11\u591a\u5c11\u4e2a?\t\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -10+m = 0, -6+n = 0", 
+    "question": "\u5b66\u6821\u67096\u4e2a\u8db3\u7403,10\u4e2a\u7bee\u7403,\u8db3\u7403\u6bd4\u7bee\u7403\u5c11\u591a\u5c11\u4e2a?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "120", 
-    "equation": "k+-m+n = 0, -8+m = 0, -6+n = 0\n", 
-    "question": "\u82b1\u56ed\u91cc\u6709\u5170\u82b16\u76c6,\u83ca\u82b18\u76c6,\u5170\u82b1\u518d\u79cd\u591a\u5c11\u76c6\u5c31\u548c\u83ca\u82b1\u540c\u6837\u591a?\t\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -8+m = 0, -6+n = 0", 
+    "question": "\u82b1\u56ed\u91cc\u6709\u5170\u82b16\u76c6,\u83ca\u82b18\u76c6,\u5170\u82b1\u518d\u79cd\u591a\u5c11\u76c6\u5c31\u548c\u83ca\u82b1\u540c\u6837\u591a?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "121", 
-    "equation": "-k+-m+n = 0, -6+m = 0, -8+n = 0\n", 
-    "question": "\u5988\u5988\u4e70\u7ea2\u6263\u5b508\u4e2a,\u767d\u6263\u5b506\u4e2a,\u9ed1\u6263\u5b504\u4e2a,\u7ea2\u6263\u5b50\u6bd4\u767d\u6263\u5b50\u591a\u591a\u5c11\u4e2a?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -6+m = 0, -8+n = 0", 
+    "question": "\u5988\u5988\u4e70\u7ea2\u6263\u5b508\u4e2a,\u767d\u6263\u5b506\u4e2a,\u9ed1\u6263\u5b504\u4e2a,\u7ea2\u6263\u5b50\u6bd4\u767d\u6263\u5b50\u591a\u591a\u5c11\u4e2a?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "122", 
-    "equation": "6+-m+n = 0, -12+m = 0\n", 
-    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670912\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u5c116\u672c,\u7b2c\u4e8c\u5c42\u6709\u591a\u5c11\u672c?\t\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "6+-m+n = 0, -12+m = 0", 
+    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670912\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u5c116\u672c,\u7b2c\u4e8c\u5c42\u6709\u591a\u5c11\u672c?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "123", 
-    "equation": "4+-m+n = 0, -10+m = 0\n", 
-    "question": "\u5988\u5988\u4e70\u82f9\u679c10\u4e2a,\u4e70\u68a8\u5b50\u6bd4\u82f9\u679c\u5c114\u4e2a,\u4e70\u68a8\u5b50\u591a\u5c11\u4e2a?\t\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "4+-m+n = 0, -10+m = 0", 
+    "question": "\u5988\u5988\u4e70\u82f9\u679c10\u4e2a,\u4e70\u68a8\u5b50\u6bd4\u82f9\u679c\u5c114\u4e2a,\u4e70\u68a8\u5b50\u591a\u5c11\u4e2a?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "124", 
-    "equation": "8+-m+n = 0, -18+m = 0\n", 
-    "question": "\u9972\u517b\u7ec4\u670918\u53ea\u516c\u9e21,\u6bcd\u9e21\u6bd4\u516c\u9e21\u5c118\u53ea,\u6709\u6bcd\u9e21\u591a\u5c11\u53ea?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "8+-m+n = 0, -18+m = 0", 
+    "question": "\u9972\u517b\u7ec4\u670918\u53ea\u516c\u9e21,\u6bcd\u9e21\u6bd4\u516c\u9e21\u5c118\u53ea,\u6709\u6bcd\u9e21\u591a\u5c11\u53ea?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "125", 
-    "equation": "4+-m+n = 0, -16+m = 0\n", 
-    "question": "\u56db\u5e74\u7ea7\u670916\u4eba\u53bb\u90ca\u6e38,\u4e94\u5e74\u7ea7\u6bd4\u56db\u5e74\u7ea7\u5c11\u53bb4\u4eba,\u4e94\u5e74\u7ea7\u6709\u591a\u5c11\u4eba\u53bb\u90ca\u6e38?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "4+-m+n = 0, -16+m = 0", 
+    "question": "\u56db\u5e74\u7ea7\u670916\u4eba\u53bb\u90ca\u6e38,\u4e94\u5e74\u7ea7\u6bd4\u56db\u5e74\u7ea7\u5c11\u53bb4\u4eba,\u4e94\u5e74\u7ea7\u6709\u591a\u5c11\u4eba\u53bb\u90ca\u6e38?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "126", 
-    "equation": "4+-m+n = 0, -19+m = 0\n", 
-    "question": "\u5c0f\u5408\u5531\u961f\u670919\u4e2a\u5973\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c114\u4e2a,\u7537\u540c\u5b66\u6709\u51e0\u4e2a?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "4+-m+n = 0, -19+m = 0", 
+    "question": "\u5c0f\u5408\u5531\u961f\u670919\u4e2a\u5973\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c114\u4e2a,\u7537\u540c\u5b66\u6709\u51e0\u4e2a?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "127", 
-    "equation": "2+-m+n = 0, -16+m = 0\n", 
-    "question": "\u5c0f\u534e\u5bb6\u517b16\u53ea\u767d\u7f8a,\u9ed1\u7f8a\u6bd4\u767d\u7f8a\u5c112\u53ea,\u517b\u9ed1\u7f8a\u591a\u5c11\u53ea?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "2+-m+n = 0, -16+m = 0", 
+    "question": "\u5c0f\u534e\u5bb6\u517b16\u53ea\u767d\u7f8a,\u9ed1\u7f8a\u6bd4\u767d\u7f8a\u5c112\u53ea,\u517b\u9ed1\u7f8a\u591a\u5c11\u53ea?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "128", 
-    "equation": "1+-m+n = 0, -18+m = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u53c2\u52a0\u52b3\u52a8,\u6458\u9ec4\u74dc18\u7b50,\u6458\u7684\u767d\u74dc\u6bd4\u9ec4\u74dc\u5c111\u7b50,\u6458\u767d\u74dc\u591a\u5c11\u7b50?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "1+-m+n = 0, -18+m = 0", 
+    "question": "\u540c\u5b66\u4eec\u53c2\u52a0\u52b3\u52a8,\u6458\u9ec4\u74dc18\u7b50,\u6458\u7684\u767d\u74dc\u6bd4\u9ec4\u74dc\u5c111\u7b50,\u6458\u767d\u74dc\u591a\u5c11\u7b50?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "129", 
-    "equation": "1+-m+n = 0, -15+m = 0\n", 
-    "question": "\u5c0f\u660e\u62cd\u76ae\u7403,\u7b2c\u4e00\u6b21\u62cd15\u4e0b,\u7b2c\u4e8c\u6b21\u6bd4\u7b2c\u4e00\u6b21\u5c11\u62cd1\u4e0b,\u7b2c\u4e8c\u6b21\u62cd\u591a\u5c11\u4e0b?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "1+-m+n = 0, -15+m = 0", 
+    "question": "\u5c0f\u660e\u62cd\u76ae\u7403,\u7b2c\u4e00\u6b21\u62cd15\u4e0b,\u7b2c\u4e8c\u6b21\u6bd4\u7b2c\u4e00\u6b21\u5c11\u62cd1\u4e0b,\u7b2c\u4e8c\u6b21\u62cd\u591a\u5c11\u4e0b?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "130", 
-    "equation": "3+-m+n = 0, -9+m = 0\n", 
-    "question": "\u5c0f\u82f1\u505a\u7ea2\u661f9\u4e2a,\u505a\u7684\u9ec4\u661f\u6bd4\u7ea2\u661f\u5c113\u4e2a,\u505a\u9ec4\u661f\u591a\u5c11\u4e2a?\t\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "3+-m+n = 0, -9+m = 0", 
+    "question": "\u5c0f\u82f1\u505a\u7ea2\u661f9\u4e2a,\u505a\u7684\u9ec4\u661f\u6bd4\u7ea2\u661f\u5c113\u4e2a,\u505a\u9ec4\u661f\u591a\u5c11\u4e2a?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "131", 
-    "equation": "-11+5+m = 0\n", 
-    "question": "\u5bb6\u670911\u68f5\u767d\u83dc,\u5403\u4e865\u68f5,\u8fd8\u6709\u51e0\u68f5?\t\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-11+5+m = 0", 
+    "question": "\u5bb6\u670911\u68f5\u767d\u83dc,\u5403\u4e865\u68f5,\u8fd8\u6709\u51e0\u68f5?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "132", 
-    "equation": "-8+24+m = 0\n", 
-    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u6c7d\u8f66,\u8fd8\u526924\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-8+24+m = 0", 
+    "question": "\u4ece\u8f66\u573a\u5f00\u8d708\u8f86\u6c7d\u8f66,\u8fd8\u526924\u8f86,\u8f66\u573a\u539f\u6765\u6709\u591a\u5c11\u6c7d\u8f66?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "133", 
-    "equation": "-20+10+m = 0\n", 
-    "question": "\u4e00\u5e74\u7ea7\u670920\u4eba,\u5176\u4e2d\u5973\u751f10\u4eba,\u7537\u751f\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-20+10+m = 0", 
+    "question": "\u4e00\u5e74\u7ea7\u670920\u4eba,\u5176\u4e2d\u5973\u751f10\u4eba,\u7537\u751f\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "134", 
-    "equation": "-12+-6+m = 0\n", 
-    "question": "\u98de\u673a\u573a\u4e0a\u7b2c\u4e00\u6b21\u98de\u8d7012\u67b6,\u7b2c\u4e8c\u6b21\u98de\u8d706\u67b6,\u4e24\u6b21\u5171\u98de\u8d70\u591a\u5c11\u67b6?\t\n", 
-    "template": "-a+-b+m = 0\n"
+    "equation": "-12+-6+m = 0", 
+    "question": "\u98de\u673a\u573a\u4e0a\u7b2c\u4e00\u6b21\u98de\u8d7012\u67b6,\u7b2c\u4e8c\u6b21\u98de\u8d706\u67b6,\u4e24\u6b21\u5171\u98de\u8d70\u591a\u5c11\u67b6?", 
+    "template": "-a+-b+m = 0"
   }, 
   {
     "index": "135", 
-    "equation": "-k+-m+n = 0, -30+m = 0, -35+n = 0\n", 
-    "question": "\u5c0f\u660e\u670930\u672c,\u5c0f\u7ea2\u670935\u672c,\u5c0f\u7ea2\u6bd4\u5c0f\u660e\u591a\u51e0\u672c?\t\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -30+m = 0, -35+n = 0", 
+    "question": "\u5c0f\u660e\u670930\u672c,\u5c0f\u7ea2\u670935\u672c,\u5c0f\u7ea2\u6bd4\u5c0f\u660e\u591a\u51e0\u672c?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "136", 
-    "equation": "k+-m+n = 0, -68+m = 0, -60+n = 0\n", 
-    "question": "\u4e00\u8f86\u6c7d\u8f66\u4e0a\u5348\u8fd0\u8d2768\u7bb1,\u4e0b\u5348\u8fd0\u8d2760\u7bb1,\u4e0b\u5348\u6bd4\u4e0a\u5348\u5c11\u8fd0\u591a\u5c11\u7bb1?\t\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -68+m = 0, -60+n = 0", 
+    "question": "\u4e00\u8f86\u6c7d\u8f66\u4e0a\u5348\u8fd0\u8d2768\u7bb1,\u4e0b\u5348\u8fd0\u8d2760\u7bb1,\u4e0b\u5348\u6bd4\u4e0a\u5348\u5c11\u8fd0\u591a\u5c11\u7bb1?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "137", 
-    "equation": "k+-m+n = 0, -89+m = 0, -80+n = 0\n", 
-    "question": "\u5c0f\u82f1\u8df3\u7ef389\u4e0b,\u5c0f\u660e\u8df3\u4e8680\u4e0b,\u5c0f\u660e\u518d\u8df3\u51e0\u4e0b\u5c31\u548c\u5c0f\u82f1\u8df3\u7684\u540c\u6837\u591a?\t\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -89+m = 0, -80+n = 0", 
+    "question": "\u5c0f\u82f1\u8df3\u7ef389\u4e0b,\u5c0f\u660e\u8df3\u4e8680\u4e0b,\u5c0f\u660e\u518d\u8df3\u51e0\u4e0b\u5c31\u548c\u5c0f\u82f1\u8df3\u7684\u540c\u6837\u591a?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "138", 
-    "equation": "-23+5+m = 0\n", 
-    "question": "\u5c0f\u4e91\u5439\u4e8623\u4e2a\u6c14\u7403,\u67095\u4e2a\u7834\u4e86,\u8fd8\u6709\u51e0\u4e2a\u6ca1\u7834?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-23+5+m = 0", 
+    "question": "\u5c0f\u4e91\u5439\u4e8623\u4e2a\u6c14\u7403,\u67095\u4e2a\u7834\u4e86,\u8fd8\u6709\u51e0\u4e2a\u6ca1\u7834?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "139", 
-    "equation": "5+-m+n = 0, -18+m = 0\n", 
-    "question": "\u5c0f\u9752\u5e26\u676518\u8282\u5e9f\u7535\u6c60,\u5c0f\u4e91\u6bd4\u5c0f\u9752\u5c11\u5e265\u8282,\u5c0f\u4e91\u5e26\u6765\u51e0\u8282\u5e9f\u7535\u6c60?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "5+-m+n = 0, -18+m = 0", 
+    "question": "\u5c0f\u9752\u5e26\u676518\u8282\u5e9f\u7535\u6c60,\u5c0f\u4e91\u6bd4\u5c0f\u9752\u5c11\u5e265\u8282,\u5c0f\u4e91\u5e26\u6765\u51e0\u8282\u5e9f\u7535\u6c60?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "140", 
-    "equation": "k+-m+n = 0, -26+m = 0, -9+n = 0\n", 
-    "question": "\u5c71\u5761\u4e0a\u670926\u53ea\u5c71\u7f8a,9\u53ea\u7ef5\u7f8a,\u7ef5\u7f8a\u6bd4\u5c71\u7f8a\u5c11\u591a\u5c11\u53ea?\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -26+m = 0, -9+n = 0", 
+    "question": "\u5c71\u5761\u4e0a\u670926\u53ea\u5c71\u7f8a,9\u53ea\u7ef5\u7f8a,\u7ef5\u7f8a\u6bd4\u5c71\u7f8a\u5c11\u591a\u5c11\u53ea?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "141", 
-    "equation": "-54+22+m = 0\n", 
-    "question": "\u9762\u5305\u623f\u505a\u4e8654\u4e2a\u9762\u5305,\u7b2c\u4e00\u7ec4\u5356\u4e8622\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-54+22+m = 0", 
+    "question": "\u9762\u5305\u623f\u505a\u4e8654\u4e2a\u9762\u5305,\u7b2c\u4e00\u7ec4\u5356\u4e8622\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "142", 
-    "equation": "-94+34+m = 0\n", 
-    "question": "\u4e24\u4e2a\u5c0f\u7ec4\u4e00\u5171\u6536\u96c6\u4e8694\u4e2a\u77ff\u6cc9\u6c34\u74f6,\u7b2c\u4e00\u7ec4\u6536\u96c6\u4e8634\u4e2a,\u7b2c\u4e8c\u7ec4\u6536\u96c6\u4e86\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-94+34+m = 0", 
+    "question": "\u4e24\u4e2a\u5c0f\u7ec4\u4e00\u5171\u6536\u96c6\u4e8694\u4e2a\u77ff\u6cc9\u6c34\u74f6,\u7b2c\u4e00\u7ec4\u6536\u96c6\u4e8634\u4e2a,\u7b2c\u4e8c\u7ec4\u6536\u96c6\u4e86\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "143", 
-    "equation": "-41+13+m = 0\n", 
-    "question": "\u6c7d\u8f66\u91cc\u670941\u4eba,\u4e2d\u9014\u670913\u4eba\u4e0b\u8f66,\u8f66\u4e0a\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-41+13+m = 0", 
+    "question": "\u6c7d\u8f66\u91cc\u670941\u4eba,\u4e2d\u9014\u670913\u4eba\u4e0b\u8f66,\u8f66\u4e0a\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "144", 
-    "equation": "k+-m+n = 0, -24+m = 0, -28+n = 0\n", 
-    "question": "\u5c0f\u7ea2\u670928\u4e2a\u6c14\u7403,\u5c0f\u82b3\u670924\u4e2a\u6c14\u7403,\u5c0f\u7ea2\u6bd4\u5c0f\u82b3\u591a\u51e0\u4e2a?\n", 
-    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "k+-m+n = 0, -24+m = 0, -28+n = 0", 
+    "question": "\u5c0f\u7ea2\u670928\u4e2a\u6c14\u7403,\u5c0f\u82b3\u670924\u4e2a\u6c14\u7403,\u5c0f\u7ea2\u6bd4\u5c0f\u82b3\u591a\u51e0\u4e2a?", 
+    "template": "k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "145", 
-    "equation": "-74+20+m = 0\n", 
-    "question": "\u6545\u4e8b\u4e66\u670974\u9875,\u5c0f\u4e3d\u7b2c\u4e00\u5929\u770b\u4e8620\u9875,\u8fd8\u5269\u591a\u5c11\u9875\u6ca1\u6709\u770b?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-74+20+m = 0", 
+    "question": "\u6545\u4e8b\u4e66\u670974\u9875,\u5c0f\u4e3d\u7b2c\u4e00\u5929\u770b\u4e8620\u9875,\u8fd8\u5269\u591a\u5c11\u9875\u6ca1\u6709\u770b?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "146", 
-    "equation": "-58+6+m = 0\n", 
-    "question": "\u7f8a\u5708\u91cc\u539f\u6765\u670958\u53ea\u7f8a,\u5148\u8d70\u4e866\u53ea,\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u53ea?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-58+6+m = 0", 
+    "question": "\u7f8a\u5708\u91cc\u539f\u6765\u670958\u53ea\u7f8a,\u5148\u8d70\u4e866\u53ea,\u73b0\u5728\u8fd8\u6709\u591a\u5c11\u53ea?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "147", 
-    "equation": "4+-m+n = 0, -58+m = 0\n", 
-    "question": "\u6653\u4e1c\u4e0a\u5348\u505a\u4e8658\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u505a\u7684\u6bd4\u4e0a\u5348\u5c114\u9053,\u6653\u4e1c\u4e0b\u5348\u505a\u4e86\u591a\u5c11\u9053?\n", 
-    "template": "a+-m+n = 0, -b+m = 0\n"
+    "equation": "4+-m+n = 0, -58+m = 0", 
+    "question": "\u6653\u4e1c\u4e0a\u5348\u505a\u4e8658\u9053\u6570\u5b66\u9898,\u4e0b\u5348\u505a\u7684\u6bd4\u4e0a\u5348\u5c114\u9053,\u6653\u4e1c\u4e0b\u5348\u505a\u4e86\u591a\u5c11\u9053?", 
+    "template": "a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "148", 
-    "equation": "-k+-m+n = 0, -8+m = 0, -35+n = 0\n", 
-    "question": "\u5c0f\u660e\u4eca\u5e748\u5c81,\u7238\u7238\u4eca\u5e7435\u5c81,\u7238\u7238\u6bd4\u5c0f\u660e\u5927\u591a\u5c11\u5c81?\n", 
-    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0\n"
+    "equation": "-k+-m+n = 0, -8+m = 0, -35+n = 0", 
+    "question": "\u5c0f\u660e\u4eca\u5e748\u5c81,\u7238\u7238\u4eca\u5e7435\u5c81,\u7238\u7238\u6bd4\u5c0f\u660e\u5927\u591a\u5c11\u5c81?", 
+    "template": "-k+-m+n = 0, -a+m = 0, -b+n = 0"
   }, 
   {
     "index": "149", 
-    "equation": "-97+15+m = 0\n", 
-    "question": "\u5c0f\u660e\u79cd\u4e8697\u4e2a\u841d\u535c,\u9001\u7ed9\u90bb\u5c4515\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-97+15+m = 0", 
+    "question": "\u5c0f\u660e\u79cd\u4e8697\u4e2a\u841d\u535c,\u9001\u7ed9\u90bb\u5c4515\u4e2a,\u8fd8\u5269\u591a\u5c11\u4e2a?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "150", 
-    "equation": "-40+30+m = 0\n", 
-    "question": "\u670940\u4eba\u8981\u8fc7\u6cb3,\u5148\u8fc7\u53bb\u4e8630\u4eba,\u8fd8\u5269\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+m = 0\n"
+    "equation": "-40+30+m = 0", 
+    "question": "\u670940\u4eba\u8981\u8fc7\u6cb3,\u5148\u8fc7\u53bb\u4e8630\u4eba,\u8fd8\u5269\u591a\u5c11\u4eba?", 
+    "template": "-a+b+m = 0"
   }, 
   {
     "index": "151", 
-    "equation": "57+-m+n = 0, -120+-96+m = 0\n", 
-    "question": "\u7237\u7237\u4eca\u5929\u4e0a\u5348\u5356\u51fa\u4e00\u4e32\u7ea2120\u76c6,\u4e0b\u5348\u5356\u51fa\u4e00\u4e32\u7ea296\u76c6,\u83ca\u82b1\u6bd4\u4e00\u4e32\u7ea2\u5c1157\u76c6,\u83ca\u82b1\u5356\u51fa\u591a\u5c11\u76c6?\n", 
-    "template": "a+-m+n = 0, -b+-c+m = 0\n"
+    "equation": "57+-m+n = 0, -120+-96+m = 0", 
+    "question": "\u7237\u7237\u4eca\u5929\u4e0a\u5348\u5356\u51fa\u4e00\u4e32\u7ea2120\u76c6,\u4e0b\u5348\u5356\u51fa\u4e00\u4e32\u7ea296\u76c6,\u83ca\u82b1\u6bd4\u4e00\u4e32\u7ea2\u5c1157\u76c6,\u83ca\u82b1\u5356\u51fa\u591a\u5c11\u76c6?", 
+    "template": "a+-m+n = 0, -b+-c+m = 0"
   }, 
   {
     "index": "152", 
-    "equation": "8+-k-m+n = 0, -75+m = 0, -97+k = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u53bb\u90ca\u6e38,\u4e00\u5e74\u7ea7\u53bb\u4e8697\u4eba,\u4e8c\u5e74\u7ea7\u53bb\u4e8675\u4eba,\u4e09\u5e74\u7ea7\u53bb\u7684\u4eba\u6570\u6bd4\u4e00\u4e8c\u5e74\u7ea7\u7684\u603b\u6570\u5c118\u4eba,\u4e09\u5e74\u7ea7\u53bb\u4e86\u591a\u5c11\u4eba?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "8+-k-m+n = 0, -75+m = 0, -97+k = 0", 
+    "question": "\u540c\u5b66\u4eec\u53bb\u90ca\u6e38,\u4e00\u5e74\u7ea7\u53bb\u4e8697\u4eba,\u4e8c\u5e74\u7ea7\u53bb\u4e8675\u4eba,\u4e09\u5e74\u7ea7\u53bb\u7684\u4eba\u6570\u6bd4\u4e00\u4e8c\u5e74\u7ea7\u7684\u603b\u6570\u5c118\u4eba,\u4e09\u5e74\u7ea7\u53bb\u4e86\u591a\u5c11\u4eba?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "153", 
-    "equation": "-50+-m+n = 0, 30+-k+m = 0, -120+k = 0\n", 
-    "question": "\u6709\u4e09\u79cd\u9e21,\u767d\u9e21120\u53ea,\u9ec4\u9e21\u6bd4\u767d\u9e21\u5c1130\u53ea,\u9ed1\u9e21\u6bd4\u9ec4\u9e21\u591a50\u53ea,\u9ed1\u9e21\u6709\u591a\u5c11\u53ea?\n", 
-    "template": "-a+-m+n = 0, b+-k+m = 0, -c+k = 0\n"
+    "equation": "-50+-m+n = 0, 30+-k+m = 0, -120+k = 0", 
+    "question": "\u6709\u4e09\u79cd\u9e21,\u767d\u9e21120\u53ea,\u9ec4\u9e21\u6bd4\u767d\u9e21\u5c1130\u53ea,\u9ed1\u9e21\u6bd4\u9ec4\u9e21\u591a50\u53ea,\u9ed1\u9e21\u6709\u591a\u5c11\u53ea?", 
+    "template": "-a+-m+n = 0, b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "154", 
-    "equation": "50+-m+n = 0, 70+-k+m = 0, -350+k = 0\n", 
-    "question": "\u81ea\u884c\u8f66350\u5143,\u7535\u8bdd\u673a\u6bd4\u81ea\u884c\u8f66\u4fbf\u5b9c70\u5143,\u7535\u98ce\u6247\u6bd4\u7535\u8bdd\u673a\u8d3550\u5143,\u7535\u98ce\u6247\u591a\u5c11\u94b1?\n", 
-    "template": "a+-m+n = 0, b+-k+m = 0, -c+k = 0\n"
+    "equation": "50+-m+n = 0, 70+-k+m = 0, -350+k = 0", 
+    "question": "\u81ea\u884c\u8f66350\u5143,\u7535\u8bdd\u673a\u6bd4\u81ea\u884c\u8f66\u4fbf\u5b9c70\u5143,\u7535\u98ce\u6247\u6bd4\u7535\u8bdd\u673a\u8d3550\u5143,\u7535\u98ce\u6247\u591a\u5c11\u94b1?", 
+    "template": "a+-m+n = 0, b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "155", 
-    "equation": "150+110+-370+m = 0\n", 
-    "question": "\u4e8c\u5e74\u7ea7\u7537\u751f150\u4eba,\u5973\u751f\u6709110\u4eba,\u4e00\u5e74\u7ea7\u6709370\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u591a\u591a\u5c11\u4eba?\n", 
-    "template": "a+b+-c+m = 0\n"
+    "equation": "150+110+-370+m = 0", 
+    "question": "\u4e8c\u5e74\u7ea7\u7537\u751f150\u4eba,\u5973\u751f\u6709110\u4eba,\u4e00\u5e74\u7ea7\u6709370\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u591a\u591a\u5c11\u4eba?", 
+    "template": "a+b+-c+m = 0"
   }, 
   {
     "index": "156", 
-    "equation": "40+-k-m+n = 0, -150+m = 0, -110+k = 0\n", 
-    "question": "\u4e8c\u5e74\u7ea7\u6709\u7537\u751f150\u4eba,\u5973\u751f100\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u5c1140\u4eba,\u4e00\u5e74\u7ea7\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "40+-k-m+n = 0, -150+m = 0, -110+k = 0", 
+    "question": "\u4e8c\u5e74\u7ea7\u6709\u7537\u751f150\u4eba,\u5973\u751f100\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u5c1140\u4eba,\u4e00\u5e74\u7ea7\u6709\u591a\u5c11\u4eba?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "157", 
-    "equation": "110+-k-m+n = 0, -120+m = 0, -130+k = 0\n", 
-    "question": "\u679c\u56ed\u91cc\u82f9\u679c\u6811130\u68f5,\u68a8\u6811120\u68f5,\u6843\u6811\u7684\u68f5\u6570\u6bd4\u82f9\u679c\u4e0e\u68a8\u6811\u68f5\u6811\u7684\u603b\u6570\u5c11110\u68f5,\u6843\u6811\u6709\u591a\u5c11\u68f5?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "110+-k-m+n = 0, -120+m = 0, -130+k = 0", 
+    "question": "\u679c\u56ed\u91cc\u82f9\u679c\u6811130\u68f5,\u68a8\u6811120\u68f5,\u6843\u6811\u7684\u68f5\u6570\u6bd4\u82f9\u679c\u4e0e\u68a8\u6811\u68f5\u6811\u7684\u603b\u6570\u5c11110\u68f5,\u6843\u6811\u6709\u591a\u5c11\u68f5?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "158", 
-    "equation": "-170+290+-380+m = 0\n", 
-    "question": "\u5546\u5e97\u91cc\u539f\u6709\u8863\u670d380\u5957,\u5356\u51fa290\u5957,\u53c8\u8d2d\u8fdb170\u5957,\u73b0\u5728\u6709\u591a\u5c11\u5957?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-170+290+-380+m = 0", 
+    "question": "\u5546\u5e97\u91cc\u539f\u6709\u8863\u670d380\u5957,\u5356\u51fa290\u5957,\u53c8\u8d2d\u8fdb170\u5957,\u73b0\u5728\u6709\u591a\u5c11\u5957?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "159", 
-    "equation": "30+-m+n = 0, -20+-k+m = 0, -110+k = 0\n", 
-    "question": "\u5c0f\u660e\u8eab\u9ad8110\u5398\u7c73,\u5f20\u4e91\u6bd4\u5c0f\u660e\u9ad820\u5398\u7c73,\u5c0f\u6797\u6bd4\u5f20\u4e91\u77ee30\u5398\u7c73,\u5c0f\u6797\u8eab\u9ad8\u591a\u5c11\u5398\u7c73?\n", 
-    "template": "a+-m+n = 0, -b+-k+m = 0, -c+k = 0\n"
+    "equation": "30+-m+n = 0, -20+-k+m = 0, -110+k = 0", 
+    "question": "\u5c0f\u660e\u8eab\u9ad8110\u5398\u7c73,\u5f20\u4e91\u6bd4\u5c0f\u660e\u9ad820\u5398\u7c73,\u5c0f\u6797\u6bd4\u5f20\u4e91\u77ee30\u5398\u7c73,\u5c0f\u6797\u8eab\u9ad8\u591a\u5c11\u5398\u7c73?", 
+    "template": "a+-m+n = 0, -b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "160", 
-    "equation": "-k+m+n = 0, 7+-m+n = 0, -15+m = 0\n", 
-    "question": "\u5988\u5988\u4e70\u4e8615\u4e2a\u82f9\u679c,\u4e70\u7684\u6a58\u5b50\u6bd4\u82f9\u679c\u5c117\u4e2a,\u4e00\u5171\u4e70\u4e86\u591a\u5c11\u6c34\u679c?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 7+-m+n = 0, -15+m = 0", 
+    "question": "\u5988\u5988\u4e70\u4e8615\u4e2a\u82f9\u679c,\u4e70\u7684\u6a58\u5b50\u6bd4\u82f9\u679c\u5c117\u4e2a,\u4e00\u5171\u4e70\u4e86\u591a\u5c11\u6c34\u679c?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "161", 
-    "equation": "-k+m+n = 0, 42+-m+n = 0, -196+m = 0\n", 
-    "question": "\u4e8c\u5e74\u7ea7\u6709196\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u5c1142\u4eba,\u4e00\u3001\u4e8c\u5e74\u7ea7\u5171\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 42+-m+n = 0, -196+m = 0", 
+    "question": "\u4e8c\u5e74\u7ea7\u6709196\u4eba,\u4e00\u5e74\u7ea7\u6bd4\u4e8c\u5e74\u7ea7\u5c1142\u4eba,\u4e00\u3001\u4e8c\u5e74\u7ea7\u5171\u6709\u591a\u5c11\u4eba?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "162", 
-    "equation": "6+-k-m+n = 0, -25+m = 0, -29+k = 0\n", 
-    "question": "\u7530\u5f84\u961f\u6709\u7537\u751f29\u4eba,\u5973\u751f25\u4eba,\u5408\u5531\u961f\u6bd4\u7530\u5f84\u961f\u5c116\u4eba,\u5408\u5531\u961f\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "6+-k-m+n = 0, -25+m = 0, -29+k = 0", 
+    "question": "\u7530\u5f84\u961f\u6709\u7537\u751f29\u4eba,\u5973\u751f25\u4eba,\u5408\u5531\u961f\u6bd4\u7530\u5f84\u961f\u5c116\u4eba,\u5408\u5531\u961f\u6709\u591a\u5c11\u4eba?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "163", 
-    "equation": "18+-k-m+n = 0, -105+m = 0, -97+k = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u53bb\u90ca\u6e38,\u4e00\u5e74\u7ea7\u53bb\u4e8697\u4eba,\u4e8c\u5e74\u7ea7\u53bb\u4e86105\u4eba,\u4e09\u5e74\u7ea7\u53bb\u7684\u4eba\u6570\u6bd4\u4e00\u4e8c\u5e74\u7ea7\u7684\u603b\u6570\u5c1118\u4eba,\u4e09\u5e74\u7ea7\u53bb\u4e86\u591a\u5c11\u4eba?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "18+-k-m+n = 0, -105+m = 0, -97+k = 0", 
+    "question": "\u540c\u5b66\u4eec\u53bb\u90ca\u6e38,\u4e00\u5e74\u7ea7\u53bb\u4e8697\u4eba,\u4e8c\u5e74\u7ea7\u53bb\u4e86105\u4eba,\u4e09\u5e74\u7ea7\u53bb\u7684\u4eba\u6570\u6bd4\u4e00\u4e8c\u5e74\u7ea7\u7684\u603b\u6570\u5c1118\u4eba,\u4e09\u5e74\u7ea7\u53bb\u4e86\u591a\u5c11\u4eba?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "164", 
-    "equation": "-23+50+-98+m = 0\n", 
-    "question": "\u6c34\u6ce5\u5382\u4e00\u5929\u751f\u4ea7\u4e8698\u888b\u6c34\u6ce5,\u4e0a\u5348\u8fd0\u8d7050\u888b,\u4e0b\u5348\u9000\u56de23\u888b,\u8fd8\u5269\u591a\u5c11\u888b?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-23+50+-98+m = 0", 
+    "question": "\u6c34\u6ce5\u5382\u4e00\u5929\u751f\u4ea7\u4e8698\u888b\u6c34\u6ce5,\u4e0a\u5348\u8fd0\u8d7050\u888b,\u4e0b\u5348\u9000\u56de23\u888b,\u8fd8\u5269\u591a\u5c11\u888b?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "165", 
-    "equation": "-8+-m+n = 0, 18+-k+m = 0, -54+k = 0\n", 
-    "question": "\u67f3\u6811\u670954\u68f5,\u68a8\u6811\u6bd4\u67f3\u6811\u5c1118\u68f5,\u82f9\u679c\u6811\u6bd4\u68a8\u6811\u591a8\u68f5,\u82f9\u679c\u6811\u6709\u591a\u5c11\u68f5?\n", 
-    "template": "-a+-m+n = 0, b+-k+m = 0, -c+k = 0\n"
+    "equation": "-8+-m+n = 0, 18+-k+m = 0, -54+k = 0", 
+    "question": "\u67f3\u6811\u670954\u68f5,\u68a8\u6811\u6bd4\u67f3\u6811\u5c1118\u68f5,\u82f9\u679c\u6811\u6bd4\u68a8\u6811\u591a8\u68f5,\u82f9\u679c\u6811\u6709\u591a\u5c11\u68f5?", 
+    "template": "-a+-m+n = 0, b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "166", 
-    "equation": "33+-42+-38+m = 0\n", 
-    "question": "\u7537\u751f\u4e00\u5171\u6298\u4e8638\u53ea,\u5973\u751f\u4e00\u5171\u6298\u4e8642\u53ea,\u9001\u7ed9\u5e7c\u513f\u56ed33\u53ea,\u8fd8\u5269\u591a\u5c11\u53ea?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "33+-42+-38+m = 0", 
+    "question": "\u7537\u751f\u4e00\u5171\u6298\u4e8638\u53ea,\u5973\u751f\u4e00\u5171\u6298\u4e8642\u53ea,\u9001\u7ed9\u5e7c\u513f\u56ed33\u53ea,\u8fd8\u5269\u591a\u5c11\u53ea?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "167", 
-    "equation": "-k+m+n = 0, 2690+-m+n = 0, -8427+m=0\n", 
-    "question": "\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u56db\u6708\u4efd\u6279\u53d1\u6c34\u4ea78427\u5343\u514b,\u6bd4\u4e09\u6708\u4efd\u5c112690\u5343\u514b,\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u8fd9\u4e24\u4e2a\u6708\u5171\u6279\u53d1\u6c34\u4ea7\u591a\u5c11\u5343\u514b?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m=0\n"
+    "equation": "-k+m+n = 0, 2690+-m+n = 0, -8427+m = 0", 
+    "question": "\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u56db\u6708\u4efd\u6279\u53d1\u6c34\u4ea78427\u5343\u514b,\u6bd4\u4e09\u6708\u4efd\u5c112690\u5343\u514b,\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u8fd9\u4e24\u4e2a\u6708\u5171\u6279\u53d1\u6c34\u4ea7\u591a\u5c11\u5343\u514b?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "168", 
-    "equation": "-3+2+-7+m = 0\n", 
-    "question": "\u8f66\u4e0a\u539f\u5148\u67097\u4eba,\u5148\u4e0b\u4e862\u4eba,\u53c8\u4e0a\u4e863,\u73b0\u5728\u8f66\u4e0a\u6709\u51e0\u4eba?\t\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-3+2+-7+m = 0", 
+    "question": "\u8f66\u4e0a\u539f\u5148\u67097\u4eba,\u5148\u4e0b\u4e862\u4eba,\u53c8\u4e0a\u4e863,\u73b0\u5728\u8f66\u4e0a\u6709\u51e0\u4eba?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "169", 
-    "equation": "-85+-m+n = 0, -20+-k+m = 0, -105+k = 0\n", 
-    "question": "\u54e5\u54e5\u8eab\u9ad8105\u5398\u7c73,\u6bd4\u5f1f\u5f1f\u9ad820\u5398\u7c73,\u7238\u7238\u7684\u8eab\u9ad8\u6b63\u597d\u6bd4\u5f1f\u5f1f\u9ad885\u5398\u7c73,\u7238\u7238\u7684\u8eab\u9ad8\u662f\u591a\u5c11\u5398\u7c73?\n", 
-    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0\n"
+    "equation": "-85+-m+n = 0, -20+-k+m = 0, -105+k = 0", 
+    "question": "\u54e5\u54e5\u8eab\u9ad8105\u5398\u7c73,\u6bd4\u5f1f\u5f1f\u9ad820\u5398\u7c73,\u7238\u7238\u7684\u8eab\u9ad8\u6b63\u597d\u6bd4\u5f1f\u5f1f\u9ad885\u5398\u7c73,\u7238\u7238\u7684\u8eab\u9ad8\u662f\u591a\u5c11\u5398\u7c73?", 
+    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "170", 
-    "equation": "-k+m+n = 0, 1230+-m+n = 0, -8427+m = 0\n", 
-    "question": "\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u56db\u6708\u4efd\u6279\u53d1\u6c34\u4ea78427\u5343\u514b,\u6bd4\u4e09\u6708\u4efd\u5c111230\u5343\u514b,\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u8fd9\u4e24\u4e2a\u6708\u5171\u6279\u53d1\u6c34\u4ea7\u591a\u5c11\u5343\u514b?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 1230+-m+n = 0, -8427+m = 0", 
+    "question": "\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u56db\u6708\u4efd\u6279\u53d1\u6c34\u4ea78427\u5343\u514b,\u6bd4\u4e09\u6708\u4efd\u5c111230\u5343\u514b,\u6c34\u4ea7\u6279\u53d1\u5e02\u573a\u8fd9\u4e24\u4e2a\u6708\u5171\u6279\u53d1\u6c34\u4ea7\u591a\u5c11\u5343\u514b?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "171", 
-    "equation": "-234+175+-800+m = 0\n", 
-    "question": "\u767e\u8d27\u5546\u5e97\u8fdb800\u652f\u5706\u73e0\u7b14,\u7b2c\u4e00\u5929\u5356\u51fa175,\u7b2c\u4e8c\u5929\u53c8\u8fdb\u4e86234\u652f,\u8bf7\u95ee\u8fd8\u5269\u591a\u5c11\u652f\u6ca1\u5356\u51fa?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-234+175+-800+m = 0", 
+    "question": "\u767e\u8d27\u5546\u5e97\u8fdb800\u652f\u5706\u73e0\u7b14,\u7b2c\u4e00\u5929\u5356\u51fa175,\u7b2c\u4e8c\u5929\u53c8\u8fdb\u4e86234\u652f,\u8bf7\u95ee\u8fd8\u5269\u591a\u5c11\u652f\u6ca1\u5356\u51fa?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "172", 
-    "equation": "75+-75+-82+m = 0\n", 
-    "question": "\u5c0f\u5b66\u751f\u690d\u6811\u8282\u5f00\u5c55\u690d\u6811\u6d3b\u52a8,\u4e00\u5e74\u7ea7\u690d\u681187\u68f5,\u4e8c\u5e74\u7ea7\u690d\u681175\u68f5,\u4e09\u5e74\u7ea7\u690d\u6811175\u68f5,\u4e8c\u3001\u4e09\u5e74\u7ea7\u4e00\u5171\u6bd4\u4e00\u5e74\u7ea7\u591a\u690d\u4e86\u591a\u5c11\u68f5?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "75+-75+-82+m = 0", 
+    "question": "\u5c0f\u5b66\u751f\u690d\u6811\u8282\u5f00\u5c55\u690d\u6811\u6d3b\u52a8,\u4e00\u5e74\u7ea7\u690d\u681187\u68f5,\u4e8c\u5e74\u7ea7\u690d\u681175\u68f5,\u4e09\u5e74\u7ea7\u690d\u6811175\u68f5,\u4e8c\u3001\u4e09\u5e74\u7ea7\u4e00\u5171\u6bd4\u4e00\u5e74\u7ea7\u591a\u690d\u4e86\u591a\u5c11\u68f5?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "173", 
-    "equation": "-15+9+-52+m = 0\n", 
-    "question": "\u661f\u661f\u5408\u5531\u961f\u539f\u670952\u4eba,\u67099\u540d\u540c\u5b66\u6bd5\u4e1a\u4e86,\u65b0\u52a0\u5165\u4e8615\u4eba,\u73b0\u5728\u5408\u5531\u961f\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-15+9+-52+m = 0", 
+    "question": "\u661f\u661f\u5408\u5531\u961f\u539f\u670952\u4eba,\u67099\u540d\u540c\u5b66\u6bd5\u4e1a\u4e86,\u65b0\u52a0\u5165\u4e8615\u4eba,\u73b0\u5728\u5408\u5531\u961f\u6709\u591a\u5c11\u4eba?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "174", 
-    "equation": "5+-6+-4+m = 0\n", 
-    "question": "\u5c0f\u660e\u67094\u652f\u94c5\u7b14,\u4ed6\u53c8\u4e70\u6765\u4e866\u652f,\u7528\u6389\u4e865\u652f,\u4ed6\u73b0\u5728\u6709\u591a\u5c11\u652f\u94c5\u7b14?\t\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "5+-6+-4+m = 0", 
+    "question": "\u5c0f\u660e\u67094\u652f\u94c5\u7b14,\u4ed6\u53c8\u4e70\u6765\u4e866\u652f,\u7528\u6389\u4e865\u652f,\u4ed6\u73b0\u5728\u6709\u591a\u5c11\u652f\u94c5\u7b14?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "175", 
-    "equation": "4+-15+-9+m = 0\n", 
-    "question": "\u5988\u5988\u4e70\u67659\u4e2a\u6843,\u7238\u7238\u4e70\u676515\u4e2a\u6843,\u5c0f\u660e\u5403\u4e864\u4e2a,\u8fd8\u5269\u51e0\u4e2a\u6843?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "4+-15+-9+m = 0", 
+    "question": "\u5988\u5988\u4e70\u67659\u4e2a\u6843,\u7238\u7238\u4e70\u676515\u4e2a\u6843,\u5c0f\u660e\u5403\u4e864\u4e2a,\u8fd8\u5269\u51e0\u4e2a\u6843?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "176", 
-    "equation": "3+-k-m+n = 0, -16+m = 0, -17+k = 0\n", 
-    "question": "\u5c0f\u660e\u670917\u4e2a\u7cd6,\u5c0f\u7ea2\u670916\u4e2a\u7cd6,\u5c0f\u519b\u7684\u7cd6\u6bd4\u5c0f\u660e\u548c\u5c0f\u7ea2\u7684\u603b\u6570\u5c113\u4e2a,\u5c0f\u519b\u6709\u591a\u5c11\u4e2a\u7cd6?\n", 
-    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0\n"
+    "equation": "3+-k-m+n = 0, -16+m = 0, -17+k = 0", 
+    "question": "\u5c0f\u660e\u670917\u4e2a\u7cd6,\u5c0f\u7ea2\u670916\u4e2a\u7cd6,\u5c0f\u519b\u7684\u7cd6\u6bd4\u5c0f\u660e\u548c\u5c0f\u7ea2\u7684\u603b\u6570\u5c113\u4e2a,\u5c0f\u519b\u6709\u591a\u5c11\u4e2a\u7cd6?", 
+    "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }, 
   {
     "index": "177", 
-    "equation": "-33+-m+n = 0, -76+-k+m = 0, -24+k = 0\n", 
-    "question": "\u5c0f\u8001\u9f20\u670924\u4e2a\u7cd6,\u5c0f\u732b\u7684\u7cd6\u6bd4\u5c0f\u8001\u9f20\u7684\u591a76\u4e2a,\u5c0f\u9e21\u7684\u7cd6\u6bd4\u5c0f\u732b\u591a33\u4e2a,\u5c0f\u9e21\u6709\u591a\u5c11\u4e2a\u7cd6?\n", 
-    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0\n"
+    "equation": "-33+-m+n = 0, -76+-k+m = 0, -24+k = 0", 
+    "question": "\u5c0f\u8001\u9f20\u670924\u4e2a\u7cd6,\u5c0f\u732b\u7684\u7cd6\u6bd4\u5c0f\u8001\u9f20\u7684\u591a76\u4e2a,\u5c0f\u9e21\u7684\u7cd6\u6bd4\u5c0f\u732b\u591a33\u4e2a,\u5c0f\u9e21\u6709\u591a\u5c11\u4e2a\u7cd6?", 
+    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "178", 
-    "equation": "-49.3+-m+n = 0, -23.56+-k+m = 0, -246.96+k = 0\n", 
-    "question": "\u5e7c\u513f\u56ed\u4e70\u8fdb\u4e00\u6279\u73a9\u5177,\u4e70\u79ef\u6728\u7528\u53bb246.96\u5143,\u6bd4\u4e70\u5c0f\u6c7d\u8f66\u591a\u7528\u4e8623.56\u5143,\u62fc\u56fe\u73a9\u5177\u6bd4\u4e70\u5c0f\u6c7d\u8f66\u591a49.3\u5143,\u4e70\u62fc\u56fe\u73a9\u5177\u7528\u4e86\u591a\u5c11\u5143?\n", 
-    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0\n"
+    "equation": "-49.3+-m+n = 0, -23.56+-k+m = 0, -246.96+k = 0", 
+    "question": "\u5e7c\u513f\u56ed\u4e70\u8fdb\u4e00\u6279\u73a9\u5177,\u4e70\u79ef\u6728\u7528\u53bb246.96\u5143,\u6bd4\u4e70\u5c0f\u6c7d\u8f66\u591a\u7528\u4e8623.56\u5143,\u62fc\u56fe\u73a9\u5177\u6bd4\u4e70\u5c0f\u6c7d\u8f66\u591a49.3\u5143,\u4e70\u62fc\u56fe\u73a9\u5177\u7528\u4e86\u591a\u5c11\u5143?", 
+    "template": "-a+-m+n = 0, -b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "179", 
-    "equation": "10.4+-7.6+-8.3+m = 0\n", 
-    "question": "\u628a\u4e00\u6bb5\u957f10.4\u7c73\u7684\u7ef3\u5b50\u526a\u6210\u4e09\u6bb5,\u5df2\u77e5\u7b2c\u4e00\u3001\u4e8c\u6bb5\u7684\u548c\u662f7.6,\u7b2c\u4e8c\u3001\u4e09\u6bb5\u7684\u548c\u662f8.3\u7c73,\u7b2c\u4e8c\u6bb5\u957f\u591a\u5c11\u7c73?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "10.4+-7.6+-8.3+m = 0", 
+    "question": "\u628a\u4e00\u6bb5\u957f10.4\u7c73\u7684\u7ef3\u5b50\u526a\u6210\u4e09\u6bb5,\u5df2\u77e5\u7b2c\u4e00\u3001\u4e8c\u6bb5\u7684\u548c\u662f7.6,\u7b2c\u4e8c\u3001\u4e09\u6bb5\u7684\u548c\u662f8.3\u7c73,\u7b2c\u4e8c\u6bb5\u957f\u591a\u5c11\u7c73?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "180", 
-    "equation": "-k+m+n = 0, 14.7+-m+n = 0, -54.8+m = 0\n", 
-    "question": "\u4fee\u8def\u961f\u4fee\u8def,\u7b2c\u4e00\u5929\u4fee\u4e8654.8\u7c73,\u6bd4\u7b2c\u4e8c\u5929\u5c11\u4fee14.7\u7c73,\u4e24\u5929\u5de5\u4fee\u591a\u5c11\u7c73?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 14.7+-m+n = 0, -54.8+m = 0", 
+    "question": "\u4fee\u8def\u961f\u4fee\u8def,\u7b2c\u4e00\u5929\u4fee\u4e8654.8\u7c73,\u6bd4\u7b2c\u4e8c\u5929\u5c11\u4fee14.7\u7c73,\u4e24\u5929\u5de5\u4fee\u591a\u5c11\u7c73?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "181", 
-    "equation": "-1200+100+-258+m = 0\n", 
-    "question": "\u67d0\u94f6\u884c\u529e\u50a8\u84c4\u4e1a\u52a1,\u5b58\u5165258\u5143,\u53d6\u51fa100\u5143,\u5b58\u51651200\u5143,\u8bf7\u4f60\u8ba1\u7b97\u4e00\u4e0b,\u94f6\u884c\u7684\u73b0\u6b3e\u589e\u52a0\u4e86\u591a\u5c11?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-1200+100+-258+m = 0", 
+    "question": "\u67d0\u94f6\u884c\u529e\u50a8\u84c4\u4e1a\u52a1,\u5b58\u5165258\u5143,\u53d6\u51fa100\u5143,\u5b58\u51651200\u5143,\u8bf7\u4f60\u8ba1\u7b97\u4e00\u4e0b,\u94f6\u884c\u7684\u73b0\u6b3e\u589e\u52a0\u4e86\u591a\u5c11?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "182", 
-    "equation": "9+-m+n = 0, -9+-k+m = 0, -8+k = 0\n", 
-    "question": "\u6dd8\u6c14\u4eca\u5e748\u5c81,\u53d4\u53d4\u6bd4\u6dd8\u6c14\u59279\u5c81,\u963f\u59e8\u6bd4\u53d4\u53d4\u5c0f9\u5c81,\u963f\u59e8\u4eca\u5e74\u591a\u5c11\u5c81?\n", 
-    "template": "a+-m+n = 0, -b+-k+m = 0, -c+k = 0\n"
+    "equation": "9+-m+n = 0, -9+-k+m = 0, -8+k = 0", 
+    "question": "\u6dd8\u6c14\u4eca\u5e748\u5c81,\u53d4\u53d4\u6bd4\u6dd8\u6c14\u59279\u5c81,\u963f\u59e8\u6bd4\u53d4\u53d4\u5c0f9\u5c81,\u963f\u59e8\u4eca\u5e74\u591a\u5c11\u5c81?", 
+    "template": "a+-m+n = 0, -b+-k+m = 0, -c+k = 0"
   }, 
   {
     "index": "183", 
-    "equation": "-12+46+-75+m = 0\n", 
-    "question": "\u56fe\u4e66\u89d2\u539f\u6765\u670975\u672c\u4e66,\u501f\u51fa46\u672c,\u8fd8\u56de12\u672c,\u56fe\u4e66\u89d2\u73b0\u6709\u591a\u5c11\u672c\u4e66?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-12+46+-75+m = 0", 
+    "question": "\u56fe\u4e66\u89d2\u539f\u6765\u670975\u672c\u4e66,\u501f\u51fa46\u672c,\u8fd8\u56de12\u672c,\u56fe\u4e66\u89d2\u73b0\u6709\u591a\u5c11\u672c\u4e66?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "184", 
-    "equation": "5+-3+-48+m = 0\n", 
-    "question": "\u4e8c\u5e74\u4e94\u73ed\u539f\u670948\u4eba,\u65b0\u5b66\u671f\u8f6c\u67653\u4eba,\u8f6c\u8d705\u4eba,\u4e8c\u5e74\u4e94\u73ed\u73b0\u6709\u591a\u5c11\u4eba?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "5+-3+-48+m = 0", 
+    "question": "\u4e8c\u5e74\u4e94\u73ed\u539f\u670948\u4eba,\u65b0\u5b66\u671f\u8f6c\u67653\u4eba,\u8f6c\u8d705\u4eba,\u4e8c\u5e74\u4e94\u73ed\u73b0\u6709\u591a\u5c11\u4eba?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "185", 
-    "equation": "-3+5+-6+m = 0\n", 
-    "question": "\u6811\u4e0a\u98de\u6765\u4e866\u53ea\u5c0f\u9e1f,\u53c8\u98de\u8d70\u4e865,\u8fd8\u52693\u53ea\u5c0f\u9e1f,\u6811\u4e0a\u539f\u6765\u6709\u51e0\u53ea\u5c0f\u9e1f?\t\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-3+5+-6+m = 0", 
+    "question": "\u6811\u4e0a\u98de\u6765\u4e866\u53ea\u5c0f\u9e1f,\u53c8\u98de\u8d70\u4e865,\u8fd8\u52693\u53ea\u5c0f\u9e1f,\u6811\u4e0a\u539f\u6765\u6709\u51e0\u53ea\u5c0f\u9e1f?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "186", 
-    "equation": "-3+5+-11+m = 0\n", 
-    "question": "\u5c0f\u80d6\u4e70\u4e8611\u53ea\u6c14\u7403,\u98de\u8d70\u4e865\u53ea,\u53c8\u627e\u56de\u4e863\u53ea,\u8fd8\u662f\u6709\u51e0\u53ea\u6c14\u7403?\t\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-3+5+-11+m = 0", 
+    "question": "\u5c0f\u80d6\u4e70\u4e8611\u53ea\u6c14\u7403,\u98de\u8d70\u4e865\u53ea,\u53c8\u627e\u56de\u4e863\u53ea,\u8fd8\u662f\u6709\u51e0\u53ea\u6c14\u7403?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "187", 
-    "equation": "-k+m+n = 0, 1+-m+n = 0, -8+m = 0\n", 
-    "question": "\u8349\u5730\u4e0a\u767d\u5154\u67098\u53ea,\u9ed1\u5154\u6bd4\u767d\u5154\u5c111\u53ea,\u8349\u5730\u4e0a\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5154\u5b50?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 1+-m+n = 0, -8+m = 0", 
+    "question": "\u8349\u5730\u4e0a\u767d\u5154\u67098\u53ea,\u9ed1\u5154\u6bd4\u767d\u5154\u5c111\u53ea,\u8349\u5730\u4e0a\u4e00\u5171\u6709\u591a\u5c11\u53ea\u5154\u5b50?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "188", 
-    "equation": "-9+5+-14+m = 0\n", 
-    "question": "\u51b0\u6fc0\u51cc\u5e97\u670914\u4eba\u5728\u7b49\u5019,\u4e00\u4f1a\u4e4b\u540e\u8d70\u4e865\u4eba,\u53c8\u6765\u4e869\u4eba,\u73b0\u5728\u5e97\u91cc\u6709\u51e0\u4eba?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-9+5+-14+m = 0", 
+    "question": "\u51b0\u6fc0\u51cc\u5e97\u670914\u4eba\u5728\u7b49\u5019,\u4e00\u4f1a\u4e4b\u540e\u8d70\u4e865\u4eba,\u53c8\u6765\u4e869\u4eba,\u73b0\u5728\u5e97\u91cc\u6709\u51e0\u4eba?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "189", 
-    "equation": "1+-2+-7+m = 0\n", 
-    "question": "\u5c0f\u7ea2\u6536\u96c6\u4e867\u679a\u7334\u5e74\u90ae\u7968,2\u679a\u9e21\u5e74\u90ae\u7968,\u7ed9\u5c0f\u660e1\u679a\u9e21\u5e74\u90ae\u7968,\u4e00\u5171\u8fd8\u5269\u591a\u5c11\u90ae\u7968?\t\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "1+-2+-7+m = 0", 
+    "question": "\u5c0f\u7ea2\u6536\u96c6\u4e867\u679a\u7334\u5e74\u90ae\u7968,2\u679a\u9e21\u5e74\u90ae\u7968,\u7ed9\u5c0f\u660e1\u679a\u9e21\u5e74\u90ae\u7968,\u4e00\u5171\u8fd8\u5269\u591a\u5c11\u90ae\u7968?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "190", 
-    "equation": "-16+8+9+-84+m = 0\n", 
-    "question": "\u56fe\u4e66\u5ba4\u6709\u8fde\u73af\u753b84\u672c,\u4e00\u73ed\u501f\u8d709\u672c,\u4e8c\u73ed\u501f\u8d708\u672c,\u4e09\u73ed\u5f52\u8fd816,\u8fd8\u5269\u591a\u5c11\u672c?\n", 
-    "template": "-a+b+c+-d+m = 0\n"
+    "equation": "-16+8+9+-84+m = 0", 
+    "question": "\u56fe\u4e66\u5ba4\u6709\u8fde\u73af\u753b84\u672c,\u4e00\u73ed\u501f\u8d709\u672c,\u4e8c\u73ed\u501f\u8d708\u672c,\u4e09\u73ed\u5f52\u8fd816,\u8fd8\u5269\u591a\u5c11\u672c?", 
+    "template": "-a+b+c+-d+m = 0"
   }, 
   {
     "index": "191", 
-    "equation": "40+-35+-20+m = 0\n", 
-    "question": "\u540c\u5b66\u4eec\u690d\u6811,\u4e00\u73ed\u690d\u681120\u68f5,\u4e8c\u73ed\u690d\u681135\u68f5,\u4e09\u73ed\u690d\u681140\u68f5,\u4e00\u3001\u4e8c\u73ed\u4e00\u5171\u6bd4\u4e09\u73ed\u591a\u503c\u591a\u5c11\u68f5?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "40+-35+-20+m = 0", 
+    "question": "\u540c\u5b66\u4eec\u690d\u6811,\u4e00\u73ed\u690d\u681120\u68f5,\u4e8c\u73ed\u690d\u681135\u68f5,\u4e09\u73ed\u690d\u681140\u68f5,\u4e00\u3001\u4e8c\u73ed\u4e00\u5171\u6bd4\u4e09\u73ed\u591a\u503c\u591a\u5c11\u68f5?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "192", 
-    "equation": "-8+5+-20+m = 0\n", 
-    "question": "\u6811\u4e0a\u670920\u53ea\u9e1f,\u98de\u8d70\u4e865\u53ea,\u8fc7\u4e00\u4f1a\u513f\u53c8\u98de\u56de\u67658\u53ea,\u95ee\u73b0\u5728\u6811\u4e0a\u6709\u591a\u5c11\u53ea\u9e1f?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-8+5+-20+m = 0", 
+    "question": "\u6811\u4e0a\u670920\u53ea\u9e1f,\u98de\u8d70\u4e865\u53ea,\u8fc7\u4e00\u4f1a\u513f\u53c8\u98de\u56de\u67658\u53ea,\u95ee\u73b0\u5728\u6811\u4e0a\u6709\u591a\u5c11\u53ea\u9e1f?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "193", 
-    "equation": "-7+13+-33+m = 0\n", 
-    "question": "\u6c7d\u8f66\u603b\u7ad9\u670933\u8f86\u6c7d\u8f66,\u5f00\u8d70\u4e8613\u8f86,\u53c8\u8fdb\u6765\u4e867\u8f86,\u8fd8\u6709\u51e0\u8f86?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-7+13+-33+m = 0", 
+    "question": "\u6c7d\u8f66\u603b\u7ad9\u670933\u8f86\u6c7d\u8f66,\u5f00\u8d70\u4e8613\u8f86,\u53c8\u8fdb\u6765\u4e867\u8f86,\u8fd8\u6709\u51e0\u8f86?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "194", 
-    "equation": "-k+m+n = 0, 8+-m+n = 0, -10+m = 0\n", 
-    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670910\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u5c118\u672c,\u4e24\u5c42\u4e00\u5171\u6709\u591a\u5c11\u672c?\n", 
-    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0\n"
+    "equation": "-k+m+n = 0, 8+-m+n = 0, -10+m = 0", 
+    "question": "\u6709\u4e24\u5c42\u4e66\u67b6,\u7b2c\u4e00\u5c42\u670910\u672c\u4e66,\u7b2c\u4e8c\u5c42\u6bd4\u7b2c\u4e00\u5c42\u5c118\u672c,\u4e24\u5c42\u4e00\u5171\u6709\u591a\u5c11\u672c?", 
+    "template": "-k+m+n = 0, a+-m+n = 0, -b+m = 0"
   }, 
   {
     "index": "195", 
-    "equation": "7+-7+-9+m = 0\n", 
-    "question": "\uff084\uff09\u73ed\u7b2c\u4e00\u5c0f\u961f\u505a\u4e869\u6735\u5c0f\u7ea2\u82b1,\u7b2c\u4e8c\u5c0f\u961f\u4f5c\u4e867\u6735,\u9001\u7ed9\u5e7c\u513f\u56ed7\u6735,\u8fd8\u5269\u4e0b\u591a\u5c11\u6735?\t\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "7+-7+-9+m = 0", 
+    "question": "\uff084\uff09\u73ed\u7b2c\u4e00\u5c0f\u961f\u505a\u4e869\u6735\u5c0f\u7ea2\u82b1,\u7b2c\u4e8c\u5c0f\u961f\u4f5c\u4e867\u6735,\u9001\u7ed9\u5e7c\u513f\u56ed7\u6735,\u8fd8\u5269\u4e0b\u591a\u5c11\u6735?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "196", 
-    "equation": "10+10+-30+m = 0\n", 
-    "question": "\u56fe\u4e66\u5ba4\u91cc\u670930\u4e2a\u540c\u5b66,\u670910\u4e2a\u7537\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c11\u591a\u5c11\u4e2a?\n", 
-    "template": "a+a+-b+m = 0\n"
+    "equation": "10+10+-30+m = 0", 
+    "question": "\u56fe\u4e66\u5ba4\u91cc\u670930\u4e2a\u540c\u5b66,\u670910\u4e2a\u7537\u540c\u5b66,\u7537\u540c\u5b66\u6bd4\u5973\u540c\u5b66\u5c11\u591a\u5c11\u4e2a?", 
+    "template": "a+a+-b+m = 0"
   }, 
   {
     "index": "197", 
-    "equation": "2+-5+-9+m = 0\n", 
-    "question": "\u5c0f\u521a\u67099\u672c\u4e66,\u7238\u7238\u53c8\u7ed9\u4ed6\u4e70\u4e865\u672c,\u5c0f\u660e\u501f\u53bb2\u672c,\u5c0f\u521a\u8fd8\u6709\u51e0\u672c\u4e66?\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "2+-5+-9+m = 0", 
+    "question": "\u5c0f\u521a\u67099\u672c\u4e66,\u7238\u7238\u53c8\u7ed9\u4ed6\u4e70\u4e865\u672c,\u5c0f\u660e\u501f\u53bb2\u672c,\u5c0f\u521a\u8fd8\u6709\u51e0\u672c\u4e66?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "198", 
-    "equation": "6+-4+-5+m = 0\n", 
-    "question": "\u732b\u5988\u5988\u7ed9\u5c0f\u767d5\u6761\u9c7c,\u7ed9\u5c0f\u82b14\u6761\u9c7c,\u5c0f\u767d\u548c\u5c0f\u82b1\u5171\u5403\u4e866\u6761,\u5b83\u4eec\u8fd8\u6709\u51e0\u6761?\t\n", 
-    "template": "a+-b+-c+m = 0\n"
+    "equation": "6+-4+-5+m = 0", 
+    "question": "\u732b\u5988\u5988\u7ed9\u5c0f\u767d5\u6761\u9c7c,\u7ed9\u5c0f\u82b14\u6761\u9c7c,\u5c0f\u767d\u548c\u5c0f\u82b1\u5171\u5403\u4e866\u6761,\u5b83\u4eec\u8fd8\u6709\u51e0\u6761?", 
+    "template": "a+-b+-c+m = 0"
   }, 
   {
     "index": "199", 
-    "equation": "-7+3+-10+m = 0\n", 
-    "question": "\u8349\u5730\u4e0a\u670910\u53ea\u7f8a,\u8dd1\u8d70\u4e863\u53ea\u767d\u5c71\u7f8a,\u53c8\u6765\u4e867\u53ea\u9ed1\u5c71\u7f8a,\u73b0\u5728\u5171\u6709\u51e0\u53ea\u7f8a?\n", 
-    "template": "-a+b+-c+m = 0\n"
+    "equation": "-7+3+-10+m = 0", 
+    "question": "\u8349\u5730\u4e0a\u670910\u53ea\u7f8a,\u8dd1\u8d70\u4e863\u53ea\u767d\u5c71\u7f8a,\u53c8\u6765\u4e867\u53ea\u9ed1\u5c71\u7f8a,\u73b0\u5728\u5171\u6709\u51e0\u53ea\u7f8a?", 
+    "template": "-a+b+-c+m = 0"
   }, 
   {
     "index": "200", 
     "equation": "2+-k-m+n = 0, -1+m = 0, -1+k = 0", 
-    "question": "\u5c0f\u534e\u548c\u7238\u7238\u3001\u5988\u5988\u4e3a\u690d\u6811\u8282\u4e49\u52a1\u690d\u6811,\u5c0f\u534e\u690d\u4e861\u68f5,\u7238\u7238\u690d\u4e865\u68f5,\u5988\u5988\u6bd4\u5c0f\u534e\u52a0\u7238\u7238\u4e00\u5171\u5c11\u690d2\u68f5,\u5988\u5988\u690d\u4e86\u591a\u5c11\u68f5\n", 
+    "question": "\u5c0f\u534e\u548c\u7238\u7238\u3001\u5988\u5988\u4e3a\u690d\u6811\u8282\u4e49\u52a1\u690d\u6811,\u5c0f\u534e\u690d\u4e861\u68f5,\u7238\u7238\u690d\u4e865\u68f5,\u5988\u5988\u6bd4\u5c0f\u534e\u52a0\u7238\u7238\u4e00\u5171\u5c11\u690d2\u68f5,\u5988\u5988\u690d\u4e86\u591a\u5c11\u68f5", 
     "template": "a+-k-m+n = 0, -b+m = 0, -c+k = 0"
   }
 ]

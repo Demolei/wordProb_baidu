@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="二（2）班有女生19人,男生18人,每人发一本书,一共需要多少本?">
+                <word id="0" cont="二" pos="m" ne="O" parent="4" relate="ATT" semparent="4" semrelate="Seq" />
+                <word id="1" cont="（" pos="wp" ne="O" parent="2" relate="WP" semparent="0" semrelate="mPunc" />
+                <word id="2" cont="2" pos="m" ne="O" parent="0" relate="COO" semparent="0" semrelate="eCoo" />
+                <word id="3" cont="）" pos="wp" ne="O" parent="2" relate="WP" semparent="2" semrelate="mPunc" />
+                <word id="4" cont="班" pos="n" ne="O" parent="5" relate="SBV" semparent="5" semrelate="Poss" />
+                <word id="5" cont="有" pos="v" ne="O" parent="-1" relate="HED" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="0" end="4" />
+                    <arg id="1" type="A1" beg="6" end="8" />
+                </word>
+                <word id="6" cont="女生" pos="n" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Feat" />
+                <word id="7" cont="19" pos="m" ne="O" parent="8" relate="ATT" semparent="8" semrelate="Quan" />
+                <word id="8" cont="人" pos="n" ne="O" parent="5" relate="VOB" semparent="5" semrelate="Exp" />
+                <word id="9" cont="," pos="wp" ne="O" parent="5" relate="WP" semparent="5" semrelate="mPunc" />
+                <word id="10" cont="男生" pos="n" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Feat" />
+                <word id="11" cont="18" pos="m" ne="O" parent="12" relate="ATT" semparent="12" semrelate="Quan" />
+                <word id="12" cont="人" pos="n" ne="O" parent="15" relate="SBV" semparent="15" semrelate="Agt" />
+                <word id="13" cont="," pos="wp" ne="O" parent="12" relate="WP" semparent="12" semrelate="mPunc" />
+                <word id="14" cont="每人" pos="r" ne="O" parent="15" relate="ADV" semparent="15" semrelate="Dir" />
+                <word id="15" cont="发" pos="v" ne="O" parent="5" relate="COO" semparent="5" semrelate="eSucc">
+                    <arg id="0" type="A0" beg="10" end="13" />
+                    <arg id="1" type="A1" beg="16" end="18" />
+                </word>
+                <word id="16" cont="一" pos="m" ne="O" parent="17" relate="ATT" semparent="17" semrelate="Quan" />
+                <word id="17" cont="本" pos="q" ne="O" parent="18" relate="ATT" semparent="18" semrelate="Qp" />
+                <word id="18" cont="书" pos="n" ne="O" parent="15" relate="VOB" semparent="15" semrelate="Pat" />
+                <word id="19" cont="," pos="wp" ne="O" parent="15" relate="WP" semparent="15" semrelate="mPunc" />
+                <word id="20" cont="一共" pos="d" ne="O" parent="21" relate="ADV" semparent="21" semrelate="mDegr" />
+                <word id="21" cont="需要" pos="v" ne="O" parent="15" relate="COO" semparent="15" semrelate="eSucc">
+                    <arg id="0" type="ADV" beg="20" end="20" />
+                    <arg id="1" type="A1" beg="22" end="22" />
+                </word>
+                <word id="22" cont="多少" pos="r" ne="O" parent="23" relate="ATT" semparent="23" semrelate="Quan" />
+                <word id="23" cont="本" pos="q" ne="O" parent="21" relate="VOB" semparent="21" semrelate="Cont" />
+                <word id="24" cont="?" pos="wp" ne="O" parent="5" relate="WP" semparent="21" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

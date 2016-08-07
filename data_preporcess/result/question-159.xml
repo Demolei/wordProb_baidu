@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="y" semparser="y" wsd="n" srl="y" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="小明身高110厘米,张云比小明高20厘米,小林比张云矮30厘米,小林身高多少厘米?">
+                <word id="0" cont="小明" pos="nh" ne="S-Nh" parent="1" relate="ATT" semparent="7" semrelate="mPars" />
+                <word id="1" cont="身高" pos="n" ne="O" parent="3" relate="SBV" semparent="3" semrelate="Feat" />
+                <word id="2" cont="110" pos="m" ne="O" parent="3" relate="ATT" semparent="3" semrelate="Quan" />
+                <word id="3" cont="厘米" pos="q" ne="O" parent="-1" relate="HED" semparent="0" semrelate="eEqu" />
+                <word id="4" cont="," pos="wp" ne="O" parent="3" relate="WP" semparent="0" semrelate="mPunc" />
+                <word id="5" cont="张云比" pos="nh" ne="O" parent="6" relate="ATT" semparent="6" semrelate="Nmod" />
+                <word id="6" cont="小明" pos="nh" ne="S-Nh" parent="7" relate="SBV" semparent="7" semrelate="Exp" />
+                <word id="7" cont="高" pos="a" ne="O" parent="3" relate="COO" semparent="-1" semrelate="Root">
+                    <arg id="0" type="A0" beg="5" end="6" />
+                    <arg id="1" type="A1" beg="8" end="8" />
+                </word>
+                <word id="8" cont="20" pos="m" ne="O" parent="9" relate="ATT" semparent="9" semrelate="Quan" />
+                <word id="9" cont="厘米" pos="q" ne="O" parent="7" relate="VOB" semparent="7" semrelate="Qp" />
+                <word id="10" cont="," pos="wp" ne="O" parent="7" relate="WP" semparent="7" semrelate="mPunc" />
+                <word id="11" cont="小林" pos="nh" ne="S-Nh" parent="12" relate="SBV" semparent="14" semrelate="Agt" />
+                <word id="12" cont="比" pos="p" ne="O" parent="7" relate="COO" semparent="13" semrelate="mPrep" />
+                <word id="13" cont="张云矮" pos="nh" ne="S-Nh" parent="12" relate="POB" semparent="14" semrelate="Comp" />
+                <word id="14" cont="30" pos="m" ne="O" parent="15" relate="ATT" semparent="15" semrelate="Quan" />
+                <word id="15" cont="厘米" pos="q" ne="O" parent="12" relate="VOB" semparent="7" semrelate="eSucc" />
+                <word id="16" cont="," pos="wp" ne="O" parent="12" relate="WP" semparent="15" semrelate="mPunc" />
+                <word id="17" cont="小林" pos="nh" ne="S-Nh" parent="18" relate="ATT" semparent="18" semrelate="Poss" />
+                <word id="18" cont="身高" pos="n" ne="O" parent="20" relate="SBV" semparent="20" semrelate="Exp" />
+                <word id="19" cont="多少" pos="r" ne="O" parent="20" relate="ATT" semparent="20" semrelate="Quan" />
+                <word id="20" cont="厘米" pos="q" ne="O" parent="7" relate="COO" semparent="15" semrelate="eSucc" />
+                <word id="21" cont="?" pos="wp" ne="O" parent="3" relate="WP" semparent="20" semrelate="mPunc" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
